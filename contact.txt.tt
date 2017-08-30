@@ -1,0 +1,9 @@
+ADAPT Contact Form Message
+
+This was send by: [% name %]
+
+The message for you is:
+[% message %]
+
+
+

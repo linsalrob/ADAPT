@@ -1,0 +1,2613 @@
+accession	nid	size	phylum	genus	species	strain	trophic	pathogenic
+AB028081	AB028081.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AF100950	g4868004	293	Actinobacteria	Tropheryma	whippelii		h	p
+AB028082	AB028082.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028083	AB028083.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AF100951	g4868005	293	Actinobacteria	Tropheryma	whippelii		h	p
+AB028084	AB028084.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028085	AB028085.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028086	AB028086.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028087	AB028087.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028088	AB028088.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028089	AB028089.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028090	AB028090.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028091	AB028091.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028092	AB028092.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028093	AB028093.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AB028094	AB028094.1 GI:50517	418	Firmicutes	Ureaplasma	urealyticum		h	p
+AF489598	AF489598.1 GI:19550	595	Firmicutes	Streptococcus	equi	19	h	p
+AF489610	AF489610.1 GI:19550	532	Firmicutes	Streptococcus	suis	33	h	p
+AF098257	g3873272	464	Proteobacteria	Pseudomonas	syringae	36	h	u
+AF098251	g3873266	450	Proteobacteria	Pseudomonas	syringae	60	h	u
+AF489603	AF489603.1 GI:19550	586	Firmicutes	Streptococcus	porcinus	61	h	p
+AF098252	g3873267	450	Proteobacteria	Pseudomonas	syringae	70	h	u
+AF291411	AF291411.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	090	h	p
+AF098249	g3873264	452	Proteobacteria	Pseudomonas	syringae	212	h	u
+AF098255	g3873270	464	Proteobacteria	Pseudomonas	syringae	216	h	u
+AJ420050	AJ420050.1 GI:18496	371	Firmicutes	Bacillus	anthracis	282	h	p
+AF489597	AF489597.1 GI:19550	415	Firmicutes	Streptococcus	pyogenes	282	h	p
+AF098250	g3873265	452	Proteobacteria	Pseudomonas	syringae	285	h	u
+AF098253	g3873268	452	Proteobacteria	Pseudomonas	syringae	308	h	u
+AF098254	g3873269	450	Proteobacteria	Pseudomonas	syringae	328	h	u
+AF098258	g3873273	452	Proteobacteria	Pseudomonas	syringae	357	h	u
+AF098259	g3873274	452	Proteobacteria	Pseudomonas	syringae	359	h	u
+AF489611	AF489611.1 GI:19550	404	Firmicutes	Streptococcus	suis	428	h	p
+AF489600	AF489600.1 GI:19550	588	Firmicutes	Streptococcus	equi	500	h	p
+AF098256	g3873271	450	Proteobacteria	Pseudomonas	syringae	539	h	u
+AF209767	AF209767.1 GI:17026	494	Proteobacteria	Xanthomonas	axonopodis	592	h	u
+AF489599	AF489599.1 GI:19550	416	Firmicutes	Streptococcus	equi	613	h	p
+AF033087	AF033087.1 GI:26890	407	Proteobacteria	Actinobacillus	pleuropneumoniae	634	h	p
+AF033088	AF033088.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	658	h	p
+AF033069	AF033069.1 GI:26890	531	Proteobacteria	Actinobacillus	pleuropneumoniae	658	h	p
+AJ420049	AJ420049.1 GI:18496	371	Firmicutes	Bacillus	anthracis	663	h	p
+AB019250	g3821805	361	Firmicutes	Erysipelothrix	rhusiopathiae	715	h	u
+AF489613	AF489613.1 GI:19550	406	Firmicutes	Streptococcus	suis	735	h	p
+AF033089	AF033089.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	761	h	p
+AF033090	g2689022	408	Proteobacteria	Actinobacillus	pleuropneumoniae	785	h	p
+AJ315573	AJ315573.1 GI:14422	273	Actinobacteria	Mycobacterium	marinum	1160	h	p
+X74223	g410491	219	Firmicutes	Lactobacillus	hetero	1198	h	n
+AJ237901	AJ237901.1 GI:64917	496	Nitrospirae	Leptospirillum	sp	2391	a	u
+AF291414	AF291414.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	3139	h	p
+AF033070	AF033070.1 GI:26890	531	Proteobacteria	Actinobacillus	pleuropneumoniae	3906	h	p
+AF489612	AF489612.1 GI:19550	290	Firmicutes	Streptococcus	suis	6407	h	p
+AB051014	AB051014.1 GI:17298	407	Firmicutes	Streptococcus	sobrinus	6715	h	p
+AF291418	AF291418.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	7271	h	p
+AJ420048	AJ420048.1 GI:18496	371	Firmicutes	Bacillus	anthracis	7700	h	p
+AB026202	AB026202.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	8722	h	u
+AB026212	AB026212.1 GI:66836	313	Actinobacteria	Streptomyces	scabies	8770	h	u
+AB026213	AB026213.1 GI:66836	313	Actinobacteria	Streptomyces	scabies	8776	h	u
+AB026209	AB026209.1 GI:66836	311	Actinobacteria	Streptomyces	scabies	8779	h	u
+X74224	g410492	215	Firmicutes	Lactobacillus	hetero	12118	h	n
+AF118635	g4249740	729	Bacteroidetes/Chlorobi	Porphyromonas	gingivalis	33277	h	u
+AF118634	g4249739	735	Bacteroidetes/Chlorobi	Porphyromonas	gingivalis	49417	h	u
+AF033085	AF033085.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	56153	h	p
+AB026208	AB026208.1 GI:66836	311	Actinobacteria	Streptomyces	scabies	84102	h	u
+AB026207	AB026207.1 GI:66836	311	Actinobacteria	Streptomyces	scabies	84174	h	u
+AB026203	AB026203.1 GI:66836	307	Actinobacteria	Streptomyces	scabies	84232	h	u
+AF324463	AF324463.1 GI:13123	285	Firmicutes	Streptococcus	canis	113/38	h	p
+D64126	g1644201	165	Firmicutes	Bacillus	subtilis	168	h	n
+D88802	D88802.1 GI:1945083	168	Firmicutes	Bacillus	subtilis	168	h	n
+J01551	g143734	344	Firmicutes	Bacillus	subtilis	168	h	n
+U68431	g1943878	225	Chlamydiae	Chlamydia	pecorum	1710S	h	p
+AF489592	AF489592.1 GI:19550	280	Firmicutes	Streptococcus	agalactiae	18RS21	h	p
+AF291413	AF291413.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	18RS21	h	p
+AJ251906	AJ251906.1 GI:98445	530	Proteobacteria	Pseudomonas	stutzeri	19SMN4	h	u
+AB030567	AB030567.1 GI:56726	300	Actinobacteria	Streptomyces	griseus	2247	h	u
+AB030568	AB030568.1 GI:56726	300	Actinobacteria	Streptomyces	griseus	2247	h	u
+AB030569	AB030569.1 GI:56726	300	Actinobacteria	Streptomyces	griseus	2247	h	u
+AB030570	AB030570.1 GI:56726	300	Actinobacteria	Streptomyces	griseus	2247	h	u
+AB030571	AB030571.1 GI:56726	304	Actinobacteria	Streptomyces	griseus	2247	h	u
+AB030572	AB030572.1 GI:56726	300	Actinobacteria	Streptomyces	griseus	2247	h	u
+AF073209	g4587899	510	Proteobacteria	Xylella	fastidiosa	2-4	h	p
+AF489595	AF489595.1 GI:19550	285	Firmicutes	Streptococcus	dysgalactiae	24/52	h	p
+AJ298749	AJ298749.1 GI:17932	708	Proteobacteria	Nitrosospira	sp	24C	h	u
+D63689	g944980	303	Firmicutes	Ureaplasma	urealyticum	27	h	p
+AF093472	AF093472.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	3015-86	h	n
+AJ298750	AJ298750.1 GI:17932	643	Proteobacteria	Nitrosospira	sp	39-19	h	u
+AJ005554	g3063904	688	Proteobacteria	Nitrosospira	sp	40KI	h	u
+AF179000	AF179000.1 GI:66938	534	Actinobacteria	Renibacterium	salmoninarum	4451-86	h	n
+AB015357	g3551426	355	Cyanobacteria	Microcystis	sp	4A3	a	u
+AB015358	g3551427	355	Cyanobacteria	Microcystis	sp	4B3	a	u
+AF073208	g4587898	510	Proteobacteria	Xylella	fastidiosa	4S3	h	p
+AJ272271	AJ272271.1 GI:70073	270	Actinobacteria	Mycobacterium	bovis	5115/98	h	p
+AF073207	g4587897	510	Proteobacteria	Xylella	fastidiosa	5R1	h	p
+AF073206	g4587896	510	Proteobacteria	Xylella	fastidiosa	5S2	h	p
+L06305	g294378	512	Proteobacteria	Pseudomonas	fluorescens	63-28	h	n
+L06307	g294380	512	Proteobacteria	Pseudomonas	fluorescens	64-3	h	n
+AF088897	AF088897.1 GI:65807	606	Proteobacteria	Zymomonas	mobilis	65G3	h	u
+U68447	g1943887	224	Chlamydiae	Chlamydia	psittaci	6BC	h	p
+AF060176	g3719231	481	Proteobacteria	Xanthomonas	campestris	700a	h	u
+AF060177	g3719232	482	Proteobacteria	Xanthomonas	campestris	701a	h	u
+AL031031	AL031031.1 GI:32942	280	Actinobacteria	Streptomyces	coelicolor	7C7	h	u
+AF073210	g4587900	510	Proteobacteria	Xylella	fastidiosa	88-9	h	p
+AF362021	AF362021.1 GI:14149	556	Proteobacteria	Acidithiobacillus	thiooxidans	8930P	h	n
+L42259	g1477393	270	Actinobacteria	Mycobacterium	gordonae	89-676	h	p
+AF369528	AF369528.1 GI:15290	1275	Proteobacteria	Bartonella	henselae	90-615	h	p
+AF489593	AF489593.1 GI:19550	285	Firmicutes	Streptococcus	dysgalactiae	9118/77	h	p
+L42263	g1477397	280	Actinobacteria	Mycobacterium	kansasii	91-4654	h	p
+L42260	g1477394	271	Actinobacteria	Mycobacterium	gordonae	91-637	h	p
+L42264	g1477398	279	Actinobacteria	Mycobacterium	kansasii	91-771	h	p
+AF073212	g4587902	510	Proteobacteria	Xylella	fastidiosa	92-10	h	p
+AF073211	g4587901	510	Proteobacteria	Xylella	fastidiosa	92-3	h	p
+L42261	g1477395	271	Actinobacteria	Mycobacterium	gordonae	92-652	h	p
+AF073222	g4587912	509	Proteobacteria	Xylella	fastidiosa	95-9	h	p
+AF236649	AF236649.1 GI:12957	497	Cyanobacteria	Tolypothrix	distorta	96-2A	a	u
+AF236650	AF236650.1 GI:12957	400	Cyanobacteria	Scytonema	hyalinum	96-3A	a	u
+AF236651	AF236651.1 GI:12957	648	Cyanobacteria	Scytonema	hyalinum	96-3B	a	u
+AF489594	AF489594.1 GI:19550	286	Firmicutes	Streptococcus	dysgalactiae	97/31	h	p
+AF093467	AF093467.1 GI:44570	534	Actinobacteria	Renibacterium	salmoninarum	970153-19	h	n
+AF093466	AF093466.1 GI:44570	534	Actinobacteria	Renibacterium	salmoninarum	970419-1.2.3	h	n
+AF093465	AF093465.1 GI:44570	534	Actinobacteria	Renibacterium	salmoninarum	980106-1.1.5	h	n
+AF236644	AF236644.1 GI:12957	353	Cyanobacteria	Tolypothrix	distorta	98-6B	a	u
+AF236645	AF236645.1 GI:12957	412	Cyanobacteria	Tolypothrix	distorta	98-6C	a	u
+AF236646	AF236646.1 GI:12957	289	Cyanobacteria	Tolypothrix	distorta	98-9A	a	u
+AF236647	AF236647.1 GI:12957	283	Cyanobacteria	Tolypothrix	distorta	98-9B	a	u
+AF236648	AF236648.1 GI:12957	294	Cyanobacteria	Tolypothrix	distorta	98-9C	a	u
+XYLFAS001	XYLFAS001	465	Proteobacteria	Xylella	fastidiosa	9a5c	h	p
+XYLFAS002	XYLFAS002	465	Proteobacteria	Xylella	fastidiosa	9a5c	h	p
+U68438	g1943907	243	Chlamydiae	Chlamydia	trachomatis	A/Har-13	h	p
+AF151301	AF151301.1 GI:71088	142	Crenarchaeota	uncultured marine	bacterium	A1-010-1	h	n
+AF151302	AF151302.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	A1-010-2	h	n
+AF151303	AF151303.1 GI:71088	142	Crenarchaeota	uncultured marine	bacterium	A1-010-3	h	n
+AF151304	AF151304.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	A1-010-4	h	n
+AJ005548	g3063899	744	Proteobacteria	Nitrosomonas	sp	A16	h	u
+L31411	g466506	662	Proteobacteria	Neisseria	meningitidis	A2	h	p
+U68444	g1943884	222	Chlamydiae	Chlamydia	psittaci	A22	h	p
+AF151305	AF151305.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	A2-200-1	h	n
+AF151306	AF151306.1 GI:71088	142	Crenarchaeota	uncultured marine	bacterium	A2-200-2	h	n
+AF151307	AF151307.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	A2-200-3	h	n
+AJ005547	g3063898	751	Proteobacteria	Nitrosomonas	sp	A4	h	u
+D63686	g944981	301	Firmicutes	Ureaplasma	diversum	A417	h	p
+AF036708	g2766500	391	Firmicutes	Mycoplasma	gallisepticum	A5969var	h	p
+L08897	g530152	657	Firmicutes	Mycoplasma	gallisepticum	A5969var	h	p
+AF073219	g4587909	509	Proteobacteria	Xylella	fastidiosa	Acer macrophyla	h	p
+AF093464	AF093464.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	AcF6-1	h	n
+AJ299217	AJ299217.1 GI:12666	243	Euryarchaeota	Ferroglobus	placidus	AED II 12 DO	h	u
+AJ390585	AJ390585.1 GI:98446	505	Proteobacteria	Pseudomonas	stutzeri	AER2.5	h	u
+AJ390586	AJ390586.1 GI:98446	477	Proteobacteria	Pseudomonas	stutzeri	AER2.7	h	u
+AJ390587	AJ390587.1 GI:98447	529	Proteobacteria	Pseudomonas	stutzeri	AER5.1	h	u
+AJ005552	g3063902	684	Proteobacteria	Nitrosospira	sp	AF	h	u
+AF390136	AF390136.1 GI:19071	182	Firmicutes	Phytoplasma	broom	AlmWB1	h	p
+AF390137	AF390137.1 GI:19071	182	Firmicutes	Phytoplasma	broom	AlmWB2	h	p
+AF455038	AF455038.1 GI:19387	182	Firmicutes	Phytoplasma	broom	AlmWB3	h	p
+AF455039	AF455039.1 GI:19387	182	Firmicutes	Phytoplasma	broom	AlmWB4	h	p
+AF455041	AF455041.1 GI:19387	182	Firmicutes	Phytoplasma	broom	AlmWB-N1	h	p
+AF455040	AF455040.1 GI:19387	182	Firmicutes	Phytoplasma	broom	AlmWB-P1	h	p
+AF073240	g4587930	509	Proteobacteria	Xylella	fastidiosa	ALS1	h	p
+AF073243	g4587933	510	Proteobacteria	Xylella	fastidiosa	ALS2	h	p
+AF073244	g4587934	510	Proteobacteria	Xylella	fastidiosa	ALS3	h	p
+AF073245	g4587935	510	Proteobacteria	Xylella	fastidiosa	ALS4	h	p
+AF073246	g4587936	510	Proteobacteria	Xylella	fastidiosa	ALS5	h	p
+AF073247	g4587937	510	Proteobacteria	Xylella	fastidiosa	ALS6	h	p
+AF073248	g4587938	510	Proteobacteria	Xylella	fastidiosa	ALS7	h	p
+AF073249	g4587939	510	Proteobacteria	Xylella	fastidiosa	ALS9	h	p
+AJ274640	AJ274640.1 GI:64536	231	Firmicutes	Phytoplasma	bud	Alu2	h	p
+AJ274635	AJ274635.1 GI:64536	230	Firmicutes	Phytoplasma	bud	Alu3	h	p
+AJ274634	AJ274634.1 GI:64536	230	Firmicutes	Phytoplasma	bud	Alu7	h	p
+D84402	g1304026	248	Spirochaetes	Borrelia	sp	Am501	h	u
+L37574	g845217	144	Firmicutes	Bacillus	anthracis	Ames	h	p
+AJ251904	AJ251904.1 GI:98445	529	Proteobacteria	Pseudomonas	stutzeri	AN10	h	u
+AJ251905	AJ251905.1 GI:98445	528	Proteobacteria	Pseudomonas	stutzeri	AN11	h	u
+AF073215	g4587905	509	Proteobacteria	Xylella	fastidiosa	Ann1	h	p
+CHLPNE001	CHLPNE001	306	Chlamydiae	Chlamydia	pneumoniae	AR39	h	p
+AJ420068	AJ420068.1 GI:18496	366	Firmicutes	Bacillus	pseudomycoides	ARS BD10	h	p
+AF397677	AF397677.1 GI:18462	539	Cyanobacteria	Prochlorococcus	marinus	AS9601	a	n
+L42536	g840631	158	Firmicutes	Bacillus	anthracis	ASC 1	h	p
+D84403	g1304027	253	Spirochaetes	Borrelia	garinii	ASF	h	u
+AF105315	g4008075	226	Firmicutes	Phytoplasma	yellows	AshY3	h	p
+AF105316	g4008076	226	Firmicutes	Phytoplasma	yellows	AshY5	h	p
+AJ390590	AJ390590.1 GI:98447	529	Proteobacteria	Pseudomonas	stutzeri	ATC 14405	h	u
+L28156	g453546	579	Proteobacteria	Pseudomonas	gladioli	ATCC10248	h	u
+L28157	g453547	546	Proteobacteria	Pseudomonas	gladioli	ATCC10248	h	u
+AF342832	AF342832.1 GI:13447	138	Fusobacteria	Fusobacterium	nucleatum	ATCC10953	h	u
+AF329200	AF329200.1 GI:13272	231	Proteobacteria	Zymomonas	mobilis	ATCC10988	h	u
+U09511	g799151	274	Actinobacteria	Bifidobacterium	adolescentis	ATCC11146	h	u
+U09526	g799166	275	Firmicutes	Lactobacillus	sp	ATCC11147	h	n
+D87086	g1622718	497	Proteobacteria	Burkholderia	solanacearum	ATCC11696	h	u
+AJ314879	AJ314879.1 GI:14456	362	Actinobacteria	Mycobacterium	phlei	ATCC11758	h	p
+AB026218	AB026218.1 GI:66836	300	Actinobacteria	Streptomyces	scabies	ATCC12309	h	u
+AF489602	AF489602.1 GI:19550	565	Firmicutes	Streptococcus	porcinus	ATCC12390	h	p
+AF489605	AF489605.1 GI:19550	563	Firmicutes	Streptococcus	porcinus	ATCC12391	h	p
+L42262	g1477396	274	Actinobacteria	Mycobacterium	kansasii	ATCC12478	h	p
+AB026217	AB026217.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	ATCC125435	h	u
+L36472	g567883	298	Firmicutes	Staphylococcus	aureus	ATCC12600	h	p
+S51964	g262625	187	Firmicutes	Clostridium	perfringens	ATCC13124	h	p
+L28166	g453566	536	Proteobacteria	Xanthomonas	maltophilia	ATCC13637	h	u
+AF342860	AF342860.1 GI:13447	112	Fusobacteria	Leptotrichia	buccalis	ATCC14201	h	u
+AF127590	AF127590.1 GI:13270	517	Proteobacteria	Pseudomonas	reactans	ATCC14340	h	u
+AJ314880	AJ314880.1 GI:14456	365	Actinobacteria	Mycobacterium	smegmatis	ATCC14468	h	p
+L42258	g1477392	272	Actinobacteria	Mycobacterium	gordonae	ATCC14470	h	p
+L37576	g845219	143	Firmicutes	Bacillus	cereus	ATCC14579	h	n
+AF413016	AF413016.1 GI:16152	730	Proteobacteria	Vibrio	proteolyticus	ATCC15338	h	p
+AF413017	AF413017.1 GI:16152	658	Proteobacteria	Vibrio	proteolyticus	ATCC15338	h	p
+AF413018	AF413018.1 GI:16152	563	Proteobacteria	Vibrio	proteolyticus	ATCC15338	h	p
+AJ314882	AJ314882.1 GI:14456	410	Actinobacteria	Mycobacterium	vaccae	ATCC15483	h	p
+AF132740	g6066195	253	Firmicutes	Mycoplasma	pneumoniae	ATCC15531	h	p
+U09792	g1302621	477	Actinobacteria	Bifidobacterium	infantis	ATCC15697	h	u
+U09518	g799158	488	Actinobacteria	Bifidobacterium	breve	ATCC15698	h	u
+U09832	g799170	476	Actinobacteria	Bifidobacterium	longum	ATCC15708	h	u
+AF017499	g2738846	386	Actinobacteria	Nocardioides	simplex	ATCC15799	h	u
+AJ279245	AJ279245.1 GI:98446	587	Proteobacteria	Pseudomonas	pseudoalcaligenes	ATCC17440	h	u
+AJ251902	AJ251902.1 GI:98445	529	Proteobacteria	Pseudomonas	stutzeri	ATCC17587	h	u
+AJ251901	AJ251901.1 GI:98445	529	Proteobacteria	Pseudomonas	stutzeri	ATCC17591	h	u
+AJ251900	AJ251900.1 GI:98445	505	Proteobacteria	Pseudomonas	stutzeri	ATCC17594	h	u
+AF429304	AF429304.1 GI:16923	283	Proteobacteria	Vibrio	parahaemolyticus	ATCC17802	h	p
+U60281	g1755057	608	Proteobacteria	Acinetobacter	sp	ATCC17903	h	n
+U60280	g1755056	622	Proteobacteria	Acinetobacter	sp	ATCC19004	h	n
+AJ314884	AJ314884.1 GI:14456	281	Actinobacteria	Mycobacterium	scrofulaceum	ATCC19073	h	p
+AF413025	AF413025.1 GI:16152	708	Proteobacteria	Vibrio	tubiashii	ATCC19105	h	p
+AF413026	AF413026.1 GI:16152	707	Proteobacteria	Vibrio	tubiashii	ATCC19105	h	p
+L05172	g149681	243	Firmicutes	Listeria	monocytogenes	ATCC1918	h	p
+L26327	g496111	275	Actinobacteria	Mycobacterium	bovis	ATCC19210	h	p
+AJ314873	AJ314873.1 GI:14456	296	Actinobacteria	Mycobacterium	chelonae	ATCC19235	h	p
+AJ314877	AJ314877.1 GI:14456	397	Actinobacteria	Mycobacterium	diernhoferi	ATCC19340	h	p
+AB019247	g3821802	361	Firmicutes	Erysipelothrix	rhusiopathiae	ATCC19414	h	u
+L26329	g496113	275	Actinobacteria	Mycobacterium	microti	ATCC19422	h	p
+X87180	g1848167	344	Firmicutes	Enterococcus	faecium	ATCC19434	h	p
+L28148	g453538	468	Proteobacteria	Pseudomonas	aeruginosa	ATCC19660	h	p
+L28149	g453539	468	Proteobacteria	Pseudomonas	aeruginosa	ATCC19660	h	p
+L28150	g453540	469	Proteobacteria	Pseudomonas	aeruginosa	ATCC19660	h	p
+AF362022	AF362022.1 GI:14149	443	Proteobacteria	Acidithiobacillus	ferrooxidans	ATCC19859	h	n
+AJ314870	AJ314870.1 GI:14456	299	Actinobacteria	Mycobacterium	abscessus	ATCC19977	h	p
+AJ314881	AJ314881.1 GI:14456	365	Actinobacteria	Mycobacterium	smegmatis	ATCC19980	h	p
+AJ314869	AJ314869.1 GI:14456	299	Actinobacteria	Mycobacterium	abscessus	ATCC23003	h	p
+AJ314878	AJ314878.1 GI:14456	363	Actinobacteria	Mycobacterium	phlei	ATCC23042	h	p
+D87085	g1622717	624	Proteobacteria	Burkholderia	andropogonis	ATCC23061	h	n
+AJ315574	AJ315574.1 GI:14422	272	Actinobacteria	Mycobacterium	gordonae	ATCC23283	h	p
+L28164	g453554	603	Proteobacteria	Pseudomonas	pseudomallei	ATCC23343	h	u
+L28165	g453555	641	Proteobacteria	Pseudomonas	pseudomallei	ATCC23343	h	u
+L28158	g453548	603	Proteobacteria	Pseudomonas	mallei	ATCC23344	h	u
+AJ278725	AJ278725.1 GI:12044	440	Proteobacteria	Acidithiobacillus	ferrooxidans	ATCC2370T	h	n
+AF342830	AF342830.1 GI:13447	126	Fusobacteria	Fusobacterium	nucleatum	ATCC23726	h	u
+AY027681	AY027681.1 GI:14276	306	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AY027682	AY027682.1 GI:14276	303	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AY027683	AY027683.1 GI:14276	299	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AY027684	AY027684.1 GI:14276	303	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AY027685	AY027685.1 GI:14276	301	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AY027686	AY027686.1 GI:14276	300	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+M27245	g341664	303	Actinobacteria	Streptomyces	ambofaciens	ATCC23877	h	u
+AB026703	AB026703.1 GI:67293	279	Actinobacteria	Mycobacterium	asiaticum	ATCC25274	h	p
+AF342842	AF342842.1 GI:13447	141	Fusobacteria	Fusobacterium	necrophorum	ATCC25286	h	u
+L28159	g453549	511	Proteobacteria	Pseudomonas	mendocina	ATCC25411	h	u
+L28160	g453550	514	Proteobacteria	Pseudomonas	mendocina	ATCC25411	h	u
+L28161	g453551	514	Proteobacteria	Pseudomonas	mendocina	ATCC25411	h	u
+L28162	g453552	516	Proteobacteria	Pseudomonas	mendocina	ATCC25411	h	u
+L26330	g496114	275	Actinobacteria	Mycobacterium	africanum	ATCC25420	h	p
+U09528	g799168	478	Actinobacteria	Bifidobacterium	thermophilum	ATCC25525	h	u
+U09879	g799172	541	Actinobacteria	Bifidobacterium	pseudolongum	ATCC25526	h	u
+U09858	g497262	509	Actinobacteria	Bifidobacterium	animalis	ATCC25527	h	u
+AF342841	AF342841.1 GI:13447	117	Fusobacteria	Fusobacterium	russii	ATCC25533	h	u
+AF342856	AF342856.1 GI:13447	210	Fusobacteria	Fusobacterium	necrogenes	ATCC25556	h	u
+AF342849	AF342849.1 GI:13447	170	Fusobacteria	Fusobacterium	mortiferum	ATCC25557	h	u
+AF342846	AF342846.1 GI:13447	135	Fusobacteria	Fusobacterium	gonidiaformans	ATCC25563	h	u
+AF342829	AF342829.1 GI:13447	137	Fusobacteria	Fusobacterium	nucleatum	ATCC25586	h	u
+L28151	g453541	587	Proteobacteria	Pseudomonas	cepacia	ATCC25609	h	p
+L28152	g453542	529	Proteobacteria	Pseudomonas	cepacia	ATCC25609	h	p
+L28153	g453543	529	Proteobacteria	Pseudomonas	cepacia	ATCC25609	h	p
+L28154	g453544	530	Proteobacteria	Pseudomonas	cepacia	ATCC25609	h	p
+L28155	g453545	393	Proteobacteria	Pseudomonas	cepacia	ATCC25609	h	p
+AF342840	AF342840.1 GI:13447	125	Fusobacteria	Fusobacterium	naviforme	ATCC25832	h	u
+U09524	g799164	548	Actinobacteria	Bifidobacterium	pseudolongum	ATCC25865	h	u
+U09516	g799156	452	Actinobacteria	Bifidobacterium	asteroides	ATCC25910	h	u
+U09523	g799163	459	Actinobacteria	Bifidobacterium	coryneforme	ATCC25911	h	u
+U09791	g1302620	471	Actinobacteria	Bifidobacterium	indicum	ATCC25912	h	u
+AF412990	Vibrio campbellii	279	Proteobacteria	Vibrio	campbellii	ATCC25920	h	p
+AF412996	AF412996.1 GI:16152	542	Proteobacteria	Vibrio	campbellii	ATCC25920	h	p
+AF412997	AF412997.1 GI:16152	278	Proteobacteria	Vibrio	campbellii	ATCC25920	h	p
+D14527	g286118	295	Firmicutes	Mycoplasma	pirum	ATCC25960	h	p
+U09525	g799165	263	Actinobacteria	Bifidobacterium	infantis	ATCC25962	h	u
+AF413009	AF413009.1 GI:16152	492	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413010	AF413010.1 GI:16152	729	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413011	AF413011.1 GI:16152	766	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413012	AF413012.1 GI:16152	800	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413014	AF413014.1 GI:16152	474	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413015	AF413015.1 GI:16152	570	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF413013	AF413013.1 GI:16152	472	Proteobacteria	Vibrio	nigripulchritudo	ATCC27043	h	n
+AF033075	AF033075.1 GI:26890	423	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27088T	h	p
+AF033061	AF033061.1 GI:26889	531	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27088T	h	p
+AF033076	AF033076.1 GI:26890	407	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27089	h	p
+AF033062	AF033062.1 GI:26889	513	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27089	h	p
+AF033063	AF033063.1 GI:26889	551	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27090	h	p
+AF033078	g2689010	445	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC27090	h	p
+AB026219	AB026219.1 GI:66836	308	Actinobacteria	Streptomyces	scabies	ATCC27449	h	u
+L28163	g453553	513	Proteobacteria	Pseudomonas	pickettii	ATCC27511	h	u
+U10434	g799173	494	Actinobacteria	Bifidobacterium	dentium	ATCC27534	h	u
+U09515	g799155	472	Actinobacteria	Bifidobacterium	angulatum	ATCC27535	h	u
+L36967	g558496	506	Actinobacteria	Bifidobacterium	animalis	ATCC27536	h	u
+U09522	g799162	492	Actinobacteria	Bifidobacterium	catenulatum	ATCC27539	h	u
+U09878	g799171	391	Actinobacteria	Bifidobacterium	magnum	ATCC27540	h	u
+AF059330	g4106119	302	Firmicutes	Ureaplasma	urealyticum	ATCC27618	h	p
+AF342855	AF342855.1 GI:13447	170	Fusobacteria	Fusobacterium	varium	ATCC27725	h	u
+AF342859	AF342859.1 GI:13447	213	Fusobacteria	Fusobacterium	prausnitzii	ATCC27766	h	u
+AF342858	AF342858.1 GI:13447	213	Fusobacteria	Fusobacterium	prausnitzii	ATCC27768	h	u
+AF059322	g4106111	301	Firmicutes	Ureaplasma	urealyticum	ATCC27813	h	p
+AF059326	g4106115	302	Firmicutes	Ureaplasma	urealyticum	ATCC27814	h	p
+AF059323	g4106112	301	Firmicutes	Ureaplasma	urealyticum	ATCC27815	h	p
+AF059328	g4106117	310	Firmicutes	Ureaplasma	urealyticum	ATCC27816	h	p
+AF059327	g4106116	310	Firmicutes	Ureaplasma	urealyticum	ATCC27817	h	p
+AF059324	g4106113	301	Firmicutes	Ureaplasma	urealyticum	ATCC27818	h	p
+AF059329	g4106118	310	Firmicutes	Ureaplasma	urealyticum	ATCC27819	h	p
+AF342844	AF342844.1 GI:13447	141	Fusobacteria	Fusobacterium	necrophorum	ATCC27852	h	u
+U09790	g1302619	490	Actinobacteria	Bifidobacterium	cuniculi	ATCC27916	h	u
+AF329201	AF329201.1 GI:13272	231	Proteobacteria	Zymomonas	mobilis	ATCC29191	h	u
+AF329202	AF329202.1 GI:13272	231	Proteobacteria	Zymomonas	mobilis	ATCC29192	h	u
+AF342857	AF342857.1 GI:13447	138	Fusobacteria	Fusobacterium	perfoetens	ATCC29250	h	u
+AF132741	g6066196	253	Firmicutes	Mycoplasma	pneumoniae	ATCC29342	h	p
+U07778	g466263	385	Proteobacteria	Haemophilus	actinomycetemcomitans	ATCC29522	h	p
+U07776	g466261	252	Proteobacteria	Haemophilus	actinomycetemcomitans	ATCC29523	h	p
+AJ274376	AJ274376.1 GI:64256	350	Proteobacteria	Photobacterium	damselae	ATCC29690	h	u
+D87087	g1622719	496	Proteobacteria	Pseudomonas	corrugata	ATCC29736	h	u
+AJ278724	AJ278724.1 GI:12044	454	Proteobacteria	Acidithiobacillus	ferrooxidans	ATCC33020	h	n
+AF413022	AF413022.1 GI:16152	394	Proteobacteria	Vibrio	splendidus	ATCC33125	h	p
+AF413023	AF413023.1 GI:16152	278	Proteobacteria	Vibrio	splendidus	ATCC33125	h	p
+AF413024	AF413024.1 GI:16152	448	Proteobacteria	Vibrio	splendidus	ATCC33125	h	p
+AF413021	AF413021.1 GI:16152	394	Proteobacteria	Vibrio	splendidus	ATCC33125	h	p
+AF000655	g2130662	306	Proteobacteria	Legionella	pneumophila	ATCC33152	h	p
+AF000656	g2130663	278	Proteobacteria	Legionella	pneumophila	ATCC33156	h	p
+AF059331	g4106120	302	Firmicutes	Ureaplasma	urealyticum	ATCC33175	h	p
+AF093461	AF093461.1 GI:44570	534	Actinobacteria	Renibacterium	salmoninarum	ATCC33209	h	n
+AB026201	AB026201.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	ATCC33282	h	u
+AF033080	AF033080.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC33377	h	p
+AF033079	AF033079.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC33378	h	p
+AF033064	AF033064.1 GI:26889	513	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC33378	h	p
+U07777	g466262	253	Proteobacteria	Haemophilus	actinomycetemcomitans	ATCC33384	h	p
+AF033074	AF033074.1 GI:26890	506	Proteobacteria	Actinobacillus	suis	ATCC33415T	h	p
+AF033094	g2689026	399	Proteobacteria	Actinobacillus	suis	ATCC33415T	h	p
+AF413003	AF413003.1 GI:16152	461	Proteobacteria	Vibrio	diazotrophicus	ATCC33466	h	n
+AF413004	AF413004.1 GI:16152	564	Proteobacteria	Vibrio	diazotrophicus	ATCC33466	h	n
+AF412998	AF412998.1 GI:16152	456	Proteobacteria	Salinivibrio	costicola	ATCC33508	h	u
+AF412999	AF412999.1 GI:16152	559	Proteobacteria	Salinivibrio	costicola	ATCC33508	h	u
+AF413001	AF413001.1 GI:16152	315	Proteobacteria	Salinivibrio	costicola	ATCC33508	h	u
+AF413000	AF413000.1 GI:16152	539	Proteobacteria	Salinivibrio	costicola	ATCC33508	h	u
+AF413002	AF413002.1 GI:16152	351	Proteobacteria	Salinivibrio	costicola	ATCC33508	h	u
+AJ274377	AJ274377.1 GI:63182	296	Proteobacteria	Photobacterium	damselae	ATCC33539	h	u
+L43095	g871785	314	Actinobacteria	Clavibacter	michiganensis	ATCC33566	h	u
+AF342838	AF342838.1 GI:13447	134	Fusobacteria	Fusobacterium	simiae	ATCC33568	h	u
+AF033081	AF033081.1 GI:26890	425	Proteobacteria	Actinobacillus	pleuropneumoniae	ATCC33590	h	p
+AF127578	AF127578.1 GI:13270	513	Proteobacteria	Pseudomonas	tolaasii	ATCC33618	h	u
+AF342839	AF342839.1 GI:13447	199	Fusobacteria	Fusobacterium	periodonticum	ATCC33693	h	u
+AF059333	g4106122	310	Firmicutes	Ureaplasma	urealyticum	ATCC33695	h	p
+AF059334	g4106123	310	Firmicutes	Ureaplasma	urealyticum	ATCC33696	h	p
+AF059325	g4106114	301	Firmicutes	Ureaplasma	urealyticum	ATCC33697	h	p
+AF059335	g4106124	310	Firmicutes	Ureaplasma	urealyticum	ATCC33698	h	p
+AF059332	g4106121	310	Firmicutes	Ureaplasma	urealyticum	ATCC33699	h	p
+AF000654	g2130661	269	Proteobacteria	Legionella	pneumophila	ATCC33735	h	p
+AF413005	AF413005.1 GI:16152	482	Proteobacteria	Vibrio	fluvialis	ATCC33809	h	p
+AF413007	AF413007.1 GI:16152	710	Proteobacteria	Vibrio	fluvialis	ATCC33809	h	p
+AF413008	AF413008.1 GI:16152	557	Proteobacteria	Vibrio	fluvialis	ATCC33809	h	p
+U11778	g644549	362	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11779	g644550	457	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11780	g644551	336	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11781	g644552	476	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11782	g644553	460	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11784	g644555	551	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11785	g644556	318	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11786	g644557	473	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+U11787	g644558	335	Firmicutes	Staphylococcus	aureus	ATCC33952	h	p
+AF412991	AF412991.1 GI:16152	565	Proteobacteria	Vibrio	aestuarianus	ATCC35048	h	n
+AF412992	AF412992.1 GI:16152	564	Proteobacteria	Vibrio	aestuarianus	ATCC35048	h	n
+AF412993	AF412993.1 GI:16152	466	Proteobacteria	Vibrio	aestuarianus	ATCC35048	h	n
+AF412994	AF412994.1 GI:16152	439	Proteobacteria	Vibrio	aestuarianus	ATCC35048	h	n
+AF412995	AF412995.1 GI:16152	751	Proteobacteria	Vibrio	aestuarianus	ATCC35048	h	n
+AF489606	AF489606.1 GI:19550	704	Firmicutes	Streptococcus	porcinus	ATCC35647	h	p
+AF489607	AF489607.1 GI:19550	421	Firmicutes	Streptococcus	porcinus	ATCC35649	h	p
+L26328	g496112	275	Actinobacteria	Mycobacterium	bovis	ATCC35741	h	p
+AJ314875	AJ314875.1 GI:14456	296	Actinobacteria	Mycobacterium	chelonae	ATCC35749	h	p
+AF017504	g2738851	429	Actinobacteria	Nocardioides	sp	ATCC39419	h	u
+AF017505	g2738852	439	Actinobacteria	Nocardioides	sp	ATCC39419	h	u
+AF466818	AF466818.1 GI:18496	740	Bacteroidetes/Chlorobi	Tannerella	forsythensis	ATCC43037	h	u
+AF116559	AF116559.1 GI:59015	166	Actinobacteria	Thermomonospora	chromogena	ATCC43196	h	n
+AF116560	AF116560.1 GI:59015	802	Actinobacteria	Thermomonospora	chromogena	ATCC43196	h	n
+AF116561	AF116561.1 GI:59015	700	Actinobacteria	Thermomonospora	chromogena	ATCC43196	h	n
+AF116562	AF116562.1 GI:59015	700	Actinobacteria	Thermomonospora	chromogena	ATCC43196	h	n
+AF116563	AF116563.1 GI:59015	700	Actinobacteria	Thermomonospora	chromogena	ATCC43196	h	n
+AB019248	g3821803	361	Firmicutes	Erysipelothrix	tonsillarum	ATCC43339	h	u
+Z29326	Z29326.1 GI:440400	805	Proteobacteria	Campylobacter	jejuni	ATCC43431	h	p
+AF413019	AF413019.1 GI:16152	334	Proteobacteria	Vibrio	salmonicida	ATCC43839	h	p
+AF413020	AF413020.1 GI:16152	824	Proteobacteria	Vibrio	salmonicida	ATCC43839	h	p
+AJ314876	AJ314876.1 GI:14456	427	Actinobacteria	Mycobacterium	gilvum	ATCC43909	h	p
+AB026220	AB026220.1 GI:66836	279	Actinobacteria	Streptomyces	scabies	ATCC49003	h	u
+AB026199	AB026199.1 GI:66836	307	Actinobacteria	Streptomyces	scabies	ATCC49173	h	u
+AJ245996	AJ245996.1 GI:66893	187	Firmicutes	Spiroplasma	sp	ATCC49173	h	u
+AF033071	AF033071.1 GI:26890	554	Proteobacteria	Actinobacillus	lignieresii	ATCC49236T	h	u
+AF033092	g2689024	439	Proteobacteria	Actinobacillus	lignieresii	ATCC49236T	h	u
+AF342834	AF342834.1 GI:13447	123	Fusobacteria	Fusobacterium	nucleatum	ATCC49256	h	u
+AB031219	AB031219.1 GI:57622	638	Bacteroidetes/Chlorobi	Flavobacterium	columnare	ATCC49513	h	u
+AF342831	AF342831.1 GI:13447	125	Fusobacteria	Fusobacterium	nucleatum	ATCC51190	h	u
+AF342835	AF342835.1 GI:13447	133	Fusobacteria	Fusobacterium	nucleatum	ATCC51191	h	u
+AF342845	AF342845.1 GI:13447	141	Fusobacteria	Fusobacterium	necrophorum	ATCC51357	h	u
+U07955	g469550	382	Actinobacteria	Mycobacterium	smegmatis	ATCC607	h	p
+L37577	g845220	144	Firmicutes	Bacillus	mycoides	ATCC6462	h	p
+AB026221	AB026221.1 GI:66836	314	Actinobacteria	Streptomyces	scabies	ATCC700248	h	u
+AF342853	AF342853.1 GI:13447	170	Fusobacteria	Fusobacterium	varium	ATCC8501	h	u
+AF342854	AF342854.1 GI:13447	170	Fusobacteria	Fusobacterium	varium	ATCC8501	h	u
+U59267	g1518650	441	Actinobacteria	Brevibacterium	linens	ATCC9172	h	u
+U59268	g1518651	408	Actinobacteria	Brevibacterium	linens	ATCC9175	h	u
+AJ315572	AJ315572.1 GI:14422	273	Actinobacteria	Mycobacterium	marinum	ATCC927	h	p
+S51968	g262623	271	Firmicutes	Clostridium	difficile	ATCC9689	h	p
+AF342850	AF342850.1 GI:13447	170	Fusobacteria	Fusobacterium	mortiferum	ATCC9817	h	u
+U68453	g1943893	223	Chlamydiae	Chlamydia	psittaci	ATCCVR122	h	p
+U36945	g1244531	310	Proteobacteria	Piscirickettsia	salmonis	ATL-4-91	h	p
+AJ299219	AJ299219.1 GI:12666	228	Euryarchaeota	Archaeoglobus	profundus	AV18	h	u
+AF367165	AF367165.1 GI:14044	354	Cyanobacteria	Nodularia	sp	AV3	a	u
+AF367173	AF367173.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	AV63	a	u
+AJ274636	AJ274636.1 GI:64536	254	Firmicutes	Phytoplasma	sugarcane	AY	h	p
+AJ274637	AJ274637.1 GI:64536	252	Firmicutes	Phytoplasma	sugarcane	AY	h	p
+AJ274638	AJ274638.1 GI:64536	252	Firmicutes	Phytoplasma	sugarcane	AY	h	p
+AF322644	AF322644.1 GI:17225	247	Firmicutes	Phytoplasma	yellows	AY1	h	p
+AF322645	AF322645.1 GI:17225	247	Firmicutes	Phytoplasma	yellows	AY1	h	p
+U68440	g1943908	243	Chlamydiae	Chlamydia	trachomatis	B/TW-5/OT	h	p
+AF151308	AF151308.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	B-015-1	h	n
+AF151309	AF151309.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	B-015-2	h	n
+AF151310	AF151310.1 GI:71088	136	Crenarchaeota	uncultured marine	bacterium	B-015-3	h	n
+U00014	U00014.1 GI:466903	260	Actinobacteria	Mycobacterium	leprae	B1549	h	p
+U68445	g2213647	222	Chlamydiae	Chlamydia	psittaci	B577	h	p
+AJ005553	g3063903	685	Proteobacteria	Nitrosospira	sp	B6	h	u
+L35102	g984026	1258	Proteobacteria	Bartonella	vinsonii	Baker	h	u
+AB015377	g3551446	359	Cyanobacteria	Microcystis	novacekii	BC18	a	u
+M20940	g150001	276	Actinobacteria	Mycobacterium	bovis	BCG	h	p
+AF330246	AF330246.1 GI:18033	1031	Cyanobacteria	Synechococcus	sp	BGS171	a	n
+Y14645	Y14645.1 GI:2370395	255	Firmicutes	Phytoplasma	sp	BGWL	h	p
+Y15859	g2689253	241	Firmicutes	Phytoplasma	sp	BGWL	h	p
+U62440	g1556476	443	Actinobacteria	Brevibacterium	linens	BL102	h	u
+U62441	g1556477	436	Actinobacteria	Brevibacterium	linens	BL104	h	u
+AJ420059	AJ420059.1 GI:18496	375	Firmicutes	Bacillus	thuringiensis	BMG1.7	h	p
+AF317071	AF317071.1 GI:16588	975	Cyanobacteria	Synechococcus	sp	BO8801	a	n
+AF317073	AF317073.1 GI:16588	850	Cyanobacteria	Synechococcus	sp	BO8805	a	n
+AF317072	AF317072.1 GI:16588	1019	Cyanobacteria	Synechococcus	sp	BO8806	a	n
+AF317074	AF317074.1 GI:16588	909	Cyanobacteria	Synechococcus	sp	BO8807	a	n
+AF317075	AF317075.1 GI:16588	912	Cyanobacteria	Synechococcus	sp	BO9404	a	n
+AF317077	AF317077.1 GI:16588	1016	Cyanobacteria	Synechococcus	sp	BO981502	a	n
+AF317078	AF317078.1 GI:16588	1017	Cyanobacteria	Synechococcus	sp	BO983115	a	n
+AF317079	AF317079.1 GI:16588	980	Cyanobacteria	Synechococcus	sp	BO984127	a	n
+Y15863	g3077641	280	Firmicutes	Phytoplasma	sp	BoLL	h	p
+U68432	g1943879	225	Chlamydiae	Chlamydia	pecorum	BP1	h	p
+AF330254	AF330254.1 GI:18033	1014	Cyanobacteria	Synechococcus	sp	BS20	a	n
+AF330252	AF330252.1 GI:18033	884	Cyanobacteria	Synechococcus	sp	BS4	a	n
+AF330253	AF330253.1 GI:18033	884	Cyanobacteria	Synechococcus	sp	BS5	a	n
+AJ420058	AJ420058.1 GI:18496	369	Firmicutes	Bacillus	thuringiensis	Bt14	h	p
+AF324181	AF324181.1 GI:15077	823	Proteobacteria	Bradyrhizobium	sp	BTA1	h	n
+AF466819	AF466819.1 GI:18496	588	Bacteroidetes/Chlorobi	Bacteroides	forsythus	BU063	h	u
+AF367174	AF367174.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	BY1	a	u
+AF093462	AF093462.1 GI:44570	534	Actinobacteria	Renibacterium	salmoninarum	BY1996	h	n
+AF397705	AF397705.1 GI:18463	732	Cyanobacteria	Synechococcus	sp	C20	a	n
+AF312498	AF312498.1 GI:15277	1478	Proteobacteria	Bartonella	clarridgeiae	C23	h	u
+AF312499	AF312499.1 GI:15277	1499	Proteobacteria	Bartonella	clarridgeiae	C44	h	u
+AF312500	AF312500.1 GI:15277	1144	Proteobacteria	Bartonella	clarridgeiae	C48	h	u
+AF312501	AF312501.1 GI:15277	1558	Proteobacteria	Bartonella	clarridgeiae	C49	h	u
+AJ315575	AJ315575.1 GI:14422	271	Actinobacteria	Mycobacterium	gordonae	C55	h	p
+AJ314885	VERSION AJ314885	281	Actinobacteria	Mycobacterium	scrofulaceum	C58	h	p
+AJ314887	AJ314887.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C59	h	p
+AJ314888	AJ314888.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C60	h	p
+AJ314889	AJ314889.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C61	h	p
+AJ314890	AJ314890.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C63	h	p
+AJ314891	AJ314891.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C65	h	p
+AJ314892	AJ314892.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C66	h	p
+AJ314893	AJ314893.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C67	h	p
+AJ314894	AJ314894.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C68	h	p
+AJ314895	AJ314895.1 GI:14456	274	Actinobacteria	Mycobacterium	kansasii	C69	h	p
+AJ307713	AJ307713.1 GI:14349	275	Actinobacteria	Mycobacterium	tuberculosis	C72	h	p
+AJ315568	AJ315568.1 GI:14422	275	Actinobacteria	Mycobacterium	tuberculosis	C73	h	p
+AF312502	AF312502.1 GI:15277	1203	Proteobacteria	Bartonella	clarridgeiae	C78	h	u
+AJ314871	AJ314871.1 GI:14456	299	Actinobacteria	Mycobacterium	abscessus	C93327	h	p
+AJ314872	AJ314872.1 GI:14456	299	Actinobacteria	Mycobacterium	abscessus	C93328	h	p
+AB031584	AB031584.1 GI:58214	375	Firmicutes	Mycoplasma	capricolum	Cailfornia Kid	h	p
+AF369527	AF369527.1 GI:15290	1262	Proteobacteria	Bartonella	henselae	CAL-1	h	p
+L00194	g144276	653	Proteobacteria	Caulobacter	crescentus	CB13	h	u
+AF495882	AF495882.1 GI:20257	199	Firmicutes	Phytoplasma	yellows	CbY1	h	p
+AB015383	g3551452	363	Cyanobacteria	Microcystis	aeruginosa	CC!	a	u
+AB015378	g3551447	359	Cyanobacteria	Microcystis	novacekii	CC2	a	u
+AF284450	AF284450.1 GI:14582	1162	Proteobacteria	Sinorhizobium	xinjiangense	CCBAU 110	h	u
+AF033083	AF033083.1 GI:26890	407	Proteobacteria	Actinobacillus	pleuropneumoniae	CCM3803	h	p
+AF033066	AF033066.1 GI:26889	513	Proteobacteria	Actinobacillus	pleuropneumoniae	CCM3803	h	p
+AF033084	AF033084.1 GI:26890	424	Proteobacteria	Actinobacillus	pleuropneumoniae	CCM6279	h	p
+AF033067	AF033067.1 GI:26889	531	Proteobacteria	Actinobacillus	pleuropneumoniae	CCM6279	h	p
+AF033068	AF033068.1 GI:26890	531	Proteobacteria	Actinobacillus	pleuropneumoniae	CCM6311	h	p
+AF397701	AF397701.1 GI:18463	665	Cyanobacteria	Prochlorococcus	marinus	CCMP1375	a	n
+AF397673	AF397673.1 GI:18462	547	Cyanobacteria	Prochlorococcus	marinus	CCMP1378	a	n
+AF091800	g3955335	212	Proteobacteria	Rhizobium	tropici	CCT 4160T	h	n
+AF091801	g3834600	736	Proteobacteria	Rhizobium	tropici	CCT 4160T	h	n
+AF091798	g3955332	130	Proteobacteria	Rhizobium	tropici	CCT 4164	h	n
+AF091788	g3955318	784	Proteobacteria	Rhizobium	leguminosarum	CCT 4168T	h	n
+AF091789	g3834588	743	Proteobacteria	Rhizobium	leguminosarum	CCT 4168T	h	n
+AF091790	g3955320	749	Proteobacteria	Rhizobium	leguminosarum	CCT 4179	h	n
+AF091791	g3834590	723	Proteobacteria	Rhizobium	leguminosarum	CCT 4179	h	n
+AF091794	AF091794.1 GI:39553	741	Proteobacteria	Agrobacterium	rhizogenes	CCT 4832T	h	p
+AF091795	g3834594	716	Proteobacteria	Agrobacterium	rhizogenes	CCT 4832T	h	p
+AF091796	AF091796.1 GI:39553	790	Proteobacteria	Agrobacterium	rhizogenes	CCT 4842	h	p
+AF091797	g3834596	762	Proteobacteria	Agrobacterium	rhizogenes	CCT 4842	h	p
+AF091792	g3955323	783	Proteobacteria	Rhizobium	leguminosarum	CCT 5087T	h	n
+AF091793	g3834592	759	Proteobacteria	Rhizobium	leguminosarum	CCT 5087T	h	n
+AF091799	g3834598	722	Proteobacteria	Rhizobium	tropici	CCT 4164	h	n
+AJ251910	AJ251910.1 GI:98445	505	Proteobacteria	Pseudomonas	stutzeri	CCUG 11256-T	h	u
+AF291173	AF291173.1 GI:99315	576	Euryarchaeota	uncultured	haloarchaeon	CDI-271	h	n
+AF291174	AF291174.1 GI:99315	450	Euryarchaeota	uncultured	haloarchaeon	CDII-272	h	n
+AF291175	AF291175.1 GI:99315	503	Euryarchaeota	uncultured	haloarchaeon	CDIII-273	h	n
+AJ279241	AJ279241.1 GI:98446	324	Proteobacteria	Pseudomonas	fragi	CECT 446	h	u
+AB026206	AB026206.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	CEK-037	h	u
+AJ420071	AJ420071.1 GI:18496	144	Firmicutes	Bacillus	anthracis	Cepanzo	h	p
+AB066098	AB066098.1 GI:14717	720	Proteobacteria	Campylobacter	lari	CF89-12	h	p
+D89504	g1752790	211	Firmicutes	Mycoplasma	buccale	CH20247	h	p
+AF237650	AF237650.1 GI:73302	513	Proteobacteria	Xylella	fastidiosa	CI11067	h	p
+AF203393	AF203393.1 GI:65732	512	Proteobacteria	Xylella	fastidiosa	CI52	h	p
+AF203394	AF203394.1 GI:65732	511	Proteobacteria	Xylella	fastidiosa	CI52	h	p
+AF203395	AF203395.1 GI:65732	512	Proteobacteria	Xylella	fastidiosa	CI52	h	p
+AF203396	AF203396.1 GI:65732	523	Proteobacteria	Xylella	fastidiosa	CI52	h	p
+AF203397	AF203397.1 GI:65732	512	Proteobacteria	Xylella	fastidiosa	CI52	h	p
+AF271645	AF271645.1 GI:15080	1072	Proteobacteria	Rhizobium	tropici	CIAT 899	h	n
+L36968	g558497	552	Actinobacteria	Bifidobacterium	choerinum	CIP103378	h	u
+Y11738	g3127909	347	Proteobacteria	Haemophilus	ducreyi	CIP542	h	p
+U09517	g799157	499	Actinobacteria	Bifidobacterium	bifidum	CIP567	h	u
+U09527	g799167	443	Actinobacteria	Bifidobacterium	infantis	CIP6378	h	u
+U09512	g799152	487	Actinobacteria	Bifidobacterium	adolescentis	CIP6459	h	u
+U09513	g799153	496	Actinobacteria	Bifidobacterium	adolescentis	CIP6460	h	u
+U09514	g799154	487	Actinobacteria	Bifidobacterium	adolescentis	CIP6461	h	u
+U09519	g799159	489	Actinobacteria	Bifidobacterium	breve	CIP6468	h	u
+U09520	g799160	489	Actinobacteria	Bifidobacterium	breve	CIP6469	h	u
+U09521	g799161	496	Actinobacteria	Bifidobacterium	breve	CIP6470	h	u
+AF237651	AF237651.1 GI:73302	513	Proteobacteria	Xylella	fastidiosa	CIX0	h	p
+AF291416	AF291416.1 GI:15077	280	Firmicutes	Streptococcus	agalactiae	CJB111	h	p
+AB015381	g3551450	359	Cyanobacteria	Microcystis	aeruginosa	CL1	a	u
+AB015382	g3551451	359	Cyanobacteria	Microcystis	aeruginosa	CL3	a	u
+AB015392	g3551461	358	Cyanobacteria	Microcystis	wesenbergii	CL5	a	u
+AF291172	AF291172.1 GI:99315	570	Euryarchaeota	uncultured	haloarchaeon	CLI-248	h	n
+AF291176	AF291176.1 GI:99315	549	Euryarchaeota	uncultured	haloarchaeon	CLI-250	h	n
+AF291177	AF291177.1 GI:99315	548	Euryarchaeota	uncultured	haloarchaeon	CLI257	h	n
+U09492	U09492.1 GI:606646	1298	Diplomonadida	Giardia	intestinalis	CM	h	u
+U09379	g794220	438	Actinobacteria	Clavibacter	michiganensis	CM 8	h	u
+U68421	g1943872	222	Chlamydiae	Chlamydia	pneumoniae	CM1	h	p
+AJ422179	AJ422179.1 GI:19571	950	Proteobacteria	Bartonella	bacilliformis	CON600-01	h	p
+AF073225	g4587915	509	Proteobacteria	Xylella	fastidiosa	Conn Creek	h	p
+AF073250	g4587940	510	Proteobacteria	Xylella	fastidiosa	ContraCoasta	h	p
+U68448	g1943888	223	Chlamydiae	Chlamydia	psittaci	CP3	h	p
+M69264	g144703	185	Firmicutes	Clostridium	perfringens	CPN50	h	p
+U68449	g1943889	224	Chlamydiae	Chlamydia	psittaci	CT1	h	p
+U09831	g799169	491	Actinobacteria	Bifidobacterium	bifidum	CTP6465	h	u
+AJ422180	AJ422180.1 GI:19571	978	Proteobacteria	Bartonella	bacilliformis	Cusco407	h	p
+AF312492	AF312492.1 GI:15277	967	Proteobacteria	Bartonella	bacilliformis	Cuzco14	h	p
+AF312491	AF312491.1 GI:15277	951	Proteobacteria	Bartonella	bacilliformis	Cuzco8	h	p
+Y14646	Y14646.1 GI:2370396	232	Firmicutes	Phytoplasma	sp	CWB	h	p
+U68422	g1943873	223	Chlamydiae	Chlamydia	pneumoniae	CWL029	h	p
+AE001668	AE001668.1 GI:43771	299	Chlamydiae	Chlamydophila	pneumoniae	CWL029	h	u
+U68423	g1943874	223	Chlamydiae	Chlamydia	pneumoniae	CWL1011	h	p
+Y15868	g2707934	245	Firmicutes	Phytoplasma	sp	CWL-A	h	p
+AF036901	g4104593	377	Actinobacteria	Frankia	sp	CWVEL	h	u
+U68441	g1943909	243	Chlamydiae	Chlamydia	trachomatis	D/UW-3/CX	h	p
+AJ278723	AJ278723.1 GI:12044	452	Proteobacteria	Acidithiobacillus	ferrooxidans	D2	h	n
+AF127587	AF127587.1 GI:13270	496	Proteobacteria	Pseudomonas	fluorescens	D20	h	n
+U11773	g644544	335	Firmicutes	Staphylococcus	aureus	D46	h	p
+D63688	g944982	308	Firmicutes	Ureaplasma	gallorale	D6-1	h	p
+D63684	g944983	305	Firmicutes	Ureaplasma	canigenitalium	D6P-C	h	p
+AJ420051	AJ420051.1 GI:18496	371	Firmicutes	Bacillus	anthracis	Davis TE702	h	p
+AJ420069	AJ420069.1 GI:18496	286	Firmicutes	Bacillus	anthracis	Davis TE702	h	p
+AB050658	AB050658.1 GI:13928	173	Firmicutes	Bacillus	subtilis	DB9011	h	n
+AJ315567	AJ315567.1 GI:14422	275	Actinobacteria	Mycobacterium	bovis	Denken	h	p
+AJ274375	AJ274375.1 GI:64256	331	Proteobacteria	Photobacterium	damselae	DI21	h	u
+AF073251	g4587941	510	Proteobacteria	Xylella	fastidiosa	Dixon	h	p
+AB026214	AB026214.1 GI:66836	313	Actinobacteria	Streptomyces	scabies	DNK-G01	h	u
+AJ251908	AJ251908.1 GI:98445	506	Proteobacteria	Pseudomonas	stutzeri	DNSP21	h	u
+AF073237	g4587927	509	Proteobacteria	Xylella	fastidiosa	Douglas	h	p
+AF093473	AF093473.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	DR143	h	n
+AJ012705	AJ012705.1 GI:72091	1005	Proteobacteria	Ruegeria	algicola	DSM 10251	h	u
+AF071850	g3319302	192	Firmicutes	Bacillus	sporothermodurans	DSM 10599 T	h	u
+AF071852	g3319304	356	Firmicutes	Bacillus	sporothermodurans	DSM 10599 T	h	u
+U59265	g1518648	404	Actinobacteria	Brevibacterium	linens	DSM 20158	h	u
+Z84592	Z84592.1 GI:3929662	144	Firmicutes	Bacillus	cereus	DSM 2048 T	h	n
+AF145717	AF145717.1 GI:67395	185	Firmicutes	Planococcus	citreus	DSM 20549	h	u
+AB035486	AB035486.1 GI:65523	644	Firmicutes	Lactobacillus	jensenii	DSM 20557	h	n
+AF145718	AF145718.1 GI:67395	196	Firmicutes	Planococcus	kocurii	DSM 20747	h	u
+METJAN001	METJAN001	338	Euryarchaeota	Methanococcus	jannaschii	DSM 2661	h	u
+METJAN002	METJAN002	347	Euryarchaeota	Methanococcus	jannaschii	DSM 2661	h	u
+AJ237904	AJ237904.1 GI:64917	542	Nitrospirae	Leptospirillum	ferrooxidans	DSM 2705	a	u
+AF271643	AF271643.1 GI:15080	819	Proteobacteria	Bradyrhizobium	japonicum	DSM 30131	h	n
+AJ007831	g3319864	724	Proteobacteria	Acetobacter	aceti	DSM 3508	h	u
+AF363488	AF363488.1 GI:14582	295	Actinobacteria	Streptomyces	eurythermus	DSM 40014	h	u
+AF363489	AF363489.1 GI:14582	285	Actinobacteria	Streptomyces	ambofaciens	DSM 40053	h	u
+AF363490	AF363490.1 GI:14582	277	Actinobacteria	Streptomyces	tendae	DSM 40101	h	u
+AF363491	AF363491.1 GI:14582	303	Actinobacteria	Streptomyces	coelicolor	DSM 40233	h	u
+AF363492	AF363492.1 GI:14582	300	Actinobacteria	Streptomyces	griseus	DSM 40236	h	u
+AF363493	AF363493.1 GI:14582	305	Actinobacteria	Streptomyces	bottropensis	DSM 40262	h	u
+AF363494	AF363494.1 GI:14582	308	Actinobacteria	Streptomyces	sampsonii	DSM 40394	h	u
+AF363495	AF363495.1 GI:14582	296	Actinobacteria	Streptomyces	setonii	DSM 40395	h	u
+AF363496	AF363496.1 GI:14582	279	Actinobacteria	Streptomyces	lividans	DSM 40434	h	u
+AF363497	AF363497.1 GI:14582	296	Actinobacteria	Streptomyces	diastatochromogenes	DSM 40449	h	u
+Z77332	g2052199	314	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77333	g2052200	318	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77334	g2052201	314	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77335	g2052202	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77336	g2052203	311	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77337	g2052204	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77338	g2052205	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77339	g2052206	318	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77340	g2052207	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+Z77341	g2052208	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40455T	h	u
+AF363498	AF363498.1 GI:14583	307	Actinobacteria	Streptomyces	neyagawaensis	DSM 40588	h	u
+AY027679	AY027679.1 GI:14276	300	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+AY027675	AY027675.1 GI:14276	304	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+AY027676	AY027676.1 GI:14276	300	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+AY027677	AY027677.1 GI:14276	300	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+AY027678	AY027678.1 GI:14276	303	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+AY027680	AY027680.1 GI:14276	301	Actinobacteria	Streptomyces	ambofaciens	DSM 40697	h	u
+Z77342	g2052209	311	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77343	g2052210	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77344	g2052211	313	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77345	g2052212	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77346	g2052213	322	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77347	g2052214	311	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77348	g2052215	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77349	g2052216	311	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77350	g2052217	318	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+Z77351	g2052218	319	Actinobacteria	Streptomyces	albidoflavus	DSM 40792	h	u
+AJ291596	AJ291596.1 GI:11322	363	Actinobacteria	Mycobacterium	phlei	DSM 43239 T	h	p
+AJ291594	AJ291594.1 GI:11322	359	Actinobacteria	Mycobacterium	peregrinum	DSM 43271 T	h	p
+AJ291584	AJ291584.1 GI:11322	296	Actinobacteria	Mycobacterium	chelonae	DSM 43276	h	p
+AJ291600	AJ291600.1 GI:11322	408	Actinobacteria	Mycobacterium	vaccae	DSM 43292 T	h	p
+AJ291590	AJ291590.1 GI:11322	364	Actinobacteria	Mycobacterium	fortuitum	DSM 43655	h	p
+AJ291599	AJ291599.1 GI:11322	365	Actinobacteria	Mycobacterium	smegmatis	DSM 43756 T	h	p
+AJ291582	AJ291582.1 GI:11322	294	Actinobacteria	Mycobacterium	chelonae	DSM 43804	h	p
+AJ291583	AJ291583.1 GI:11322	294	Actinobacteria	Mycobacterium	chelonae	DSM 4384	h	p
+AF017488	g2738835	505	Actinobacteria	Nocardioides	albus	DSM 43873	h	u
+AF017489	g2738836	511	Actinobacteria	Nocardioides	albus	DSM 43874	h	u
+AF017490	g2738837	523	Actinobacteria	Nocardioides	albus	DSM 43874	h	u
+AJ291586	AJ291586.1 GI:11322	360	Actinobacteria	Mycobacterium	flavescens	DSM 43991 T	h	p
+AJ291580	AJ291580.1 GI:11322	298	Actinobacteria	Mycobacterium	abscessus	DSM 44196 T	h	p
+AJ291588	AJ291588.1 GI:11322	363	Actinobacteria	Mycobacterium	fortuitum	DSM 44220 T	h	p
+AJ291598	AJ291598.1 GI:11322	380	Actinobacteria	Mycobacterium	porcinum	DSM 44242 T	h	p
+AF017480	g2738827	509	Actinobacteria	Nocardioides	albus	DSM 46107	h	u
+AJ291587	AJ291587.1 GI:11322	342	Actinobacteria	Mycobacterium	fortuitum	DSM 46621 T	h	p
+AJ279240	AJ279240.1 GI:98446	452	Proteobacteria	Pseudomonas	chlororaphis	DSM 50083	h	u
+AJ251903	AJ251903.1 GI:98445	528	Proteobacteria	Pseudomonas	stutzeri	DSM 50227	h	u
+AJ251909	AJ251909.1 GI:98445	477	Proteobacteria	Pseudomonas	stutzeri	DSM 50238	h	u
+AJ279242	AJ279242.1 GI:98446	488	Proteobacteria	Pseudomonas	cichorii	DSM 50259	h	u
+S51966	g262624	245	Firmicutes	Clostridium	pasteurianum	DSM 525	h	p
+AJ279238	AJ279238.1 GI:98445	486	Proteobacteria	Pseudomonas	balearica	DSM 6803	h	u
+AJ012707	AJ012707.1 GI:72092	831	Proteobacteria	Roseobacter	litoralis	DSM 6996	h	n
+AJ012706	AJ012706.1 GI:72092	827	Proteobacteria	Roseobacter	denitrificans	DSM 7001	h	n
+AJ237906	AJ237906.1 GI:64917	496	Nitrospirae	Leptospirillum	sp	DSM 9468	a	u
+AF363499	AF363499.1 GI:14583	299	Actinobacteria	Streptomyces	acidiscabies	DSM 41671	h	u
+AJ420056	AJ420056.1 GI:18496	368	Firmicutes	Bacillus	thuringiensis	DSMZ 2046T	h	p
+AJ420064	AJ420064.1 GI:18496	371	Firmicutes	Bacillus	mycoides	DSMZ 2048T	h	p
+AJ420065	AJ420065.1 GI:18496	371	Firmicutes	Bacillus	mycoides	DSMZ 299	h	p
+AJ420066	AJ420066.1 GI:18496	372	Firmicutes	Bacillus	mycoides	DSMZ 309	h	p
+AJ420052	AJ420052.1 GI:18496	368	Firmicutes	Bacillus	cereus	DSMZ 31T	h	n
+AJ420053	AJ420053.1 GI:18496	368	Firmicutes	Bacillus	cereus	DSMZ 345	h	n
+AJ420054	AJ420054.1 GI:18496	373	Firmicutes	Bacillus	cereus	DSMZ 626	h	n
+AB026215	AB026215.1 GI:66836	313	Actinobacteria	Streptomyces	scabies	E-1	h	u
+AF082293	g3421435	347	Firmicutes	Enterococcus	faecium	E11c	h	p
+AF070677	g3249687	347	Firmicutes	Enterococcus	faecium	E18d	h	p
+AB026216	AB026216.1 GI:66836	313	Actinobacteria	Streptomyces	scabies	E-2	h	u
+AF070676	g3249686	444	Firmicutes	Enterococcus	faecium	E29d	h	p
+AF082295	g3421437	232	Firmicutes	Enterococcus	faecium	E2c	h	p
+AF082292	g3421434	446	Firmicutes	Enterococcus	faecium	E3c	h	p
+U68433	g1943880	225	Chlamydiae	Chlamydia	pecorum	E58	h	p
+AL079345	AL079345.1 GI:51236	280	Actinobacteria	Streptomyces	coelicolor	E68	h	u
+AF070678	g3249688	327	Firmicutes	Enterococcus	faecium	E8d	h	p
+AF082294	g3421436	327	Firmicutes	Enterococcus	faecium	E9c	h	p
+X85726	g1177240	751	Proteobacteria	Acetobacter	xylinum	EAG3	h	u
+U76710	g1943925	222	Chlamydiae	Chlamydia	psittaci	EBA	h	p
+AF268217	AF268217.2 GI:13809	260	Proteobacteria	uncultured	bacterium	EBAC27G05	h	n
+AF268236	AF268236.2 GI:13809	424	Proteobacteria	uncultured	bacterium	EBAC37G09	h	n
+AF268216	AF268216.2 GI:13809	397	Proteobacteria	uncultured	bacterium	EBAC39D12	h	n
+AF268220	AF268220.2 GI:13809	392	Proteobacteria	uncultured	bacterium	EBAC40E09	h	n
+AF268221	AF268221.2 GI:13809	397	Proteobacteria	uncultured	bacterium	EBAC46D07	h	n
+AF448594	AF448594.1 GI:17865	444	Proteobacteria	Pectobacterium	carotovorum	Ecbr 212	h	u
+AF448595	AF448595.1 GI:17865	475	Proteobacteria	Pectobacterium	carotovorum	Ecbr 212	h	u
+AF448597	AF448597.1 GI:17865	491	Proteobacteria	Pectobacterium	carotovorum	Ecbr 213	h	u
+AF448596	AF448596.1 GI:17865	452	Proteobacteria	Pectobacterium	carotovorum	Ecbr 213	h	u
+AF448592	AF448592.1 GI:17865	451	Proteobacteria	Pectobacterium	carotovorum	Ecbr 8	h	u
+AF448593	AF448593.1 GI:17865	490	Proteobacteria	Pectobacterium	carotovorum	Ecbr 8	h	u
+U55296	g1669829	354	Proteobacteria	Escherichia	coli	ECOR 10	h	p
+U55297	g1669830	354	Proteobacteria	Escherichia	coli	ECOR 10	h	p
+U55298	g1669831	354	Proteobacteria	Escherichia	coli	ECOR 35	h	p
+U55299	g1669832	354	Proteobacteria	Escherichia	coli	ECOR 35	h	p
+U55300	g1669833	354	Proteobacteria	Escherichia	coli	ECOR 44	h	p
+U55301	g1669834	354	Proteobacteria	Escherichia	coli	ECOR 44	h	p
+U55302	g1669835	354	Proteobacteria	Escherichia	coli	ECOR 49	h	p
+U55303	g1669836	354	Proteobacteria	Escherichia	coli	ECOR 49	h	p
+U55304	g1669837	354	Proteobacteria	Escherichia	coli	ECOR 49	h	p
+U55305	g1669838	354	Proteobacteria	Escherichia	coli	ECOR 49	h	p
+U55306	g1669839	354	Proteobacteria	Escherichia	coli	ECOR 52	h	p
+U55307	g1669840	354	Proteobacteria	Escherichia	coli	ECOR 52	h	p
+U55308	g1669841	354	Proteobacteria	Escherichia	coli	ECOR 52	h	p
+U55309	g1669842	354	Proteobacteria	Escherichia	coli	ECOR 58	h	p
+U55310	g1669843	354	Proteobacteria	Escherichia	coli	ECOR 58	h	p
+U55311	g1669844	354	Proteobacteria	Escherichia	coli	ECOR 58	h	p
+AB031217	AB031217.1 GI:57622	651	Bacteroidetes/Chlorobi	Flavobacterium	columnare	EK28	h	u
+AJ012701	AJ012701.1 GI:72092	1012	Proteobacteria	Roseovarius	tolerans	EL-164	h	u
+AJ012702	AJ012702.1 GI:72092	930	Proteobacteria	Roseovarius	tolerans	EL-171	h	u
+AJ012700	AJ012700.1 GI:72092	806	Proteobacteria	Roseovarius	tolerans	EL-172	h	u
+AJ012704	AJ012704.1 GI:72086	939	Proteobacteria	Antarctobacter	heliothermus	EL-219	h	u
+AJ012703	AJ012703.1 GI:72092	930	Proteobacteria	Roseovarius	tolerans	EL-222	h	u
+U36944	g1244530	310	Proteobacteria	Piscirickettsia	salmonis	EM-90	h	p
+AF291169	AF291169.1 GI:99315	748	Euryarchaeota	uncultured	haloarchaeon	Envl-181	h	n
+AF291170	AF291170.1 GI:99315	578	Euryarchaeota	uncultured	haloarchaeon	Envl-182	h	n
+AF291168	AF291168.1 GI:99315	736	Euryarchaeota	uncultured	haloarchaeon	Envl-184	h	n
+AJ422178	AJ422178.1 GI:19571	953	Proteobacteria	Bartonella	bacilliformis	ER-Yal	h	p
+AJ439393	AJ439393.1 GI:19682	606	Proteobacteria	Acinetobacter	sp	EVA10	h	n
+AJ439394	AJ439394.1 GI:19682	587	Proteobacteria	Acinetobacter	sp	EVA11	h	n
+AJ439395	AJ439395.1 GI:19682	460	Proteobacteria	Acinetobacter	sp	EVA12	h	n
+AJ439396	AJ439396.1 GI:19682	651	Proteobacteria	Acinetobacter	sp	EVA13	h	n
+AJ439397	AJ439397.1 GI:19682	606	Proteobacteria	Acinetobacter	sp	EVA14	h	n
+AJ439388	AJ439388.1 GI:19682	470	Proteobacteria	Pseudomonas	aeruginosa	EVA5	h	p
+AJ439389	AJ439389.1 GI:19682	469	Proteobacteria	Pseudomonas	aeruginosa	EVA6	h	p
+AJ439390	AJ439390.1 GI:19682	436	Proteobacteria	Pseudomonas	aeruginosa	EVA7	h	p
+AJ439391	AJ439391.1 GI:19682	470	Proteobacteria	Pseudomonas	aeruginosa	EVA8	h	p
+AJ439392	AJ439392.1 GI:19682	445	Proteobacteria	Pseudomonas	aeruginosa	EVA9	h	p
+AF122910	AF122910.1 GI:49594	221	Firmicutes	Phytoplasma	yellows	EY1	h	p
+U68442	g1943910	243	Chlamydiae	Chlamydia	trachomatis	F/IC/CAL3	h	p
+AF442741	AF442741.1 GI:19526	626	Proteobacteria	Xanthomonas	axonopodis	F1	h	u
+D63685	g944984	307	Firmicutes	Ureaplasma	cati	F2	h	p
+L42533	g840628	158	Firmicutes	Bacillus	cereus	F2532/74	h	n
+AF179001	AF179001.1 GI:66938	534	Actinobacteria	Renibacterium	salmoninarum	F-283-87	h	n
+AJ005549	g3063900	723	Proteobacteria	Nitrosomonas	sp	F3	h	u
+L42532	g840627	157	Firmicutes	Bacillus	cereus	F3484/77	h	n
+AF179002	AF179002.1 GI:66938	534	Actinobacteria	Renibacterium	salmoninarum	F-358-87	h	n
+AB031583	AB031583.1 GI:58214	377	Firmicutes	Mycoplasma	capricolum	F38	h	p
+AJ005550	g3063901	459	Proteobacteria	Nitrosomonas	sp	F5	h	u
+AJ298751	AJ298751.1 GI:17932	394	Proteobacteria	Nitrosomonas	sp	F6	h	u
+AF367164	AF367164.1 GI:14044	354	Cyanobacteria	Nodularia	sp	F81	a	u
+L35103	g984027	1529	Proteobacteria	Bartonella	elizabethae	F9251	h	p
+AJ274639	AJ274639.1 GI:64536	231	Firmicutes	Phytoplasma	sugarcane	FBP	h	p
+AF073227	g4587917	509	Proteobacteria	Xylella	fastidiosa	Fetzer	h	p
+AF369526	AF369526.1 GI:15290	1006	Proteobacteria	Bartonella	henselae	Fizz	h	p
+AB031216	AB031216.1 GI:57622	642	Bacteroidetes/Chlorobi	Flavobacterium	columnare	FK401	h	u
+U68424	g1943875	223	Chlamydiae	Chlamydia	pneumoniae	FML12	h	p
+U68425	g1943876	223	Chlamydiae	Chlamydia	pneumoniae	FML16	h	p
+AF410959	AF410959.1 GI:15559	306	Fusobacteria	Fusobacterium	necrophorum	Fn48	h	u
+AF410960	AF410960.1 GI:15559	145	Fusobacteria	Fusobacterium	necrophorum	Fn48	h	u
+AF410961	AF410961.1 GI:15559	310	Fusobacteria	Fusobacterium	necrophorum	Fn513	h	u
+AF410962	AF410962.1 GI:15559	143	Fusobacteria	Fusobacterium	necrophorum	Fn513	h	u
+AF410963	AF410963.1 GI:15559	303	Fusobacteria	Fusobacterium	necrophorum	Fn523	h	u
+AF410964	AF410964.1 GI:15559	142	Fusobacteria	Fusobacterium	necrophorum	Fn523	h	u
+U68458	g1943898	222	Chlamydiae	Chlamydia	psittaci	FP Cello	h	p
+U68459	g1943899	224	Chlamydiae	Chlamydia	psittaci	FP Vaccine	h	p
+U68457	g1943897	224	Chlamydiae	Chlamydia	psittaci	FP VR-120	h	p
+AF050760	g4405802	389	Actinobacteria	Frankia	sp	FrCam	h	u
+AF050761	g4405803	383	Actinobacteria	Frankia	sp	FrCcor	h	u
+AF050762	g4405804	382	Actinobacteria	Frankia	sp	FrCcun	h	u
+AF050763	g4405805	382	Actinobacteria	Frankia	sp	FrCint	h	u
+AF050764	g4405806	384	Actinobacteria	Frankia	sp	FrCpro	h	u
+AF050765	g4405807	381	Actinobacteria	Frankia	sp	FrCpum	h	u
+AF050767	g4405809	384	Actinobacteria	Frankia	sp	FrCvel-20	h	u
+AF050766	g4405808	384	Actinobacteria	Frankia	sp	FrCvel-ga	h	u
+AF050768	g4405810	384	Actinobacteria	Frankia	sp	FrCvel-iz	h	u
+D63687	g944985	313	Firmicutes	Ureaplasma	felinum	FT2-B	h	p
+AF127591	AF127591.1 GI:13270	499	Proteobacteria	Pseudomonas	fluorescens	G10	h	n
+D89505	g1752791	310	Firmicutes	Mycoplasma	caviae	G122	h	p
+AJ420067	AJ420067.1 GI:18496	362	Firmicutes	Bacillus	mycoides	G2	h	p
+AJ420070	AJ420070.1 GI:18496	242	Firmicutes	Bacillus	mycoides	G2	h	p
+AF324458	AF324458.1 GI:13123	285	Firmicutes	Streptococcus	canis	G2567	h	p
+AF324459	AF324459.1 GI:13123	285	Firmicutes	Streptococcus	canis	G2643	h	p
+AF324460	AF324460.1 GI:13123	285	Firmicutes	Streptococcus	canis	G3232	h	p
+D14526	g286119	224	Firmicutes	Mycoplasma	genitalium	G37	h	p
+MYCGEN001	MYCGEN001	204	Firmicutes	Mycoplasma	genitalium	G37	h	p
+AF324461	AF324461.1 GI:13123	285	Firmicutes	Streptococcus	canis	G5093	h	p
+Y15865	g3077642	290	Firmicutes	Phytoplasma	sp	GaLL	h	p
+U68450	g1943890	224	Chlamydiae	Chlamydia	psittaci	GD	h	p
+Y15861	g2689255	231	Firmicutes	Phytoplasma	sp	GGS	h	p
+AJ295324	AJ295324.1 GI:16605	51	Microsporidia	unidentified	microsporidian	GHB1	h	p
+AF397678	AF397678.1 GI:18462	542	Cyanobacteria	Prochlorococcus	marinus	GP2	a	n
+U68451	g1943891	224	Chlamydiae	Chlamydia	psittaci	GPIC	h	p
+AF367175	AF367175.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	GR8b	a	u
+AJ295325	AJ295325.1 GI:16605	33	Microsporidia	Glugea	sp	GS1	h	p
+D89508	g1752794	221	Firmicutes	Mycoplasma	penetrans	GTU54	h	p
+Y15858	g2689252	256	Firmicutes	Phytoplasma	sp	GWL-T	h	p
+U11774	g644545	469	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11775	g644546	302	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11776	g644547	336	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11777	g644548	382	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11783	g644554	336	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11788	g644559	365	Firmicutes	Staphylococcus	aureus	H11	h	p
+U11789	g644560	336	Firmicutes	Staphylococcus	aureus	H11	h	p
+AF324462	AF324462.1 GI:13123	285	Firmicutes	Streptococcus	canis	H113/108	h	p
+AF127582	AF127582.1 GI:13270	515	Proteobacteria	Pseudomonas	reactans	H22	h	u
+AF127581	AF127581.1 GI:13270	514	Proteobacteria	Pseudomonas	reactans	H3	h	u
+AB026287	g4666285	586	Proteobacteria	Xanthomonas	oryzae	H319	h	u
+AF291412	AF291412.1 GI:15077	300	Firmicutes	Streptococcus	agalactiae	H36B	h	p
+MYCTUB001	MYCTUB001	276	Actinobacteria	Mycobacterium	tuberculosis	H37Rv	h	p
+U68427	g1943901	238	Chlamydiae	Chlamydia	trachomatis	H5	h	p
+AF271646	AF271646.1 GI:15080	1160	Proteobacteria	Rhizobium	galegae	HAMBI 540	h	n
+AJ420057	AJ420057.1 GI:18496	368	Firmicutes	Bacillus	thuringiensis	HD1	h	p
+AF122912	AF122912.1 GI:49594	216	Firmicutes	Phytoplasma	HD1	HD1	h	p
+L42534	g840629	157	Firmicutes	Bacillus	thuringiensis	HD225	h	p
+AF367163	AF367163.1 GI:14044	369	Cyanobacteria	Nodularia	sp	HEM	a	u
+AF147708	AF147708.1 GI:76731	228	Firmicutes	Phytoplasma	brasiliense	HibWB26	h	p
+AF036900	g4104592	377	Actinobacteria	Frankia	sp	HJVEL	h	u
+D84404	g1304034	245	Spirochaetes	Borrelia	sp	Hk501	h	u
+AF367169	AF367169.1 GI:14044	350	Cyanobacteria	Nodularia	sphaerocarpa	HKVV	a	u
+AF073239	g4587929	509	Proteobacteria	Xylella	fastidiosa	Hopland	h	p
+L35101	g984025	1262	Proteobacteria	Bartonella	henselae	Houston	h	p
+AF312497	AF312497.1 GI:16589	1552	Proteobacteria	Bartonella	clarridgeiae	Houston2	h	u
+D89509	g1752795	324	Firmicutes	Mycoplasma	primatum	HRC292	h	p
+AJ420060	AJ420060.1 GI:18496	369	Firmicutes	Bacillus	thuringiensis	Ht39	h	p
+D85903	g1389615	253	Spirochaetes	Borrelia	garinii	HT59	h	u
+AF367159	AF367159.1 GI:14044	277	Cyanobacteria	Nodularia	harveyana	Hubel 1983/300	a	u
+AF367162	AF367162.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	Hubel 1987/310	a	u
+AF367172	AF367172.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	Hubel 1987/311	a	u
+AF367171	AF367171.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	Hubel 1988/306a	a	u
+AF367170	AF367170.1 GI:14044	354	Cyanobacteria	Nodularia	spumigena	Hubel 1988/306b	a	u
+AF209770	AF209770.1 GI:17026	485	Proteobacteria	Xanthomonas	axonopodis	I11342	h	u
+AL109848	AL109848.1 GI:57384	276	Actinobacteria	Streptomyces	coelicolor	I51	h	u
+AF321872	AF321872.1 GI:18001	1040	Proteobacteria	Rhizobium	hainanense	I66	h	n
+AF271644	AF271644.1 GI:15080	1079	Proteobacteria	Agrobacterium	tumefaciens	IAM 13129	h	p
+AB030748	AB030748.1 GI:57080	635	Bacteroidetes/Chlorobi	Flavobacterium	columnare	IAM14301T	h	u
+AF209768	AF209768.1 GI:17026	501	Proteobacteria	Xanthomonas	axonopodis	IBSBF1171	h	u
+AF209769	AF209769.1 GI:17026	491	Proteobacteria	Xanthomonas	axonopodis	IBSBF777	h	u
+AF209751	AF209751.1 GI:17026	479	Proteobacteria	Xanthomonas	albilineans	ICMP196	h	u
+D87082	g1622714	557	Proteobacteria	Burkholderia	gladioli	ICMP2804	h	n
+AF209766	AF209766.1 GI:17026	489	Proteobacteria	Xanthomonas	axonopodis	ICMP3151	h	u
+AF209752	AF209752.1 GI:17026	489	Proteobacteria	Xanthomonas	arboricola	ICMP35	h	u
+D87081	g1622713	548	Proteobacteria	Burkholderia	gladioli	ICMP3950	h	n
+D87084	g1622716	660	Proteobacteria	Burkholderia	caryophylli	ICMP512	h	n
+D87083	g1622715	592	Proteobacteria	Burkholderia	cepacia	ICMP5796	h	p
+AF017500	g2738847	473	Actinobacteria	Nocardioides	flavus	IFO14396	h	u
+AF017501	g2738848	473	Actinobacteria	Nocardioides	flavus	IFO14397	h	u
+AF017503	g2738850	473	Actinobacteria	Nocardioides	fulvus	IFO14399	h	u
+AF145719	AF145719.1 GI:67395	210	Firmicutes	Planococcus	okeanokoites	IFO12536	h	u
+U93313	g2290499	278	Actinobacteria	Kitasatosporia	azaticus	IFO13803	h	u
+U93315	g2290501	280	Actinobacteria	Kitasatosporia	brunnea	IFO14627	h	u
+AB003404	g2351018	517	Euryarchaeota	Halorubrum	sodomense	IFO14740	h	n
+D26489	g1054563	199	Crenarchaeota	Acidianus	brierleyi	IFO15269	h	u
+D26490	g1054618	183	Crenarchaeota	Sulfolobus	solfataricus	IFO15331	h	n
+D26491	g1054585	178	Crenarchaeota	Metallosphaera	sedula	IFO15509	h	u
+AF001265	g2150030	330	Firmicutes	Rhodococcus	erythropolis	IGTS8	h	n
+S83265	g1881794	496	Firmicutes	Listeria	monocytogenes	IHE MB 41	h	p
+AJ005556	g3063918	683	Proteobacteria	Nitrosospira	sp	III2	h	u
+AJ005557	g3063919	685	Proteobacteria	Nitrosospira	sp	III7	h	u
+U68434	g1943881	225	Chlamydiae	Chlamydia	pecorum	IPA	h	p
+Z46602	g3650263	247	Actinobacteria	Actinopolyspora	iraqiensis	IQ-H1T	h	u
+Z46601	g3650266	190	Actinobacteria	Actinopolyspora	sp	IQ-H2	h	u
+AF271647	AF271647.1 GI:15080	815	Proteobacteria	Bradyrhizobium	sp	IRBG 271	h	n
+AF364836	AF364836.1 GI:15099	1054	Proteobacteria	Rhizobium	sp	IRBG 74	h	n
+AF364838	AF364838.1 GI:15099	1056	Proteobacteria	Rhizobium	sp	IRBG 74	h	n
+AF364839	AF364839.1 GI:15099	1054	Proteobacteria	Rhizobium	sp	IRBG 74	h	n
+AF271648	AF271648.1 GI:15080	1085	Proteobacteria	Rhizobium	sp	IRBG 74	h	n
+AF364837	AF364837.1 GI:15099	1054	Proteobacteria	Rhizobium	sp	IRBG 74	h	n
+Y11737	Y11737.1 GI:6687655	347	Proteobacteria	Haemophilus	ducreyi	ITM 5600	h	p
+K01983	g142148	395	Cyanobacteria	Anacystis	nidulans	IU625	a	u
+AF093474	AF093474.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	Iwate	h	n
+AF127586	AF127586.1 GI:13270	501	Proteobacteria	Pseudomonas	fluorescens	J14	h	n
+AF017495	g2738842	386	Actinobacteria	Nocardioides	simplex	JCM1366	h	u
+AF017496	g2738843	386	Actinobacteria	Nocardioides	simplex	JCM1367	h	u
+AF163135	AF163135.1 GI:67149	372	Actinobacteria	Spirillospora	sp	JCM3123	h	u
+AF017502	g2738849	473	Actinobacteria	Nocardioides	fulvus	JCM3335	h	u
+U93321	g2290503	275	Actinobacteria	Kitasatosporia	griseola	JCM3339	h	u
+U93331	g2290505	275	Actinobacteria	Kitasatosporia	phosalacinea	JCM3340	h	u
+AF017471	g2738818	499	Actinobacteria	Nocardioides	albus	JCM5851	h	u
+AF017472	g2738819	500	Actinobacteria	Nocardioides	albus	JCM5851	h	u
+AF017473	g2738820	513	Actinobacteria	Nocardioides	albus	JCM5852	h	u
+AF017474	g2738821	468	Actinobacteria	Nocardioides	albus	JCM5853	h	u
+AF017475	g2738822	621	Actinobacteria	Nocardioides	albus	JCM5854	h	u
+AF017476	g2738823	512	Actinobacteria	Nocardioides	albus	JCM5855	h	u
+AF017477	g2738824	512	Actinobacteria	Nocardioides	albus	JCM5856	h	u
+AF017478	g2738825	533	Actinobacteria	Nocardioides	albus	JCM5857	h	u
+AF017479	g2738826	510	Actinobacteria	Nocardioides	albus	JCM5858	h	u
+AF017481	g2738828	506	Actinobacteria	Nocardioides	albus	JCM5859	h	u
+AF017482	g2738829	507	Actinobacteria	Nocardioides	albus	JCM5860	h	u
+AF017483	g2738830	539	Actinobacteria	Nocardioides	albus	JCM5861	h	u
+AF017484	g2738831	509	Actinobacteria	Nocardioides	albus	JCM5862	h	u
+AF017485	g2738832	509	Actinobacteria	Nocardioides	albus	JCM5862	h	u
+AF017486	g2738833	531	Actinobacteria	Nocardioides	albus	JCM5863	h	u
+AF017487	g2738834	509	Actinobacteria	Nocardioides	albus	JCM5864	h	u
+AB035485	AB035485.1 GI:65523	671	Firmicutes	Lactobacillus	delbrueckii	JCM1002	h	n
+AB035488	AB035488.1 GI:65523	670	Firmicutes	Lactobacillus	salivarius	JCM1150	h	n
+AB035487	AB035487.1 GI:65523	670	Firmicutes	Lactobacillus	paracasei	JCM1171	h	n
+AB035484	AB035484.1 GI:65319	672	Firmicutes	Lactobacillus	delbrueckii	JCM1248	h	n
+Z46603	g3650264	190	Actinobacteria	Actinopolyspora	halophila	JCM3278T	h	u
+AB088764	AB088764.1 GI:22002	440	Actinobacteria	Micrococcus	luteus	JCM3347	h	u
+AB088763	AB088763.1 GI:22002	440	Actinobacteria	Micrococcus	luteus	JCM3348	h	u
+AF410965	AF410965.1 GI:15559	305	Fusobacteria	Fusobacterium	necrophorum	JCM3716	h	u
+AF410966	AF410966.1 GI:15559	149	Fusobacteria	Fusobacterium	necrophorum	JCM3716	h	u
+AF410968	AF410968.1 GI:15559	143	Fusobacteria	Fusobacterium	necrophorum	JCM3717	h	u
+AF410967	AF410967.1 GI:15559	311	Fusobacteria	Fusobacterium	necrophorum	JCM3717	h	u
+AF410969	AF410969.1 GI:15559	143	Fusobacteria	Fusobacterium	necrophorum	JCM3718	h	u
+U93337	g2290507	296	Actinobacteria	Streptomyces	sp	JCM7249	h	u
+U93339	g2290509	299	Actinobacteria	Streptomyces	sp	JCM7250	h	u
+AB003409	g2351023	377	Euryarchaeota	Natronobacterium	pharaonis	JCM8858	h	u
+AB003405	g2351019	514	Euryarchaeota	Halorubrum	saccharovorum	JCM8865	h	n
+AB003406	g2351020	508	Euryarchaeota	Halorubrum	lacusprofundi	JCM8891	h	n
+AB003411	g2351025	480	Euryarchaeota	Halorubrum	vacuolatum	JCM9060	h	n
+AB003407	g2351021	513	Euryarchaeota	Halorubrum	distributum	JCM9100	h	n
+AB003408	g2351022	510	Euryarchaeota	Halorubrum	coriense	JCM9275	h	n
+AJ390588	AJ390588.1 GI:98447	506	Proteobacteria	Pseudomonas	stutzeri	JD4	h	u
+AF074831	g4322235	750	Proteobacteria	Campylobacter	jejuni	JEO2677	h	p
+AF074832	g4322236	751	Proteobacteria	Campylobacter	jejuni	JEO2677	h	p
+AF074833	g4322237	751	Proteobacteria	Campylobacter	jejuni	JEO2693	h	p
+AF074834	g4322238	752	Proteobacteria	Campylobacter	jejuni	JEO2759	h	p
+AF074835	g4322239	750	Proteobacteria	Campylobacter	jejuni	JEO2762	h	p
+AF074839	g4322243	946	Proteobacteria	Campylobacter	coli	JEO2772	h	p
+AF074840	g4322244	914	Proteobacteria	Campylobacter	coli	JEO2777	h	p
+AF145720	AF145720.1 GI:67395	213	Firmicutes	Planococcus	sp	JG07	h	u
+AB031220	AB031220.1 GI:57622	591	Bacteroidetes/Chlorobi	Flavobacterium	columnare	JIP 08-94	h	u
+AJ390581	AJ390581.1 GI:98446	523	Proteobacteria	Pseudomonas	stutzeri	JM300	h	u
+AF291419	AF291419.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	JM9	h	p
+AB008745	g3355905	357	Crenarchaeota	Aeropyrum	pernix	K1	h	u
+M20397	g147937	431	Proteobacteria	Escherichia	coli	K-12	h	p
+M20399	g147940	354	Proteobacteria	Escherichia	coli	K-12	h	p
+D12649	g216643	446	Proteobacteria	Escherichia	coli	K-12	h	p
+AE000129	AE000129.1 GI:17863	446	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000345	AE000345.1 GI:17889	430	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000406	AE000406.1 GI:23672	437	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000452	AE000452.1 GI:17901	411	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000460	AE000460.1 GI:23673	494	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000471	AE000471.1 GI:17904	440	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+AE000474	AE000474.1 GI:17904	355	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+U00006	U00006.1 GI:409785	440	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+L10328	L10328.1 GI:290484	353	Proteobacteria	Escherichia	coli	K-12 MG1655	h	p
+U73397	g1657900	185	Actinobacteria	Saccharomonospora	azurea	K161	h	u
+U73400	g1657903	185	Actinobacteria	Saccharomonospora	caesia	K163	h	u
+U73402	g1657905	183	Actinobacteria	Saccharomonospora	cyanea	K168	h	u
+U73404	g1657919	182	Actinobacteria	Saccharomonospora	glauca	K169	h	u
+U73406	g1657921	182	Actinobacteria	Saccharomonospora	glauca	K179	h	u
+U73408	g1657931	205	Actinobacteria	Saccharomonospora	sp	K180	h	u
+U73410	g1657907	185	Actinobacteria	Saccharomonospora	caesia	K182	h	u
+U73412	g1657933	144	Actinobacteria	Saccharomonospora	viridis	K185	h	u
+U73414	g1657935	144	Actinobacteria	Saccharomonospora	viridis	K191	h	u
+U73416	g1657923	182	Actinobacteria	Saccharomonospora	glauca	K194	h	u
+U73418	g1657925	182	Actinobacteria	Saccharomonospora	glauca	K195	h	u
+U73420	g1657937	144	Actinobacteria	Saccharomonospora	viridis	K197	h	u
+AJ278722	AJ278722.1 GI:12044	448	Proteobacteria	Acidithiobacillus	ferrooxidans	K2	h	n
+U73422	g1657909	185	Actinobacteria	Saccharomonospora	caesia	K200	h	u
+U73424	g1657927	182	Actinobacteria	Saccharomonospora	glauca	K202	h	u
+U73426	g1657939	144	Actinobacteria	Saccharomonospora	viridis	K73	h	u
+U73428	g1657911	185	Actinobacteria	Saccharomonospora	caesia	K76	h	u
+AJ298752	AJ298752.1 GI:17932	677	Proteobacteria	Nitrosospira	sp	Ka3	h	u
+AJ298753	AJ298753.1 GI:17932	694	Proteobacteria	Nitrosospira	sp	Ka4	h	u
+AF127579	AF127579.1 GI:13270	513	Proteobacteria	Pseudomonas	tolaasii	KACC10038	h	u
+L26364	g431273	906	Proteobacteria	Bartonella	bacilliformis	KC584	h	p
+AF017494	g2738841	386	Actinobacteria	Nocardioides	simplex	KCTC 9106	h	u
+AF017510	g2738857	386	Actinobacteria	Terrabacter	tumescens	KCTC 9133	h	u
+AF017491	g2738838	344	Actinobacteria	Nocardioides	jensenii	KCTC 9134	h	u
+AF017470	g2738817	514	Actinobacteria	Nocardioides	albus	KCTC 9186	h	u
+AF017492	g2738839	473	Actinobacteria	Nocardioides	luteus	KCTC 9575	h	u
+AF017509	g2738856	355	Actinobacteria	Aeromicrobium	fastidiosum	KCTC 9576	h	u
+AF489608	AF489608.1 GI:19550	540	Firmicutes	Streptococcus	porcinus	Kiel-1790	h	p
+AF489609	AF489609.1 GI:19550	540	Firmicutes	Streptococcus	porcinus	Kiel-63940	h	p
+AF489604	AF489604.1 GI:19550	540	Firmicutes	Streptococcus	porcinus	Kiel-9824	h	p
+AF074830	g4322234	751	Proteobacteria	Campylobacter	jejuni	KJ7	h	p
+AB026695	AB026695.1 GI:67293	274	Actinobacteria	Mycobacterium	kansasii	KPM 1001	h	p
+AB026701	AB026701.1 GI:67293	272	Actinobacteria	Mycobacterium	marinum	KPM 1201	h	p
+AB026694	AB026694.1 GI:67293	282	Actinobacteria	Mycobacterium	simiae	KPM 1403	h	p
+AB026702	AB026702.1 GI:67293	277	Actinobacteria	Mycobacterium	scrofulaceum	KPM 2027	h	p
+AB026692	AB026692.1 GI:67293	272	Actinobacteria	Mycobacterium	gordonae	KPM 2201	h	p
+AB026693	AB026693.1 GI:67293	275	Actinobacteria	Mycobacterium	gordonae	KPM 2201	h	p
+AB026704	AB026704.1 GI:67293	275	Actinobacteria	Mycobacterium	szulgai	KPM 2403	h	p
+AB026690	AB026690.1 GI:67293	274	Actinobacteria	Mycobacterium	avium	KPM 3012	h	p
+AB026691	AB026691.1 GI:67293	276	Actinobacteria	Mycobacterium	intracellulare	KPM 3101	h	p
+AB026696	AB026696.1 GI:67293	274	Actinobacteria	Mycobacterium	malmoense	KPM 3101	h	p
+AB026697	AB026697.1 GI:67293	285	Actinobacteria	Mycobacterium	gastri	KPM 3504	h	p
+AB026698	AB026698.1 GI:67293	275	Actinobacteria	Mycobacterium	tuberculosis	KPM T021	h	p
+AB026699	AB026699.1 GI:67293	275	Actinobacteria	Mycobacterium	africanum	KPM T801	h	p
+AB026700	AB026700.1 GI:67293	275	Actinobacteria	Mycobacterium	microti	KPM T901	h	p
+AB031588	AB031588.1 GI:58214	371	Firmicutes	Mycoplasma	putrefaciens	KS-1	h	p
+D86378	g2077929	546	Proteobacteria	Pseudomonas	syringae	KUZ 8	h	u
+D86357	g2077927	531	Proteobacteria	Pseudomonas	syringae	Kw-11	h	u
+AJ005555	g3063917	691	Proteobacteria	Nitrosospira	sp	L115	h	u
+U68443	g2406566	243	Chlamydiae	Chlamydia	trachomatis	L2/434/BU	h	p
+U15186	U15186.1 GI:699323	260	Actinobacteria	Mycobacterium	leprae	L471	h	p
+U68435	g1943882	225	Chlamydiae	Chlamydia	pecorum	L71	h	p
+AJ237905	AJ237905.1 GI:64917	494	Nitrospirae	Leptospirillum	sp	LA	a	u
+AJ422181	AJ422181.1 GI:19571	932	Proteobacteria	Bartonella	bacilliformis	LA6.3	h	p
+AF330250	AF330250.1 GI:18033	810	Cyanobacteria	Synechococcus	sp	LBB3	a	n
+AF330249	AF330249.1 GI:18033	811	Cyanobacteria	Synechococcus	sp	LBG2	a	n
+AF330247	AF330247.1 GI:18033	701	Cyanobacteria	Synechococcus	sp	LBP1	a	n
+AB031586	AB031586.1 GI:58214	377	Firmicutes	Mycoplasma	mycoides	LC	h	p
+Y13913	g3581875	245	Firmicutes	Phytoplasma	sp	LD	h	p
+AF047423	g2905799	235	Proteobacteria	Citrobacter	freundii	LD117	h	u
+AF047426	g2905802	198	Proteobacteria	Enterobacter	aerogenes	LD118	h	p
+AF047425	g2905801	343	Proteobacteria	Klebsiella	pneumoniae	LD119	h	u
+AF047424	g2905800	339	Proteobacteria	Escherichia	blattae	LD120	h	p
+AF047422	g2905798	362	Proteobacteria	Escherichia	hermannii	LD123	h	p
+AF047421	g2905797	383	Proteobacteria	Escherichia	vulneris	LD127	h	p
+AF047420	g2905796	354	Proteobacteria	Escherichia	fergusonii	LD130	h	p
+Y13914	g3582022	232	Firmicutes	Phytoplasma	sp	LDG	h	p
+Y14174	g3559975	231	Firmicutes	Phytoplasma	sp	LDN	h	p
+AF197570	AF197570.1 GI:11640	514	Proteobacteria	Alcanivorax	borkumensis	LE4	h	u
+AF197900	AF197900	524	Proteobacteria	Alcanivorax	borkumensis	LE4	h	u
+AF197902	AF197902	331	Proteobacteria	Alcanivorax	borkumensis	LE4	h	u
+U36943	g1244529	309	Proteobacteria	Piscirickettsia	salmonis	LF-89	h	p
+AF353090	AF353090.1 GI:19070	176	Firmicutes	Phytoplasma	broom	LfWB	h	p
+AF397697	AF397697.1 GI:18463	665	Cyanobacteria	Prochlorococcus	marinus	LG	a	n
+U09380	g794221	481	Actinobacteria	Clavibacter	michiganensis	LGM 7333	h	u
+Z28984	g551660	203	Firmicutes	Peptostreptococcus	anaerobius	LK16	h	u
+Z29059	g551662	203	Firmicutes	Peptostreptococcus	anaerobius	LK51	h	u
+Z29060	g551661	325	Firmicutes	Peptostreptococcus	anaerobius	LK54	h	u
+U32969	g1854591	221	Firmicutes	Lactobacillus	delbrueckii	LKT	h	n
+AB026210	AB026210.1 GI:66836	311	Actinobacteria	Streptomyces	scabies	LM5MT-2	h	u
+AF330248	AF330248.1 GI:18033	911	Cyanobacteria	Synechococcus	sp	LM94	a	n
+X87190	g1848165	344	Firmicutes	Enterococcus	faecium	LMA631	h	p
+AJ279265	AJ279265.1 GI:93676	984	Proteobacteria	Bradyrhizobium	sp	LMG 10300	h	n
+AJ279266	AJ279266.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10664	h	n
+AJ279267	AJ279267.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10665	h	n
+AJ279268	AJ279268.1 GI:93676	883	Proteobacteria	Bradyrhizobium	sp	LMG 10667	h	n
+AJ279269	AJ279269.1 GI:93676	883	Proteobacteria	Bradyrhizobium	sp	LMG 10668	h	n
+AJ279270	AJ279270.1 GI:93676	894	Proteobacteria	Bradyrhizobium	sp	LMG 10669	h	n
+AJ279271	AJ279271.1 GI:93676	882	Proteobacteria	Bradyrhizobium	sp	LMG 10670	h	n
+AJ279272	AJ279272.1 GI:93676	883	Proteobacteria	Bradyrhizobium	sp	LMG 10671	h	n
+AJ279273	AJ279273.1 GI:93676	884	Proteobacteria	Bradyrhizobium	sp	LMG 10672	h	n
+AJ279274	AJ279274.1 GI:93676	883	Proteobacteria	Bradyrhizobium	sp	LMG 10673	h	n
+AJ279275	AJ279275.1 GI:93676	882	Proteobacteria	Bradyrhizobium	sp	LMG 10676	h	n
+AJ279276	AJ279276.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10679	h	n
+AJ279277	AJ279277.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10700	h	n
+AJ279278	AJ279278.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10701	h	n
+AJ279279	AJ279279.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10702	h	n
+AJ279280	AJ279280.1 GI:93676	840	Proteobacteria	Bradyrhizobium	sp	LMG 10717	h	n
+AJ279281	AJ279281.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10726	h	n
+AJ279282	AJ279282.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10727	h	n
+AJ279283	AJ279283.1 GI:93676	792	Proteobacteria	Bradyrhizobium	sp	LMG 10729	h	n
+AJ279284	AJ279284.1 GI:93676	814	Proteobacteria	Bradyrhizobium	sp	LMG 11801	h	n
+AJ279285	AJ279285.1 GI:93676	987	Proteobacteria	Bradyrhizobium	sp	LMG 11802	h	n
+AJ279286	AJ279286.1 GI:93676	1118	Proteobacteria	Bradyrhizobium	sp	LMG 11812	h	n
+AJ279287	AJ279287.1 GI:93676	837	Proteobacteria	Bradyrhizobium	sp	LMG 11944	h	n
+AJ279288	AJ279288.1 GI:93676	837	Proteobacteria	Bradyrhizobium	sp	LMG 11945	h	n
+AJ279289	AJ279289.1 GI:93676	837	Proteobacteria	Bradyrhizobium	sp	LMG 11947	h	n
+AJ279290	AJ279290.1 GI:93676	837	Proteobacteria	Bradyrhizobium	sp	LMG 11949	h	n
+AJ279291	AJ279291.1 GI:93676	839	Proteobacteria	Bradyrhizobium	sp	LMG 11950	h	n
+AJ279292	AJ279292.1 GI:93676	836	Proteobacteria	Bradyrhizobium	sp	LMG 11953	h	n
+AJ279293	AJ279293.1 GI:93676	837	Proteobacteria	Bradyrhizobium	sp	LMG 11954	h	n
+AJ007834	g3319867	724	Proteobacteria	Acetobacter	pasteurianus	LMG 1262	h	u
+AJ007833	g3319866	704	Proteobacteria	Acetobacter	liquefaciens	LMG 1382	h	u
+X85405	g1054634	777	Proteobacteria	Acetobacter	xylinum	LMG 1515	h	u
+AJ007832	g3319865	725	Proteobacteria	Acetobacter	hansenii	LMG 1527	h	u
+AJ279243	AJ279243.1 GI:98446	462	Proteobacteria	Pseudomonas	agarici	LMG 2112	h	u
+AJ279244	AJ279244.1 GI:98446	580	Proteobacteria	Pseudomonas	tolaasii	LMG 2342	h	u
+AF209772	AF209772.1 GI:17026	558	Proteobacteria	Pectobacterium	carotovorum	LMG 2404	h	u
+U09382	g794223	470	Actinobacteria	Clavibacter	michiganensis	LMG 2889	h	u
+U09378	g794219	487	Actinobacteria	Clavibacter	michiganensis	LMG 3663	h	u
+U09381	g794222	485	Actinobacteria	Clavibacter	michiganensis	LMG 5627	h	u
+AJ279264	AJ279264.1 GI:93676	731	Proteobacteria	Bradyrhizobium	japonicum	LMG 6138	h	n
+AF127588	AF127588.1 GI:13270	517	Proteobacteria	Pseudomonas	fluorescens	LMG 1794	h	n
+AF209762	AF209762.1 GI:17026	475	Proteobacteria	Xanthomonas	sacchari	LMG 471	h	u
+AF209771	AF209771.1 GI:17026	586	Proteobacteria	Pseudomonas	syringae	LMG 5185	h	u
+AF209753	AF209753.1 GI:17026	501	Proteobacteria	Xanthomonas	axonopodis	LMG 538	h	u
+AF209755	AF209755.1 GI:17026	491	Proteobacteria	Xanthomonas	campestris	LMG 568	h	u
+AF127585	AF127585.1 GI:13270	500	Proteobacteria	Pseudomonas	fluorescens	LMG 5939	h	n
+AF209756	AF209756.1 GI:17026	495	Proteobacteria	Xanthomonas	cassavae	LMG 673	h	u
+AF209757	AF209757.1 GI:17026	483	Proteobacteria	Xanthomonas	cucurbitae	LMG 690	h	u
+AF209758	AF209758.1 GI:17026	492	Proteobacteria	Xanthomonas	hortorum	LMG 733	h	u
+AF209765	AF209765.1 GI:17026	492	Proteobacteria	Xanthomonas	vasicola	LMG 736	h	u
+AF209759	AF209759.1 GI:17026	475	Proteobacteria	Xanthomonas	hyacinthi	LMG 739	h	u
+AF209761	AF209761.1 GI:17026	492	Proteobacteria	Xanthomonas	pisi	LMG 847	h	u
+AF209760	AF209760.1 GI:17026	551	Proteobacteria	Xanthomonas	melonis	LMG 8670	h	u
+AF209763	AF209763.1 GI:17026	523	Proteobacteria	Xanthomonas	theicola	LMG 8684	h	u
+AF209764	AF209764.1 GI:17026	523	Proteobacteria	Xanthomonas	translucens	LMG 876	h	u
+AF060175	g3719230	481	Proteobacteria	Xanthomonas	campestris	LMG 937	h	u
+AF209754	AF209754.1 GI:17026	492	Proteobacteria	Xanthomonas	bromi	LMG 947	h	u
+AB031221	AB031221.1 GI:57622	651	Bacteroidetes/Chlorobi	Flavobacterium	columnare	LP8	h	u
+AB02621	AB026211.1 GI:66836	311	Actinobacteria	Streptomyces	scabies	LQH-4	h	u
+AJ279239	AJ279239.1 GI:98446	485	Proteobacteria	Pseudomonas	balearica	LS401	h	u
+AF046813	g2896162	393	Proteobacteria	Salmonella	enterica	LT2	h	p
+AF046814	g2905760	516	Proteobacteria	Salmonella	enterica	LT2	h	p
+U32967	g1854589	221	Firmicutes	Lactobacillus	delbrueckii	LT4	h	n
+AF442744	AF442744.1 GI:19526	624	Proteobacteria	Xanthomonas	axonopodis	Lw	h	u
+AF105317	g4008077	226	Firmicutes	Phytoplasma	yellows	LWB3	h	p
+AF151311	AF151311.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M1-005-1	h	n
+AF151312	AF151312.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M1-005-2	h	n
+AF151313	AF151313.1 GI:71088	137	Crenarchaeota	uncultured marine	bacterium	M1-005-3	h	n
+MYCPNE001	MYCPNE001	225	Firmicutes	Mycoplasma	pneumoniae	M129	h	p
+AF151314	AF151314.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M2-025-1	h	n
+AF151315	AF151315.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M2-025-2	h	n
+AF151316	AF151316.1 GI:71088	133	Crenarchaeota	uncultured marine	bacterium	M2-025-3	h	n
+AF046812	g2896161	354	Proteobacteria	Salmonella	enterica	M298	h	p
+AF046815	g2905761	515	Proteobacteria	Salmonella	enterica	M298	h	p
+AF151317	AF151317.1 GI:71088	137	Crenarchaeota	uncultured marine	bacterium	M3-050-1	h	n
+AF151318	AF151318.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M3-050-2	h	n
+AF151319	AF151319.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M3-050-3	h	n
+AF151320	AF151320.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M3-0504	h	n
+AF151321	AF151321.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M3-0505	h	n
+AF151322	AF151322.1 GI:71088	142	Crenarchaeota	uncultured marine	bacterium	M3-050-6	h	n
+AF046811	g2896160	344	Proteobacteria	Salmonella	enterica	M313	h	p
+AF046816	g2905762	344	Proteobacteria	Salmonella	enterica	M313	h	p
+AF151323	AF151323.1 GI:71088	129	Crenarchaeota	uncultured marine	bacterium	M3-150-1	h	n
+AF151324	AF151324.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M3-150-2	h	n
+AF151325	AF151325.1 GI:71088	134	Crenarchaeota	uncultured marine	bacterium	M3-150-3	h	n
+AF151326	AF151326.1 GI:71088	137	Crenarchaeota	uncultured marine	bacterium	M3-150-4	h	n
+AF151327	AF151327.1 GI:71088	131	Crenarchaeota	uncultured marine	bacterium	M3-150-4	h	n
+AF046810	g2896159	480	Proteobacteria	Salmonella	enterica	M316	h	p
+AF046817	g2905763	517	Proteobacteria	Salmonella	enterica	M316	h	p
+AF046809	g2896158	396	Proteobacteria	Salmonella	enterica	M318	h	p
+AF046818	g2905764	396	Proteobacteria	Salmonella	enterica	M318	h	p
+AF046808	g2896157	397	Proteobacteria	Salmonella	enterica	M320	h	p
+AF046819	g2905765	345	Proteobacteria	Salmonella	enterica	M320	h	p
+AF046807	g2896156	342	Proteobacteria	Salmonella	enterica	M321	h	p
+AF046820	g2905766	643	Proteobacteria	Salmonella	enterica	M321	h	p
+AF046806	g2896155	344	Proteobacteria	Salmonella	enterica	M324	h	p
+AF046821	g2905767	504	Proteobacteria	Salmonella	enterica	M324	h	p
+AF151328	AF151328.1 GI:71088	133	Crenarchaeota	uncultured marine	bacterium	M3-450-1	h	n
+AF151329	AF151329.1 GI:71088	134	Crenarchaeota	uncultured marine	bacterium	M3-450-2	h	n
+AF151330	AF151330.1 GI:71088	134	Crenarchaeota	uncultured marine	bacterium	M3-450-3	h	n
+AJ291589	AJ291589.1 GI:11322	343	Actinobacteria	Mycobacterium	fortuitum	M368	h	p
+AF151331	AF151331.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M4-005-1	h	n
+AF151332	AF151332.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M4-005-2	h	n
+AF151333	AF151333.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M4-005-3	h	n
+AF045563	g2895858	479	Proteobacteria	Salmonella	enterica	M495	h	p
+AF046822	g2905768	500	Proteobacteria	Salmonella	enterica	M495	h	p
+AF151334	AF151334.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M5-050-1	h	n
+AF151335	AF151335.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M5-050-2	h	n
+AF151336	AF151336.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M5-050-3	h	n
+AJ291585	AJ291585.1 GI:11322	381	Actinobacteria	Mycobacterium	farcinogenes	M52	h	p
+U68452	g1943892	224	Chlamydiae	Chlamydia	psittaci	M56	h	p
+AJ269784	AJ269784.1 GI:66870	1334	Proteobacteria	Bartonella	taylorii	M6	h	u
+AF151337	AF151337.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M6-050-1	h	n
+AF151338	AF151338.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M6-050-2	h	n
+AF151339	AF151339.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M6-050-3	h	n
+AF151340	AF151340.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M7-050-1	h	n
+AF151341	AF151341.1 GI:71088	136	Crenarchaeota	uncultured marine	bacterium	M7-050-2	h	n
+AF151342	AF151342.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M7-050-3	h	n
+AF151343	AF151343.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M7-400-1	h	n
+AF151344	AF151344.1 GI:71088	137	Crenarchaeota	uncultured marine	bacterium	M7-400-2	h	n
+AF151345	AF151345.1 GI:71088	135	Crenarchaeota	uncultured marine	bacterium	M7-400-3	h	n
+AF151346	AF151346.1 GI:71088	133	Crenarchaeota	uncultured marine	bacterium	M7-400-4	h	n
+AF151347	AF151347.1 GI:71088	141	Crenarchaeota	uncultured marine	bacterium	M7-400-5	h	n
+AF151348	AF151348.1 GI:71088	133	Crenarchaeota	uncultured marine	bacterium	M7-400-6	h	n
+AF291415	AF291415.1 GI:15077	278	Firmicutes	Streptococcus	agalactiae	M781	h	p
+AF042845	g3172333	607	Proteobacteria	Vibrio	cholerae	M799	h	p
+AF042846	g3172334	509	Proteobacteria	Vibrio	cholerae	M803	h	p
+AF042847	g3172335	431	Proteobacteria	Vibrio	cholerae	M803	h	p
+AF042844	g3172332	711	Proteobacteria	Vibrio	cholerae	M825	h	p
+AF442743	AF442743.1 GI:19526	625	Proteobacteria	Xanthomonas	axonopodis	MA	h	u
+D14528	g286120	253	Firmicutes	Mycoplasma	pneumoniae	Mac	h	p
+L07847	g293251	281	Actinobacteria	Mycobacterium	avium	MAC-A	h	p
+L07848	g293252	281	Actinobacteria	Mycobacterium	avium	MAC-B	h	p
+L07849	g293253	281	Actinobacteria	Mycobacterium	avium	MAC-C	h	p
+L07851	g293254	282	Actinobacteria	Mycobacterium	avium	MAC-D	h	p
+L07852	g293255	281	Actinobacteria	Mycobacterium	avium	MAC-E	h	p
+L07853	g293256	281	Actinobacteria	Mycobacterium	avium	MAC-F	h	p
+Z46421	g563894	279	Actinobacteria	Mycobacterium	avium	MAC-I	h	p
+AB004284	g2190025	494	Proteobacteria	Xanthomonas	campestris	MAFF301081	h	u
+AB004282	g2190023	495	Proteobacteria	Xanthomonas	campestris	MAFF301090	h	u
+D87080	g1622712	560	Proteobacteria	Burkholderia	glumae	MAFF301169	h	n
+AB004286	g2190027	493	Proteobacteria	Xanthomonas	campestris	MAFF301206	h	u
+AB004288	g2190029	493	Proteobacteria	Xanthomonas	campestris	MAFF301207	h	u
+AB004289	g2190030	494	Proteobacteria	Xanthomonas	campestris	MAFF301294	h	u
+AB004287	g2190028	493	Proteobacteria	Xanthomonas	campestris	MAFF301421	h	u
+D87079	g1622711	557	Proteobacteria	Burkholderia	plantarii	MAFF301723	h	n
+D86379	g2077930	545	Proteobacteria	Pseudomonas	syringae	MAFF301766	h	u
+D86377	g2077928	545	Proteobacteria	Pseudomonas	syringae	MAFF302282	h	u
+AB004283	g2190024	495	Proteobacteria	Xanthomonas	campestris	MAFF311134	h	u
+AF073241	g4587931	509	Proteobacteria	Xylella	fastidiosa	Manteca	h	p
+AF093470	AF093470.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	Marion Forks	h	n
+L07855	g293258	278	Actinobacteria	Mycobacterium	avium	Mav-A	h	p
+L07856	g293259	278	Actinobacteria	Mycobacterium	avium	Mav-B	h	p
+L07858	g293261	278	Actinobacteria	Mycobacterium	avium	Mav-D	h	p
+L07857	g293260	278	Actinobacteria	Mycobacterium	avium	Mav-D	h	p
+Z46422	g563895	279	Actinobacteria	Mycobacterium	avium	Mav-E	h	p
+AY033296	AY033296.1 GI:14334	148	Actinobacteria	marine	actinobacterium	MB11A03	h	u
+AY033297	AY033297.1 GI:14334	771	Cyanobacteria	Synechococcus	sp	MB11A04	a	n
+AY033298	AY033298.1 GI:14334	368	Proteobacteria	uncultured alpha	bacterium	MB11B03	h	n
+AY033299	AY033299.1 GI:14334	443	Proteobacteria	uncultured alpha	bacterium	MB11B07	h	n
+AY033326	AY033326.1 GI:14334	187	Proteobacteria	uncultured gamma	bacterium	MB11B08	h	n
+AY033300	AY033300.1 GI:14334	400	Proteobacteria	uncultured alpha	bacterium	MB11B10	h	n
+AY033301	AY033301.1 GI:14334	475	Proteobacteria	uncultured gamma	bacterium	MB11B11	h	n
+AY033323	AY033323.1 GI:14334	455	Verrucomicrobia	uncultured	bacterium	MB11C04	u	n
+AY033302	AY033302.1 GI:14334	198	Actinobacteria	marine	actinobacterium	MB11C06	h	u
+AY033324	AY033324.1 GI:14334	739	Proteobacteria	uncultured alpha	bacterium	MB11C09	h	n
+AY033303	AY033303.1 GI:14334	443	Proteobacteria	uncultured alpha	bacterium	MB11D08	h	n
+AY033304	AY033304.1 GI:14334	175	Proteobacteria	uncultured gamma	bacterium	MB11E02	h	n
+AY033306	AY033306.1 GI:14334	392	Proteobacteria	uncultured alpha	bacterium	MB11E07	h	n
+AY033307	AY033307.1 GI:14334	545	Cyanobacteria	Prochlorococcus	sp	MB11E08	a	n
+AY033308	AY033308.1 GI:14334	1772	Cyanobacteria	Synechococcus	sp	MB11E09	a	n
+AY033309	AY033309.1 GI:14334	409	Proteobacteria	uncultured alpha	bacterium	MB11F01	h	n
+AY033310	AY033310.1 GI:14334	546	Cyanobacteria	Prochlorococcus	sp	MB11F02	a	n
+AY033311	AY033311.1 GI:14334	184	Proteobacteria	uncultured gamma	bacterium	MB11G09	h	n
+AY033312	AY033312.1 GI:14334	417	Proteobacteria	uncultured alpha	bacterium	MB12A07	h	n
+AY033313	AY033313.1 GI:14334	427	Proteobacteria	uncultured alpha	bacterium	MB12C06	h	n
+AY033314	AY033314.1 GI:14334	187	Proteobacteria	uncultured gamma	bacterium	MB12D03	h	n
+AY033315	AY033315.1 GI:14334	416	Proteobacteria	uncultured alpha	bacterium	MB12D10	h	n
+AY033316	AY033316.1 GI:14334	398	Proteobacteria	uncultured alpha	bacterium	MB12F11	h	n
+AY033328	AY033328.1 GI:14334	251	Proteobacteria	uncultured gamma	bacterium	MB12G02	h	n
+AY033317	AY033317.1 GI:14334	222	Proteobacteria	uncultured gamma	bacterium	MB12G11	h	n
+AY033325	VERSION AY033325	419	Proteobacteria	uncultured alpha	bacterium	MB13F01	h	n
+AY033319	AY033319.1 GI:14334	398	Proteobacteria	uncultured alpha	bacterium	MB13G10	h	n
+AY033320	AY033320.1 GI:14334	389	Proteobacteria	uncultured alpha	bacterium	MB13H04	h	n
+AY033322	AY033322.1 GI:14334	412	Proteobacteria	uncultured alpha	bacterium	MB21A02	h	n
+NEIMEN001	NEIMEN001	665	Proteobacteria	Neisseria	meningitidis	MC58	h	p
+NEIMEN002	NEIMEN002	665	Proteobacteria	Neisseria	meningitidis	MC58	h	p
+NEIMEN003	NEIMEN003	635	Proteobacteria	Neisseria	meningitidis	MC58	h	p
+AF397674	AF397674.1 GI:18462	547	Cyanobacteria	Prochlorococcus	marinus	MED4ax	a	n
+AF073234	g4587924	509	Proteobacteria	Xylella	fastidiosa	Medeiros	h	p
+AF073230	g4587920	509	Proteobacteria	Xylella	fastidiosa	Meyley	h	p
+AF442742	AF442742.1 GI:19526	625	Proteobacteria	Xanthomonas	axonopodis	MI	h	u
+L07859	g293262	280	Actinobacteria	Mycobacterium	intracellulare	Min-A	h	p
+Z46423	g563896	280	Actinobacteria	Mycobacterium	intracellulare	Min-B	h	p
+Z46424	g563897	280	Actinobacteria	Mycobacterium	intracellulare	Min-C	h	p
+Z46425	g563898	280	Actinobacteria	Mycobacterium	intracellulare	Min-D	h	p
+AF397679	AF397679.1 GI:18462	545	Cyanobacteria	Prochlorococcus	marinus	MIT 9107	a	n
+AF397680	AF397680.1 GI:18462	545	Cyanobacteria	Prochlorococcus	marinus	MIT 9116	a	n
+AF397681	AF397681.1 GI:18462	545	Cyanobacteria	Prochlorococcus	marinus	MIT 9123	a	n
+AF397682	AF397682.1 GI:18462	539	Cyanobacteria	Prochlorococcus	marinus	MIT 9201	a	n
+AF397683	AF397683.1 GI:18463	538	Cyanobacteria	Prochlorococcus	marinus	MIT 9202	a	n
+AF397702	AF397702.1 GI:18463	692	Cyanobacteria	Prochlorococcus	marinus	MIT 9211	a	n
+AF397684	AF397684.1 GI:18463	538	Cyanobacteria	Prochlorococcus	marinus	MIT 9215	a	n
+AF397685	AF397685.1 GI:18463	541	Cyanobacteria	Prochlorococcus	marinus	MIT 9301	a	n
+AF397686	AF397686.1 GI:18463	543	Cyanobacteria	Prochlorococcus	marinus	MIT 9302	a	n
+AF397703	AF397703.1 GI:18463	830	Cyanobacteria	Prochlorococcus	marinus	MIT 9303	a	n
+AF397687	AF397687.1 GI:18463	539	Cyanobacteria	Prochlorococcus	marinus	MIT 9311	a	n
+AF397688	AF397688.1 GI:18463	540	Cyanobacteria	Prochlorococcus	marinus	MIT 9312	a	n
+AF397704	AF397704.1 GI:18463	828	Cyanobacteria	Prochlorococcus	marinus	MIT 9313	a	n
+AF397689	AF397689.1 GI:18463	536	Cyanobacteria	Prochlorococcus	marinus	MIT 9314	a	n
+AF397690	AF397690.1 GI:18463	540	Cyanobacteria	Prochlorococcus	marinus	MIT 9321	a	n
+AF397691	AF397691.1 GI:18463	540	Cyanobacteria	Prochlorococcus	marinus	MIT 9322	a	n
+AF397692	AF397692.1 GI:18463	540	Cyanobacteria	Prochlorococcus	marinus	MIT 9401	a	n
+AF397675	AF397675.1 GI:18462	546	Cyanobacteria	Prochlorococcus	marinus	MIT 9515	a	n
+U68454	g1943894	223	Chlamydiae	Chlamydia	psittaci	MN	h	p
+AJ298766	AJ298766.1 GI:17932	661	Proteobacteria	Nitrosospira	briensis	MNsp10	h	u
+AJ422182	AJ422182.1 GI:19571	976	Proteobacteria	Bartonella	bacilliformis	Monz269	h	p
+AF312493	AF312493.1 GI:15277	927	Proteobacteria	Bartonella	bacilliformis	Monzo269	h	p
+AF312494	AF312494.1 GI:15277	972	Proteobacteria	Bartonella	bacilliformis	Monzo812	h	p
+AF073236	g4587926	509	Proteobacteria	Xylella	fastidiosa	MoorePark	h	p
+CHLTRA001	CHLTRA001	241	Chlamydiae	Chlamydia	trachomatis	MoPn	h	p
+U68436	g1943905	241	Chlamydiae	Chlamydia	trachomatis	MoPn	h	p
+L22210	g388924	395	Firmicutes	Mycoplasma	flocculare	Ms42	h	p
+THEMAR001	THEMAR001	241	Thermotogae	Thermotoga	maritima	MSB8	a	n
+AF338648	AF338648.1 GI:18478	790	Proteobacteria	Bradyrhizobium	japonicum	MSDJ5565	h	n
+Z46426	g563903	282	Actinobacteria	Mycobacterium	simiae	Msi-A	h	p
+Y14186	g2924252	282	Actinobacteria	Mycobacterium	simiae	Msi-A	h	p
+Y14187	g2808592	282	Actinobacteria	Mycobacterium	simiae	Msi-C	h	p
+Y14188	g2808593	282	Actinobacteria	Mycobacterium	simiae	Msi-D	h	p
+L25601	g409420	506	Proteobacteria	Aeromonas	salmonicida	MT030	h	p
+AF093469	AF093469.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	MT417	h	n
+AB050988	AB050988.1 GI:17298	388	Firmicutes	Streptococcus	mutans	MT4245	h	p
+AB050990	AB050990.1 GI:17298	388	Firmicutes	Streptococcus	mutans	MT4251	h	p
+AB050989	AB050989.1 GI:17298	388	Firmicutes	Streptococcus	mutans	MT8148	h	p
+Z84591	Z84591.1 GI:3929661	144	Firmicutes	Bacillus	mycoides	MWS5303-1-4	h	p
+Y14190	g2808595	235	Actinobacteria	Mycobacterium	xenopi	Mxe-A	h	p
+Y14191	g2808596	239	Actinobacteria	Mycobacterium	xenopi	Mxe-B	h	p
+Y14192	g2808597	240	Actinobacteria	Mycobacterium	xenopi	Mxe-C	h	p
+AJ295329	AJ295329.1 GI:16605	34	Microsporidia	unidentified	microsporidian	MYX1	h	p
+U68426	g1943877	223	Chlamydiae	Chlamydia	pneumoniae	N16	h	p
+VIBCHO001	VIBCHO001	428	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO002	VIBCHO002	434	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO003	VIBCHO003	434	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO004	VIBCHO004	434	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO005	VIBCHO005	446	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO006	VIBCHO006	513	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO007	VIBCHO007	715	Proteobacteria	Vibrio	cholerae	N16961	h	p
+VIBCHO008	VIBCHO008	689	Proteobacteria	Vibrio	cholerae	N16961	h	p
+AB060281	AB060281.1 GI:13702	348	Actinobacteria	Nocardia	seriolae	N21	h	u
+AJ314862	AJ314862.1 GI:14456	278	Actinobacteria	Mycobacterium	avium	N238	h	p
+AJ314864	AJ314864.1 GI:14456	280	Actinobacteria	Mycobacterium	intracellulare	N246	h	p
+AJ314863	AJ314863.1 GI:14456	277	Actinobacteria	Mycobacterium	avium	N247	h	p
+AJ269790	AJ269790.1 GI:66869	699	Proteobacteria	Bartonella	grahamii	N24a	h	p
+AJ314865	AJ314865.1 GI:14456	280	Actinobacteria	Mycobacterium	intracellulare	N275	h	p
+AJ269791	AJ269791.1 GI:66870	691	Proteobacteria	Bartonella	sp	N29-3	h	u
+AF440225	AF440225.1 GI:17027	1287	Proteobacteria	Bartonella	sp	N40	h	u
+AJ269787	AJ269787.1 GI:66870	1415	Proteobacteria	Bartonella	sp	N40	h	u
+AB060282	AB060282.1 GI:13702	349	Actinobacteria	Nocardia	seriolae	N99001	h	u
+AF397694	AF397694.1 GI:18463	632	Cyanobacteria	Prochlorococcus	marinus	NATL1A	a	n
+AF397695	AF397695.1 GI:18463	632	Cyanobacteria	Prochlorococcus	marinus	NATL2A	a	n
+AF268426	AF268426.1 GI:87455	489	Proteobacteria	uncultured	bacterium	NAZ1	h	n
+AF268427	AF268427.1 GI:87455	483	Proteobacteria	uncultured	bacterium	NAZ2	h	n
+AF268428	AF268428.1 GI:87455	498	Proteobacteria	uncultured	bacterium	NAZ3	h	n
+AF268429	AF268429.1 GI:87455	489	Proteobacteria	uncultured	bacterium	NAZ4	h	n
+AF268430	AF268430.1 GI:87455	490	Proteobacteria	uncultured	bacterium	NAZ5	h	n
+AF268431	AF268431.1 GI:87455	483	Proteobacteria	uncultured	bacterium	NAZ6	h	n
+AF268432	AF268432.1 GI:87455	512	Proteobacteria	uncultured	bacterium	NAZ7	h	n
+AF268433	AF268433.1 GI:87455	482	Proteobacteria	uncultured	bacterium	NAZ8	h	n
+AB015394	g3551463	357	Cyanobacteria	Microcystis	wesenbergii	NC2	a	u
+AJ298754	AJ298754.1 GI:17932	424	Proteobacteria	Nitrosococcus	mobilis	NC2	h	u
+AB015395	g3551464	357	Cyanobacteria	Microcystis	wesenbergii	NC3	a	u
+AB015396	g3551465	357	Cyanobacteria	Microcystis	wesenbergii	NC4	a	u
+AB015397	g3551466	357	Cyanobacteria	Microcystis	wesenbergii	NC5	a	u
+L36934	g558135	270	Firmicutes	Streptococcus	intermedius	NCDO 2227	h	p
+AF017493	g2738840	438	Actinobacteria	Nocardioides	plantarum	NCIMB 12834	h	u
+AF017497	g2738844	387	Actinobacteria	Nocardioides	simplex	NCIMB 12919	h	u
+AF017498	g2738845	388	Actinobacteria	Nocardioides	simplex	NCIMB 12919	h	u
+AF178998	AF178998.1 GI:66938	534	Actinobacteria	Renibacterium	salmoninarum	NCIMB1114	h	n
+AF178999	AF178999.1 GI:66938	534	Actinobacteria	Renibacterium	salmoninarum	NCIMB1116	h	n
+AB003410	g2351024	454	Euryarchaeota	Natronobacterium	gregoryi	NCIMB2189	h	u
+U45329	g1263039	1095	Proteobacteria	Agrobacterium	vitis	NCPPB3554	h	p
+L42535	g840630	158	Firmicutes	Bacillus	mycoides	NCTC 09680	h	p
+AF342843	AF342843.1 GI:13447	141	Fusobacteria	Fusobacterium	necrophorum	NCTC 10575	h	u
+L36931	g558132	391	Firmicutes	Streptococcus	anginosus	NCTC 10713	h	p
+CAMJEJ001	CAMJEJ001	806	Proteobacteria	Campylobacter	jejuni	NCTC 11168	h	p
+CAMJEJ002	CAMJEJ002	806	Proteobacteria	Campylobacter	jejuni	NCTC 11168	h	p
+CAMJEJ003	CAMJEJ003	806	Proteobacteria	Campylobacter	jejuni	NCTC 11168	h	p
+AF342851	AF342851.1 GI:13447	173	Fusobacteria	Fusobacterium	ulcerans	NCTC 12111	h	u
+AF342852	AF342852.1 GI:13447	173	Fusobacteria	Fusobacterium	ulcerans	NCTC 12112	h	u
+AF489596	AF489596.1 GI:19550	320	Firmicutes	Streptococcus	phocae	NCTC 12719	h	p
+AF033072	AF033072.1 GI:26890	554	Proteobacteria	Actinobacillus	lignieresii	NCTC 4985	h	u
+L16515	g290644	328	Firmicutes	Enterococcus	faecalis	NCTC 775	h	p
+AF410970	AF410970.1 GI:15559	307	Fusobacteria	Fusobacterium	necrophorum	NCTC 10576	h	u
+AF410971	AF410971.1 GI:15559	144	Fusobacteria	Fusobacterium	necrophorum	NCTC 10576	h	u
+AF074828	g4322232	753	Proteobacteria	Campylobacter	jejuni	NCTC 11168	h	p
+AF074837	g4322241	823	Proteobacteria	Campylobacter	coli	NCTC 11366	h	p
+AF074838	g4322242	812	Proteobacteria	Campylobacter	coli	NCTC 11366	h	p
+AF074829	g4322233	664	Proteobacteria	Campylobacter	jejuni	NCTC 11392	h	p
+AF074836	g4322240	778	Proteobacteria	Campylobacter	jejuni	NCTC 11951	h	p
+X76257	g433438	363	Actinobacteria	Mycobacterium	smegmatis	NCTC 8159	h	p
+AJ314874	AJ314874.1 GI:14456	296	Actinobacteria	Mycobacterium	chelonae	NCTC 946	h	p
+AB083115	AB083115.1 GI:20086	216	Firmicutes	Lactobacillus	sp	NGRI 0130	h	n
+AB083117	AB083117.1 GI:20086	206	Firmicutes	Lactobacillus	sp	NGRI 0304	h	n
+AB083118	AB083118.1 GI:20086	206	Firmicutes	Lactobacillus	sp	NGRI 0305	h	n
+AB083121	AB083121.1 GI:20086	201	Firmicutes	Lactobacillus	sp	NGRI 0510	h	n
+AJ005558	g3063896	658	Proteobacteria	Nitrosolobus	multiformis	NI13	h	u
+AJ298755	AJ298755.1 GI:17932	664	Proteobacteria	Nitrosospira	sp	NI20	h	u
+AB015388	g3551457	361	Cyanobacteria	Microcystis	wesenbergii	NIES111	a	u
+AB015361	g3551430	361	Cyanobacteria	Microcystis	aeruginosa	NIES44	a	u
+L08062	g144904	236	Firmicutes	Clostridium	tyrobutyricum	NIZO51	h	p
+U68419	g1943871	224	Chlamydiae	Chlamydia	psittaci	NJ1	h	p
+AB015371	g3551440	359	Cyanobacteria	Microcystis	ichthyoblabe	NL1	a	u
+AJ298756	AJ298756.1 GI:17932	0	Proteobacteria	Nitrosomonas	ureae	Nm10	h	u
+AJ298758	AJ298758.1 GI:17932	531	Proteobacteria	Nitrosomonas	communis	Nm2	h	u
+AJ298757	AJ298757.1 GI:17932	566	Proteobacteria	Nitrosomonas	marina	Nm22	h	u
+AJ298759	AJ298759.1 GI:17932	549	Proteobacteria	Nitrosomonas	sp	Nm33	h	u
+AJ298760	AJ298760.1 GI:17932	596	Proteobacteria	Nitrosomonas	aestuarii	Nm36	h	u
+AJ298761	AJ298761.1 GI:17932	548	Proteobacteria	Nitrosomonas	sp	Nm41	h	u
+AJ298762	AJ298762.1 GI:17932	497	Proteobacteria	Nitrosomonas	oligotropha	Nm45	h	u
+AJ005551	g3063895	461	Proteobacteria	Nitrosomonas	europaea	Nm50	h	u
+AJ298763	AJ298763.1 GI:17932	618	Proteobacteria	Nitrosomonas	sp	Nm51	h	u
+AJ298764	AJ298764.1 GI:17932	612	Proteobacteria	Nitrosomonas	cryotolerans	Nm55	h	u
+AJ298765	AJ298765.1 GI:17932	394	Proteobacteria	Nitrosomonas	eutropha	Nm57	h	u
+U36946	g1244532	310	Proteobacteria	Piscirickettsia	salmonis	NOR-92	h	p
+D84406	g1304035	254	Spirochaetes	Borrelia	garinii	NP81	h	u
+AF017508	g2738855	349	Actinobacteria	Aeromicrobium	erythreum	NRRL B-3381	h	u
+AF367161	AF367161.1 GI:14044	331	Cyanobacteria	Nodularia	spumigena	NSOR-12	a	u
+AF017507	g2738854	328	Actinobacteria	Nocardioides	sp	NSP 41	h	u
+AJ298769	AJ298769.1 GI:17932	675	Proteobacteria	Nitrosospira	sp	Nsp1	h	u
+AJ298767	AJ298767.1 GI:17932	674	Proteobacteria	Nitrosospira	sp	Nsp12	h	u
+AJ298768	AJ298768.1 GI:17932	654	Proteobacteria	Nitrosospira	sp	Nsp17	h	u
+AJ298770	AJ298770.1 GI:17932	650	Proteobacteria	Nitrosospira	sp	Nsp2	h	u
+AF367176	AF367176.1 GI:14044	356	Cyanobacteria	Nodularia	spumigena	NSPI-05	a	u
+D84405	g1304036	246	Spirochaetes	Borrelia	afzelii	NT28	h	u
+AJ298771	AJ298771.1 GI:17932	633	Proteobacteria	Nitrosospira	tenuis	Nv1	h	u
+AJ298772	AJ298772.1 GI:17932	637	Proteobacteria	Nitrosospira	sp	Nv6	h	u
+AJ298773	AJ298773.1 GI:17932	676	Proteobacteria	Nitrosospira	sp	O13	h	u
+AJ298774	AJ298774.1 GI:17932	677	Proteobacteria	Nitrosospira	sp	O4	h	u
+U58866	g1518640	481	Actinobacteria	Brevibacterium	linens	OC2	h	u
+U59266	g1518649	425	Actinobacteria	Brevibacterium	linens	OC2	h	u
+AF394925	AF394925.2 GI:19424	250	Euryarchaeota	Thermococcus	sulfurophilus	OGL-20P	h	n
+AB019552	g3869179	357	Crenarchaeota	Aeropyrum	pernix	OH2	h	u
+AF368391	AF368391.1 GI:15290	1186	Proteobacteria	Bartonella	quintana	Oklahoma	h	u
+AB019793	g3894321	892	Proteobacteria	Liberobacter	asiaticum	OKS7	h	u
+AF073213	g4587903	510	Proteobacteria	Xylella	fastidiosa	OLS-2	h	p
+AB051015	AB051015.1 GI:17298	407	Firmicutes	Streptococcus	sobrinus	OMZ176	h	p
+M55343	g148682	411	Actinobacteria	Frankia	sp	ORS020606	h	u
+AF017506	g2738853	392	Actinobacteria	Nocardioides	sp	OS4	h	u
+U68446	g1943886	222	Chlamydiae	Chlamydia	psittaci	OSP	h	p
+PYRHOR001	PYRHOR001	287	Euryarchaeota	Pyrococcus	horikoshii	OT3	h	u
+AF073238	g4587928	509	Proteobacteria	Xylella	fastidiosa	Oxford	h	p
+AB003598	g2189968	370	Actinobacteria	Mycobacterium	smegmatis	P16	h	p
+AF033086	AF033086.1 GI:26890	407	Proteobacteria	Actinobacillus	pleuropneumoniae	P597	h	p
+AF033073	AF033073.1 GI:26890	554	Proteobacteria	Actinobacillus	lignieresii	P670	h	u
+AF033077	AF033077.1 GI:26890	546	Proteobacteria	Actinobacillus	lignieresii	P671	h	u
+AF033093	g2689025	439	Proteobacteria	Actinobacillus	lignieresii	P671	h	u
+AF397696	AF397696.1 GI:18463	632	Cyanobacteria	Prochlorococcus	marinus	PAC1	a	n
+U68455	g1943895	224	Chlamydiae	Chlamydia	psittaci	Par1	h	p
+AF180968	AF180968.1 GI:62888	512	Cyanobacteria	Nostoc	sp	PCC7120	a	u
+AF367168	AF367168.1 GI:14044	351	Cyanobacteria	Nodularia	sp	PCC73104/1	a	u
+AF367160	AF367160.1 GI:14044	335	Cyanobacteria	Nodularia	sp	PCC7804	a	u
+X00346	g38916	545	Cyanobacteria	Synechococcus	sp	PCC6301	a	n
+SYNSP001	SYNSP001	466	Cyanobacteria	Synechocystis	sp	PCC6803	a	n
+SYNSP002	SYNSP002	466	Cyanobacteria	Synechocystis	sp	PCC6803	a	n
+AF180969	AF180969.1 GI:62888	283	Cyanobacteria	Nostoc	sp	PCC7120	a	u
+AF073220	g4587910	509	Proteobacteria	Xylella	fastidiosa	PD95-2	h	p
+AF073221	g4587911	509	Proteobacteria	Xylella	fastidiosa	PD95-4	h	p
+AB019249	g3821804	360	Firmicutes	Erysipelothrix	rhusiopathiae	Pecs 56	h	u
+AF127584	AF127584.1 GI:13270	501	Proteobacteria	Pseudomonas	gingeri	Pf1	h	u
+AF127580	AF127580.1 GI:13270	515	Proteobacteria	Pseudomonas	reactans	pf1	h	u
+AF073216	g4587906	509	Proteobacteria	Xylella	fastidiosa	PF1	h	p
+AF127583	AF127583.1 GI:13270	500	Proteobacteria	Pseudomonas	gingeri	pf2	h	u
+D89503	g1752789	312	Firmicutes	Mycoplasma	bovigenitalium	PG11	h	p
+AB031585	AB031585.1 GI:58214	377	Firmicutes	Mycoplasma	mycoides	PG3	h	p
+X05658	g44813	228	Firmicutes	Mycoplasma	sp	PG50	h	p
+X05657	g44815	228	Firmicutes	Mycoplasma	sp	PG50	h	p
+AB031589	AB031589.1 GI:58214	377	Firmicutes	Mycoplasma	sp	PG50	h	p
+D13259	g216199	383	Firmicutes	Acholeplasma	laidlawii	PG8	h	p
+D13260	g216198	176	Firmicutes	Acholeplasma	laidlawii	PG8	h	p
+AB031218	AB031218.1 GI:57622	621	Bacteroidetes/Chlorobi	Flavobacterium	columnare	PH97028	h	u
+AJ390589	AJ390589.1 GI:98447	528	Proteobacteria	Pseudomonas	stutzeri	PII1	h	u
+Y15864	g2707930	250	Firmicutes	Phytoplasma	sp	PLL	h	p
+X00083	g44734	238	Euryarchaeota	Methanococcus	vannielii	pMV1	h	u
+Y15869	g2707935	227	Firmicutes	Phytoplasma	sp	PoiBI	h	p
+Y15860	g2689254	252	Firmicutes	Phytoplasma	sp	PP	h	p
+AF073232	g4587922	509	Proteobacteria	Xylella	fastidiosa	PrestonRanch	h	p
+AF329203	AF329203.1 GI:13272	231	Proteobacteria	Zymomonas	mobilis	PROIMI A1	h	u
+L36932	g558133	295	Firmicutes	Streptococcus	anginosus	Q4039	h	p
+L06306	g294379	517	Proteobacteria	Pseudomonas	fluorescens	QP5	h	n
+AF073223	g4587913	509	Proteobacteria	Xylella	fastidiosa	R116V3	h	p
+AF073224	g4587914	509	Proteobacteria	Xylella	fastidiosa	R118V3-4	h	p
+L06304	g294377	517	Proteobacteria	Pseudomonas	fluorescens	R17-FP2	h	n
+AJ269786	AJ269786.1 GI:66869	1289	Proteobacteria	Bartonella	doshiae	R18	h	u
+U68420	g1943900	238	Chlamydiae	Chlamydia	trachomatis	R22	h	p
+U68428	g1943902	238	Chlamydiae	Chlamydia	trachomatis	R24	h	p
+U68429	g1943903	238	Chlamydiae	Chlamydia	trachomatis	R27	h	p
+AY033321	AY033321.1 GI:14334	779	Proteobacteria	alpha	proteobacterium	R2A57	h	n
+L31413	g466514	246	Firmicutes	Streptococcus	pneumoniae	R31	h	p
+AB003597	g2189967	359	Actinobacteria	Mycobacterium	smegmatis	R41	h	p
+AB026205	AB026205.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	R90-3	h	u
+AJ315569	AJ315569.1 GI:14422	275	Actinobacteria	Mycobacterium	bovis	Ravenel	h	p
+AB026204	AB026204.1 GI:66836	307	Actinobacteria	Streptomyces	scabies	RB2	h	u
+AF114721	g5281195	686	Proteobacteria	Vibrio	cholerae	RC2	h	p
+AF114722	g5281196	425	Proteobacteria	Vibrio	cholerae	RC2	h	p
+AF114723	g5281198	510	Proteobacteria	Vibrio	cholerae	RC2	h	p
+AF114724	g5281199	431	Proteobacteria	Vibrio	cholerae	RC2	h	p
+AF114725	g5281201	510	Proteobacteria	Vibrio	cholerae	RC25	h	p
+AF114726	g5281202	425	Proteobacteria	Vibrio	cholerae	RC25	h	p
+AF114727	g5281203	431	Proteobacteria	Vibrio	cholerae	RC25	h	p
+AF114728	g5281205	686	Proteobacteria	Vibrio	cholerae	RC25	h	p
+AF114729	g5281206	510	Proteobacteria	Vibrio	cholerae	RC4	h	p
+AF114730	g5281207	431	Proteobacteria	Vibrio	cholerae	RC4	h	p
+AF114731	g5281209	510	Proteobacteria	Vibrio	cholerae	RC42	h	p
+AF114732	g5281210	431	Proteobacteria	Vibrio	cholerae	RC42	h	p
+AF114733	g5281211	510	Proteobacteria	Vibrio	cholerae	RC44	h	p
+AF114734	g5281212	425	Proteobacteria	Vibrio	cholerae	RC44	h	p
+AF114735	g5281214	431	Proteobacteria	Vibrio	cholerae	RC44	h	p
+AF114736	g5281215	445	Proteobacteria	Vibrio	cholerae	RC45	h	p
+AF114737	g5281216	509	Proteobacteria	Vibrio	cholerae	RC45	h	p
+AF114738	g5281217	686	Proteobacteria	Vibrio	cholerae	RC47	h	p
+AF114739	g5281218	510	Proteobacteria	Vibrio	cholerae	RC47	h	p
+AF114740	g5281219	431	Proteobacteria	Vibrio	cholerae	RC47	h	p
+AF114741	g5281220	511	Proteobacteria	Vibrio	cholerae	RC48	h	p
+AF114742	g5281221	431	Proteobacteria	Vibrio	cholerae	RC48	h	p
+AF114743	g5281222	686	Proteobacteria	Vibrio	cholerae	RC48	h	p
+AF114744	g5281223	509	Proteobacteria	Vibrio	mimicus	RC5	h	p
+AF114745	g5281224	424	Proteobacteria	Vibrio	mimicus	RC5	h	p
+AF114746	g5281225	430	Proteobacteria	Vibrio	mimicus	RC5	h	p
+AF114747	g5281226	670	Proteobacteria	Vibrio	mimicus	RC5	h	p
+AF114748	g5281227	424	Proteobacteria	Vibrio	mimicus	RC55	h	p
+AF114749	g5281228	510	Proteobacteria	Vibrio	mimicus	RC55	h	p
+U32697	g3212177	479	Proteobacteria	Haemophilus	influenzae	Rd	h	p
+HAEINF001	HAEINF001	725	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+HAEINF002	HAEINF002	480	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+HAEINF003	HAEINF003	725	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+HAEINF004	HAEINF004	725	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+HAEINF005	HAEINF005	480	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+HAEINF006	HAEINF006	480	Proteobacteria	Haemophilus	influenzae	RD KW20	h	p
+AJ274378	AJ274378.1 GI:63182	315	Proteobacteria	Photobacterium	damselae	RG91	h	u
+D89507	g1752793	212	Firmicutes	Mycoplasma	muris	RIII4	h	p
+AF315838	AF315838.1 GI:16588	277	Actinobacteria	Mycobacterium	sp	RiVM 16186	h	p
+AF315829	AF315829.1 GI:16588	278	Actinobacteria	Mycobacterium	sp	RiVM 9600439	h	p
+AF315827	AF315827.1 GI:16588	282	Actinobacteria	Mycobacterium	sp	RiVM 9600915	h	p
+AF315835	AF315835.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9601002	h	p
+AF315826	AF315826.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9601388	h	p
+AF315830	AF315830.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9601800	h	p
+AF315833	AF315833.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9601918	h	p
+AF315836	AF315836.1 GI:16588	281	Actinobacteria	Mycobacterium	sp	RiVM 9601940	h	p
+AF315837	AF315837.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9701604	h	p
+AF315834	AF315834.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9701605	h	p
+AF315839	AF315839.1 GI:16588	279	Actinobacteria	Mycobacterium	sp	RiVM 9701619	h	p
+AF315831	AF315831.1 GI:16588	279	Actinobacteria	Mycobacterium	sp	RiVM 9801560	h	p
+AF315828	AF315828.1 GI:16588	279	Actinobacteria	Mycobacterium	sp	RiVM 9801833	h	p
+AF315832	AF315832.1 GI:16588	280	Actinobacteria	Mycobacterium	sp	RiVM 9900327	h	p
+AF342847	AF342847.1 GI:13447	135	Fusobacteria	Fusobacterium	gonidiaformans	RMA 11653	h	u
+AF342848	AF342848.1 GI:13447	135	Fusobacteria	Fusobacterium	gonidiaformans	RMA 11660	h	u
+AF342861	AF342861.1 GI:13447	112	Fusobacteria	Leptotrichia	buccalis	RMA 2181	h	u
+AF342836	AF342836.1 GI:13447	134	Fusobacteria	Fusobacterium	nucleatum	RMA 6681	h	u
+AF342837	AF342837.1 GI:13447	134	Fusobacteria	Fusobacterium	nucleatum	RMA 6840	h	u
+AF342833	AF342833.1 GI:13447	138	Fusobacteria	Fusobacterium	nucleatum	RMA 7159	h	u
+AF397711	AF397711.1 GI:18463	804	Cyanobacteria	Synechococcus	sp	RS8015	a	n
+AF397676	AF397676.1 GI:18462	537	Cyanobacteria	Prochlorococcus	marinus	RS810	a	n
+AF093471	AF093471.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	Rs9	h	n
+AF397725	AF397725.1 GI:18463	780	Cyanobacteria	Synechococcus	sp	RS9705	a	n
+AF397726	AF397726.1 GI:18463	781	Cyanobacteria	Synechococcus	sp	RS9708	a	n
+AJ274633	AJ274633.1 GI:64536	232	Firmicutes	Phytoplasma	bud	Rsa3	h	p
+AJ295323	AJ295323.1 GI:16605	61	Microsporidia	Microsporidium	sp	RSB1	h	p
+AJ295328	AJ295328.1 GI:16605	26	Microsporidia	unidentified	microsporidian	S1	h	p
+D89506	g1752792	215	Firmicutes	Mycoplasma	hyosynoviae	S16	h	p
+AF093463	AF093463.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	S-182-90	h	n
+AJ291595	AJ291595.1 GI:11322	360	Actinobacteria	Mycobacterium	peregrinum	S254	h	p
+AF363486	AF363486.1 GI:14582	315	Actinobacteria	Streptomyces	turgidiscabies	S27	h	u
+AJ291597	AJ291597.1 GI:11322	368	Actinobacteria	Mycobacterium	phlei	S271	h	p
+AJ291592	AJ291592.1 GI:11322	380	Actinobacteria	Mycobacterium	fortuitum	S312	h	p
+AJ291581	AJ291581.1 GI:11322	297	Actinobacteria	Mycobacterium	abscessus	S322	h	p
+AF363485	AF363485.1 GI:14582	307	Actinobacteria	Streptomyces	scabiei	S33	h	u
+AJ291591	AJ291591.1 GI:11322	364	Actinobacteria	Mycobacterium	fortuitum	S336	h	p
+AJ291593	AJ291593.1 GI:11322	362	Actinobacteria	Mycobacterium	fortuitum	S358	h	p
+U73110	U73110.2 GI:5123455	241	Chlamydiae	Chlamydia	suis	S45	h	p
+U68430	g1943904	241	Chlamydiae	Chlamydia	trachomatis	S45	h	p
+AF363500	AF363500.1 GI:14583	299	Actinobacteria	Streptomyces	sp	S63	h	u
+AF363487	AF363487.1 GI:14582	278	Actinobacteria	Streptomyces	acidiscabies	S71	h	u
+AF363501	AF363501.1 GI:14583	272	Actinobacteria	Streptomyces	sp	S78	h	u
+AJ390582	AJ390582.1 GI:98446	505	Proteobacteria	Pseudomonas	stutzeri	SADN19	h	u
+AF369529	AF369529.1 GI:15290	1305	Proteobacteria	Bartonella	henselae	San Ant 2	h	p
+AF073229	g4587919	509	Proteobacteria	Xylella	fastidiosa	SantaCruz	h	p
+AF397693	AF397693.1 GI:18463	541	Cyanobacteria	Prochlorococcus	marinus	SB	a	n
+U73430	g1657913	185	Actinobacteria	Saccharomonospora	caesia	sb01	h	u
+U73432	g1657915	185	Actinobacteria	Saccharomonospora	caesia	sb22	h	u
+U73434	g1657941	144	Actinobacteria	Saccharomonospora	viridis	sb31	h	u
+U73436	g1657943	144	Actinobacteria	Saccharomonospora	viridis	sb33	h	u
+U73438	g1657929	182	Actinobacteria	Saccharomonospora	glauca	sb37	h	u
+U73440	g1657917	185	Actinobacteria	Saccharomonospora	caesia	sb58	h	u
+AB031587	AB031587.1 GI:58214	377	Firmicutes	Mycoplasma	mycoides	SC	h	p
+AF421542	AF421542.1 GI:17298	206	Firmicutes	Phytoplasma	yellows	ScYPIII-Cu	h	p
+AJ390583	AJ390583.1 GI:98446	505	Proteobacteria	Pseudomonas	stutzeri	SD55473	h	u
+AJ390584	AJ390584.1 GI:98446	505	Proteobacteria	Pseudomonas	stutzeri	SD93936	h	u
+L15620	g431354	282	Actinobacteria	Mycobacterium	avium	Sequevar MAC-H	h	p
+L15621	g431355	261	Actinobacteria	Mycobacterium	sp	Sequevar Msp-A	h	p
+M97696	g304457	366	Firmicutes	Clostridium	botulinum	serotype b	h	p
+M97697	g304458	367	Firmicutes	Clostridium	botulinum	serotype e	h	p
+M97698	g304459	437	Firmicutes	Clostridium	botulinum	serotype f	h	p
+AE001345	AE001345.1 GI:33291	315	Chlamydiae	Chlamydia	trachomatis	Serovar D	h	p
+AE001347	AE001347.1 GI:33292	315	Chlamydiae	Chlamydia	trachomatis	Serovar D	h	p
+Y15862	g2689256	271	Firmicutes	Phytoplasma	sp	SESP	h	p
+U68437	g1943906	241	Chlamydiae	Chlamydia	trachomatis	SFPD	h	p
+Y15867	g2707933	246	Firmicutes	Phytoplasma	sp	SGS-A	h	p
+AF368392	AF368392.1 GI:15290	1186	Proteobacteria	Bartonella	quintana	SH-PERM	h	u
+AF353266	AF353266.1 GI:13785	257	Proteobacteria	Bradyrhizobium	sp	Sj4	h	n
+AF197571	AF197571.1 GI:11640	514	Proteobacteria	Alcanivorax	borkumensis	SK2	h	u
+AF197901	AF197901	524	Proteobacteria	Alcanivorax	borkumensis	SK2	h	u
+AF197903	AF197903	331	Proteobacteria	Alcanivorax	borkumensis	SK2	h	u
+AB026200	AB026200.1 GI:66836	306	Actinobacteria	Streptomyces	scabies	SNS-26	h	u
+AF236659	AF236659.1 GI:12957	491	Cyanobacteria	Microchaetaceae	sp	SRS70	a	u
+AF291417	AF291417.1 GI:15077	280	Firmicutes	Streptococcus	agalactiae	SS1214	h	p
+AF397698	AF397698.1 GI:18463	665	Cyanobacteria	Prochlorococcus	marinus	SS2	a	n
+AF397699	AF397699.1 GI:18463	665	Cyanobacteria	Prochlorococcus	marinus	SS35	a	n
+AF397700	AF397700.1 GI:18463	665	Cyanobacteria	Prochlorococcus	marinus	SS51	a	n
+AB071778	AB071778.1 GI:15706	300	Bacteroidetes/Chlorobi	Saprospira	sp	SS90-1	h	u
+AB071782	AB071782.1 GI:15706	475	Bacteroidetes/Chlorobi	Saprospira	sp	SS90-1	h	u
+AB071783	AB071783.1 GI:15706	443	Bacteroidetes/Chlorobi	Saprospira	sp	SS91-40	h	u
+AB071779	AB071779.1 GI:15706	300	Bacteroidetes/Chlorobi	Saprospira	sp	SS91-40	h	u
+AB071784	AB071784.1 GI:15706	480	Bacteroidetes/Chlorobi	Saprospira	sp	SS92-11	h	u
+AB071780	AB071780.1 GI:15706	180	Bacteroidetes/Chlorobi	Saprospira	sp	SS95-4	h	u
+AB071785	AB071785.1 GI:15706	463	Bacteroidetes/Chlorobi	Saprospira	sp	SS95-4	h	u
+AJ251907	AJ251907.1 GI:98445	530	Proteobacteria	Pseudomonas	stutzeri	ST27MN3	h	u
+AJ225071	g2995286	187	Euryarchaeota	Pyrococcus	abyssi	ST549	h	u
+AF073226	g4587916	509	Proteobacteria	Xylella	fastidiosa	StagsLeap	h	p
+AF073228	g4587918	509	Proteobacteria	Xylella	fastidiosa	STL	h	p
+Y17055	g3077650	180	Firmicutes	Phytoplasma	sp	StLL	h	p
+AF073214	g4587904	510	Proteobacteria	Xylella	fastidiosa	Stucky	h	p
+AB015359	g3551428	355	Cyanobacteria	Microcystis	sp	T1-4	a	u
+AB015360	g3551429	357	Cyanobacteria	Microcystis	sp	T17-1	a	u
+AF073217	g4587907	509	Proteobacteria	Xylella	fastidiosa	T1c	h	p
+AB015384	g3551453	358	Cyanobacteria	Microcystis	aeruginosa	T20-1	a	u
+AB015379	g3551448	363	Cyanobacteria	Microcystis	novacekii	T20-3	a	u
+AB003402	g2073137	435	Bacteroidetes/Chlorobi	Prevotella	ruminicola	T31	h	u
+AB015368	g3551437	359	Cyanobacteria	Microcystis	ichthyoblabe	TAC125	a	u
+AB015369	g3551438	359	Cyanobacteria	Microcystis	ichthyoblabe	TAC136	a	u
+AB015370	g3551439	359	Cyanobacteria	Microcystis	ichthyoblabe	TAC138	a	u
+AB015365	g3551434	363	Cyanobacteria	Microcystis	aeruginosa	TAC170	a	u
+AB015398	g3551467	358	Cyanobacteria	Microcystis	viridis	TAC170	a	u
+AB015374	g3551443	360	Cyanobacteria	Microcystis	novacekii	TAC20	a	u
+AB015389	g3551458	358	Cyanobacteria	Microcystis	wesenbergii	TAC38	a	u
+AB015399	g3551468	358	Cyanobacteria	Microcystis	viridis	TAC44	a	u
+AB015400	g3551469	358	Cyanobacteria	Microcystis	viridis	TAC45	a	u
+AB015366	g3551435	358	Cyanobacteria	Microcystis	ichthyoblabe	TAC48	a	u
+AB015390	g3551459	361	Cyanobacteria	Microcystis	wesenbergii	TAC52	a	u
+AB015391	g3551460	361	Cyanobacteria	Microcystis	wesenbergii	TAC57	a	u
+AB015375	g3551444	359	Cyanobacteria	Microcystis	novacekii	TAC65	a	u
+AB015376	g3551445	359	Cyanobacteria	Microcystis	novacekii	TAC66	a	u
+AB015362	g3551431	358	Cyanobacteria	Microcystis	aeruginosa	TAC71	a	u
+AB015401	g3551470	358	Cyanobacteria	Microcystis	viridis	TAC78	a	u
+AB015363	g3551432	359	Cyanobacteria	Microcystis	aeruginosa	TAC86	a	u
+AB015364	g3551433	359	Cyanobacteria	Microcystis	aeruginosa	TAC87	a	u
+AB015367	g3551436	363	Cyanobacteria	Microcystis	ichthyoblabe	TAC91	a	u
+AB015402	g3551471	358	Cyanobacteria	Microcystis	viridis	TAC92	a	u
+AB015403	g3551472	358	Cyanobacteria	Microcystis	viridis	TAC93	a	u
+AF271640	AF271640.1 GI:15080	807	Proteobacteria	Bradyrhizobium	sp	TAL 1000	h	n
+AB019553	g3869180	355	Crenarchaeota	Aeropyrum	pernix	TB1	h	u
+AB019554	g3869181	355	Crenarchaeota	Aeropyrum	pernix	TB7	h	u
+AB015372	g3551441	358	Cyanobacteria	Microcystis	ichthyoblabe	TC2	a	u
+AJ315570	AJ315570.1 GI:14422	275	Actinobacteria	Mycobacterium	africanum	TC3	h	p
+AB015385	g3551454	364	Cyanobacteria	Microcystis	aeruginosa	TC6	a	u
+AJ315571	AJ315571.1 GI:14422	275	Actinobacteria	Mycobacterium	africanum	TC8	h	p
+AB015386	g3551455	357	Cyanobacteria	Microcystis	aeruginosa	TC8	a	u
+AB015373	g3551442	358	Cyanobacteria	Microcystis	ichthyoblabe	TC9	a	u
+AF500010	AF500010.1 GI:20303	185	Firmicutes	Planococcus	citreus	TF-16	h	u
+AJ299218	AJ299218.1 GI:12666	259	Euryarchaeota	Archaeoglobus	lithotrophicus	TF2	h	u
+AF500009	AF500009.1 GI:20303	188	Firmicutes	Planococcus	maritimus	TF-9	h	u
+M20148	g153419	278	Actinobacteria	Streptomyces	lividans	TK21	h	u
+AB015380	g3551449	363	Cyanobacteria	Microcystis	novacekii	TL2	a	u
+AJ314861	AJ314861.1 GI:14456	275	Actinobacteria	Mycobacterium	szulgai	TMC1328	h	p
+AJ314883	AJ314883.1 GI:14456	363	Actinobacteria	Mycobacterium	triviale	TMC1453	h	p
+AJ314867	AJ314867.1 GI:14456	285	Actinobacteria	Mycobacterium	gastri	TMC1456	h	p
+AJ314866	AJ314866.1 GI:14456	235	Actinobacteria	Mycobacterium	xenopi	TMC1470	h	p
+AF071855	AF071855.1 GI:33193	318	Firmicutes	Bacillus	sporothermodurans	TP1248	h	u
+AF071851	g3319303	189	Firmicutes	Bacillus	sporothermodurans	TP1248	h	u
+AF071853	g3319305	353	Firmicutes	Bacillus	sporothermodurans	TP1248	h	u
+AF071854	g3319306	303	Firmicutes	Bacillus	sporothermodurans	TP1248	h	u
+AF073218	g4587908	509	Proteobacteria	Xylella	fastidiosa	TR1	h	p
+AF073235	g4587925	509	Proteobacteria	Xylella	fastidiosa	Traver	h	p
+AF073242	g4587932	509	Proteobacteria	Xylella	fastidiosa	Tulare	h	p
+U76711	g1943926	223	Chlamydiae	Chlamydia	pneumoniae	TW-183	h	p
+AF073231	g4587921	509	Proteobacteria	Xylella	fastidiosa	UCLA	h	p
+AJ314886	AJ314886.1 GI:14456	275	Actinobacteria	Mycobacterium	kansasii	umeda	h	p
+AF367166	AF367166.1 GI:14044	351	Cyanobacteria	Nodularia	sphaerocarpa	UP16a	a	u
+AF367167	AF367167.1 GI:14044	351	Cyanobacteria	Nodularia	sphaerocarpa	UP16f	a	u
+AF312496	AF312496.1 GI:15277	1264	Proteobacteria	Bartonella	henselae	URBHLIE9	h	p
+AF312495	AF312495.1 GI:15277	1274	Proteobacteria	Bartonella	henselae	URBHLLY 8	h	p
+AF368395	AF368395.1 GI:15290	1186	Proteobacteria	Bartonella	quintana	URBQGBAA 3	h	u
+AF368397	AF368397.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMIE 48	h	u
+AF368393	AF368393.1 GI:15290	1186	Proteobacteria	Bartonella	quintana	URBQMLY 4	h	u
+AF368408	AF368408.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 100	h	u
+AF368404	AF368404.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 101	h	u
+AF368410	AF368410.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 102	h	u
+AF368411	AF368411.1 GI:15192	262	Proteobacteria	Bartonella	quintana	URBQMTF 103	h	u
+AF368412	AF368412.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 104	h	u
+AF368409	AF368409.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 105	h	u
+AF368405	AF368405.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 107	h	u
+AF368413	AF368413.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 108	h	u
+AF368414	AF368414.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 109	h	u
+AF368415	AF368415.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 110	h	u
+AF368416	AF368416.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 111	h	u
+AF368417	AF368417.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 112	h	u
+AF368398	AF368398.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 20	h	u
+AF368399	AF368399.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 44	h	u
+AF368400	AF368400.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 47	h	u
+AF368401	AF368401.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 85	h	u
+AF369482	AF369482.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 95	h	u
+AF368406	AF368406.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 96	h	u
+AF368402	AF368402.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 97	h	u
+AF368403	AF368403.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 98	h	u
+AF368407	AF368407.1 GI:15192	260	Proteobacteria	Bartonella	quintana	URBQMTF 99	h	u
+AF368394	AF368394.1 GI:15290	1187	Proteobacteria	Bartonella	quintana	URBQPIEH 2	h	u
+AF368396	AF368396.1 GI:15290	1186	Proteobacteria	Bartonella	quintana	URBQTBAAH 1	h	u
+AF293373	AF293373.1 GI:11321	786	Proteobacteria	Bradyrhizobium	elkanii	USDA 101	h	n
+AF271639	AF271639.1 GI:15080	809	Proteobacteria	Bradyrhizobium	japonicum	USDA 123	h	n
+AF321873	AF321873.1 GI:18001	1172	Proteobacteria	Rhizobium	mongolense	USDA 1844	h	n
+AF284451	AF284451.1 GI:14582	1142	Proteobacteria	Sinorhizobium	fredii	USDA 205	h	u
+AF293376	AF293376.1 GI:11321	786	Proteobacteria	Bradyrhizobium	elkanii	USDA 23	h	n
+AF321871	AF321871.1 GI:18001	1118	Proteobacteria	Rhizobium	giardinii	USDA 2914	h	n
+AF338175	AF338175.1 GI:13447	818	Proteobacteria	Bradyrhizobium	sp	USDA 3177	h	n
+AF293377	AF293377.1 GI:11321	792	Proteobacteria	Bradyrhizobium	japonicum	USDA 32	h	n
+AF338169	AF338169.1 GI:13447	1048	Proteobacteria	Bradyrhizobium	sp	USDA 4362	h	n
+AF338164	AF338164.1 GI:13447	1046	Proteobacteria	Bradyrhizobium	sp	USDA 4363	h	n
+AF338165	AF338165.1 GI:13447	1043	Proteobacteria	Bradyrhizobium	sp	USDA 4366	h	n
+AF338171	AF338171.1 GI:13447	984	Proteobacteria	Bradyrhizobium	sp	USDA 4371	h	n
+AF338174	AF338174.1 GI:13447	896	Proteobacteria	Bradyrhizobium	sp	USDA 4379	h	n
+AF338163	AF338163.1 GI:13447	1044	Proteobacteria	Bradyrhizobium	sp	USDA 4393	h	n
+AF338172	AF338172.1 GI:13447	991	Proteobacteria	Bradyrhizobium	sp	USDA 4399	h	n
+AF338173	AF338173.1 GI:13447	1065	Proteobacteria	Bradyrhizobium	sp	USDA 4406	h	n
+AF338160	AF338160.1 GI:13447	1139	Proteobacteria	Bradyrhizobium	sp	USDA 4409	h	n
+AF338166	AF338166.1 GI:13447	1028	Proteobacteria	Bradyrhizobium	sp	USDA 4410	h	n
+AF338159	AF338159.1 GI:13447	944	Proteobacteria	Bradyrhizobium	sp	USDA 4415	h	n
+AF338167	AF338167.1 GI:13447	981	Proteobacteria	Bradyrhizobium	sp	USDA 4421	h	n
+AF338168	AF338168.1 GI:13447	929	Proteobacteria	Bradyrhizobium	sp	USDA 4424	h	n
+AF338170	AF338170.1 GI:13447	981	Proteobacteria	Bradyrhizobium	sp	USDA 4430	h	n
+AF338161	AF338161.1 GI:13447	896	Proteobacteria	Bradyrhizobium	sp	USDA 4435	h	n
+AF338162	AF338162.1 GI:13447	1009	Proteobacteria	Bradyrhizobium	sp	USDA 4440	h	n
+AF293378	AF293378.1 GI:11321	792	Proteobacteria	Bradyrhizobium	japonicum	USDA 59	h	n
+AF271642	AF271642.1 GI:15080	895	Proteobacteria	Bradyrhizobium	japonicum	USDA 62	h	n
+AF293379	AF293379.1 GI:11321	809	Proteobacteria	Bradyrhizobium	elkanii	USDA 86	h	n
+AF293380	AF293380.1 GI:11321	797	Proteobacteria	Bradyrhizobium	elkanii	USDA 90	h	n
+AF293381	AF293381.1 GI:11321	808	Proteobacteria	Bradyrhizobium	japonicum	USDA 91	h	n
+AF293382	AF293382.1 GI:11321	808	Proteobacteria	Bradyrhizobium	japonicum	USDA 92	h	n
+AF293374	AF293374.1 GI:11321	786	Proteobacteria	Bradyrhizobium	elkanii	USDA 121	h	n
+AF324182	AF324182.1 GI:15077	811	Proteobacteria	Bradyrhizobium	elkanii	USDA 46	h	n
+M19340	g142191	235	Euryarchaeota	Archaeoglobus	fulgidus	V16	h	u
+AJ269785	AJ269785.1 GI:66869	0	Proteobacteria	Bartonella	grahamii	V2	h	p
+AJ420055	AJ420055.1 GI:18496	373	Firmicutes	Bacillus	cereus	V65SP	h	n
+AF336377	AF336377.1 GI:13123	293	Actinobacteria	Tropheryma	whippelii	VA10983_00	h	p
+Y15866	g3077643	271	Firmicutes	Phytoplasma	sp	ViLL	h	p
+AF073233	g4587923	509	Proteobacteria	Xylella	fastidiosa	VinoF	h	p
+L37575	g845218	144	Firmicutes	Bacillus	anthracis	Vollum	h	p
+AB050659	AB050659.1 GI:13928	167	Firmicutes	Bacillus	subtilis	W23	h	n
+L31412	g466513	278	Firmicutes	Streptococcus	agalactiae	W34	h	p
+AF118633	g4249738	733	Bacteroidetes/Chlorobi	Porphyromonas	gingivalis	W50	h	u
+AF093468	AF093468.1 GI:44571	534	Actinobacteria	Renibacterium	salmoninarum	W6	h	n
+Y15870	g2707936	279	Firmicutes	Phytoplasma	sp	WaLL	h	p
+AJ420062	AJ420062.1 GI:18496	371	Firmicutes	Bacillus	weihenstephanensis	WBC10202	h	u
+AJ420061	AJ420061.1 GI:18496	370	Firmicutes	Bacillus	weihenstephanensis	WBC10204T	h	u
+AJ420063	AJ420063.1 GI:18496	370	Firmicutes	Bacillus	weihenstephanensis	WBC10208	h	u
+AJ269792	AJ269792.1 GI:66894	569	Proteobacteria	Bartonella	uncultured	wbs11	h	u
+AJ269793	AJ269793.1 GI:66894	511	Proteobacteria	Bartonella	uncultured	wbs13	h	u
+AJ269794	AJ269794.1 GI:66894	709	Proteobacteria	Bartonella	uncultured	wbs61	h	u
+AJ269796	AJ269796.1 GI:66894	781	Proteobacteria	Bartonella	uncultured	wbs68	h	u
+AJ269798	AJ269798.1 GI:66894	652	Proteobacteria	Bartonella	uncultured	wbs83	h	u
+AJ269797	AJ269797.1 GI:66894	511	Proteobacteria	Bartonella	uncultured	wbs89	h	u
+AJ269795	AJ269795.1 GI:66894	511	Proteobacteria	Bartonella	uncultured	wbs99	h	u
+U68456	g1943896	224	Chlamydiae	Chlamydia	psittaci	WC	h	p
+AF033082	AF033082.1 GI:26890	407	Proteobacteria	Actinobacillus	pleuropneumoniae	WF83	h	p
+AF033065	AF033065.1 GI:26889	513	Proteobacteria	Actinobacillus	pleuropneumoniae	WF83	h	p
+AF397729	AF397729.1 GI:18463	1352	Cyanobacteria	Synechococcus	sp	WH 5701	a	n
+AF397706	AF397706.1 GI:18463	773	Cyanobacteria	Synechococcus	sp	WH 6501	a	n
+AF397727	AF397727.1 GI:18463	780	Cyanobacteria	Synechococcus	sp	WH 7803	a	n
+AF397721	AF397721.1 GI:18463	758	Cyanobacteria	Synechococcus	sp	WH 7805	a	n
+AF397707	AF397707.1 GI:18463	774	Cyanobacteria	Synechococcus	sp	WH 8002	a	n
+AF397708	AF397708.1 GI:18463	774	Cyanobacteria	Synechococcus	sp	WH 8005	a	n
+AF397722	AF397722.1 GI:18463	758	Cyanobacteria	Synechococcus	sp	WH 8008	a	n
+AF397709	AF397709.1 GI:18463	774	Cyanobacteria	Synechococcus	sp	WH 8012	a	n
+AF397717	AF397717.1 GI:18463	783	Cyanobacteria	Synechococcus	sp	WH 8015	a	n
+AF397718	AF397718.1 GI:18463	783	Cyanobacteria	Synechococcus	sp	WH 8016	a	n
+AF397723	AF397723.1 GI:18463	746	Cyanobacteria	Synechococcus	sp	WH 8017	a	n
+AF397724	AF397724.1 GI:18463	657	Cyanobacteria	Synechococcus	sp	WH 8018	a	n
+AF397719	AF397719.1 GI:18463	753	Cyanobacteria	Synechococcus	sp	WH 8020	a	n
+AF397728	AF397728.1 GI:18463	786	Cyanobacteria	Synechococcus	sp	WH 8101	a	n
+AF397712	AF397712.1 GI:18463	805	Cyanobacteria	Synechococcus	sp	WH 8102	a	n
+AF397713	AF397713.1 GI:18463	809	Cyanobacteria	Synechococcus	sp	WH 8103	a	n
+AF397710	AF397710.1 GI:18463	774	Cyanobacteria	Synechococcus	sp	WH 8109	a	n
+AF397714	AF397714.1 GI:18463	806	Cyanobacteria	Synechococcus	sp	WH 8112	a	n
+AF397715	AF397715.1 GI:18463	804	Cyanobacteria	Synechococcus	sp	WH 8113	a	n
+AF397716	AF397716.1 GI:18463	804	Cyanobacteria	Synechococcus	sp	WH 8406	a	n
+AF397720	AF397720.1 GI:18463	757	Cyanobacteria	Synechococcus	sp	WH 9908	a	n
+AJ007374	AJ007374.1 GI:38930	462	Cyanobacteria	uncultured	bacterium	WH7B	a	n
+AJ269789	AJ269789.1 GI:66869	1404	Proteobacteria	Bartonella	grahamii	WM7	h	p
+AJ269788	AJ269788.1 GI:66870	1350	Proteobacteria	Bartonella	taylorii	WM9	h	u
+Z84593	Z84593.1 GI:3929663	143	Firmicutes	Bacillus	thuringiensis	WS 2614	h	p
+Z84594	Z84594.1 GI:3929664	143	Firmicutes	Bacillus	thuringiensis	WS 2617	h	p
+Z84589	Z84589.1 GI:3929631	143	Firmicutes	Bacillus	cereus	WSBC10030	h	n
+Z84590	Z84590.1 GI:3929660	144	Firmicutes	Bacillus	cereus	WSBC10206	h	n
+AF122911	AF122911.1 GI:49594	221	Firmicutes	Phytoplasma	yellows	WVEY	h	p
+AF271641	AF271641.1 GI:15080	833	Proteobacteria	Bradyrhizobium	japonicum	X1-3	h	n
+AF442740	AF442740.1 GI:19526	625	Proteobacteria	Xanthomonas	axonopodis	X341	h	u
+AF442739	AF442739.1 GI:19526	625	Proteobacteria	Xanthomonas	axonopodis	X84	h	u
+D85626	g1369893	251	Spirochaetes	Borrelia	garinii	XB141	h	u
+D85625	g1369894	250	Spirochaetes	Borrelia	garinii	XB190	h	u
+D85627	g1369895	253	Spirochaetes	Borrelia	garinii	XB37	h	u
+AF123089	AF123089.2 GI:45443	582	Proteobacteria	Xanthomonas	axonopodis	XV153	h	u
+AJ245851	AJ245851.1 GI:65721	476	Actinobacteria	Bifidobacterium	infantis	Y1	h	u
+AJ245849	AJ245849.1 GI:65721	451	Actinobacteria	Bifidobacterium	longum	Y10	h	u
+AJ245850	AJ245850.1 GI:65721	427	Actinobacteria	Bifidobacterium	breve	Y8	h	u
+D84407	g1304037	248	Spirochaetes	Borrelia	sp	Ya501	h	u
+AF291171	AF291171.1 GI:99315	731	Euryarchaeota	uncultured	haloarchaeon	YELI-230	h	n
+U68439	g1943883	225	Chlamydiae	Chlamydia	pecorum	Z	h	p
+NEIMEN004	NEIMEN004	687	Proteobacteria	Neisseria	meningitidis	Z2491	h	p
+NEIMEN005	NEIMEN005	688	Proteobacteria	Neisseria	meningitidis	Z2491	h	p
+NEIMEN006	NEIMEN006	688	Proteobacteria	Neisseria	meningitidis	Z2491	h	p
+NEIMEN007	NEIMEN007	688	Proteobacteria	Neisseria	meningitidis	Z2491	h	p
+AF489601	AF489601.1 GI:19550	741	Firmicutes	Streptococcus	equi	z28	h	p
+U68460	g1943912	292	Chlamydiae	Simkania	sp	ZV1	h	u
+AF163125	AF163125.1 GI:67149	448	Actinobacteria	Actinomadura	fibrosa		h	u
+AF163126	AF163126.1 GI:67149	473	Actinobacteria	Actinomadura	hibisca		h	u
+AF163127	AF163127.1 GI:67149	464	Actinobacteria	Actinomadura	livida		h	u
+AF163128	AF163128.1 GI:67149	385	Actinobacteria	Actinomadura	longicatena		h	u
+AF163129	AF163129.1 GI:67149	426	Actinobacteria	Actinomadura	oligospora		h	u
+AF163130	AF163130.1 GI:67149	467	Actinobacteria	Actinomadura	pelletieri		h	u
+AF163131	AF163131.1 GI:67149	395	Actinobacteria	Actinomadura	spadix		h	u
+AF163132	AF163132.1 GI:67149	614	Actinobacteria	Actinomadura	umbrina		h	u
+AF163133	AF163133.1 GI:67149	417	Actinobacteria	Actinomadura	yumaensis		h	u
+X89513	g1429247	452	Actinobacteria	Bifidobacterium	lactis		h	u
+X89111	g895745	449	Actinobacteria	Bifidobacterium	sp		h	u
+U90442	g1906004	412	Actinobacteria	Brevibacterium	linens		h	u
+U62524	g1518701	422	Actinobacteria	Brevibacterium	linens		h	u
+U90443	g1906005 g1906005	414	Actinobacteria	Brevibacterium	linens		h	u
+AF034642	g3982593	479	Actinobacteria	Clavibacter	xyli		h	u
+AF034641	g3982592	502	Actinobacteria	Clavibacter	xyli		h	u
+M88466	M88466.1 GI:148681	421	Actinobacteria	Frankia	sp		h	u
+L08167	g348127	370	Actinobacteria	Gardnerella	vaginalis		h	u
+U93319	g2511464 g2511464	283	Actinobacteria	Kitasatosporia	cystarginea		h	u
+U93323	g2511466	253	Actinobacteria	Kitasatosporia	kifunense		h	u
+U93325	g2511468	279	Actinobacteria	Kitasatosporia	mediocidica		h	u
+U93327	g2511470	282	Actinobacteria	Kitasatosporia	melanogena		h	u
+U93329	g2511472 g2511472	281	Actinobacteria	Kitasatosporia	paracochleatus		h	u
+U93333	g2511474 g2511474	277	Actinobacteria	Kitasatosporia	setalba		h	u
+U93335	g2511476	282	Actinobacteria	Kitasatosporia	streptosporus		h	u
+U83909	g2226286	170	Actinobacteria	Microbispora	bispora		h	u
+U83910	g2226287	421	Actinobacteria	Microbispora	bispora		h	u
+U83911	g2226288	164	Actinobacteria	Microbispora	bispora		h	u
+U83912	g2226289	323	Actinobacteria	Microbispora	bispora		h	u
+AF004007	g2290980	405	Actinobacteria	Microbispora	chromogenes		h	u
+AF004001	g2290974	385	Actinobacteria	Micromonospora	carbonacea		h	u
+AF004000	g2290973	394	Actinobacteria	Micromonospora	carbonacea		h	u
+AF004005	g2290978	360	Actinobacteria	Micromonospora	echinospora		h	u
+AF004006	g2290979	386	Actinobacteria	Micromonospora	echinospora		h	u
+AF004002	g2290975	382	Actinobacteria	Micromonospora	halophytica		h	u
+AF004003	g2290976	369	Actinobacteria	Micromonospora	inositola		h	u
+AF004004	g2290977	351	Actinobacteria	Micromonospora	olivasterospora		h	u
+AF004008	g2290981	340	Actinobacteria	Microtetraspora	africana		h	u
+AF004009	g2290982	303	Actinobacteria	Microtetraspora	salmonea		h	u
+AF191094	AF191094.1 GI:88952	459	Actinobacteria	Mycobacterium	acapulcensis		h	p
+AF191087	AF191087.1 GI:88952	300	Actinobacteria	Mycobacterium	asiaticum		h	p
+X74495	g527543	274	Actinobacteria	Mycobacterium	avium		h	p
+X74054	g395173	276	Actinobacteria	Mycobacterium	avium		h	p
+X74494	g527541	274	Actinobacteria	Mycobacterium	avium		h	p
+AJ012756	g3925715	276	Actinobacteria	Mycobacterium	botniense		h	p
+X92668	g2275047	282	Actinobacteria	Mycobacterium	conspicuum		h	p
+AF186463	AF186463.1 GI:10504	418	Actinobacteria	Mycobacterium	diernhoferi		h	p
+Y10384	g2462567	330	Actinobacteria	Mycobacterium	farcinogenes		h	p
+AF191086	AF191086.1 GI:88952	379	Actinobacteria	Mycobacterium	flavescens		h	p
+AF144326	AF144326.1 GI:10503	362	Actinobacteria	Mycobacterium	fortuitum		h	p
+AF312318	AF312318.1 GI:18032	391	Actinobacteria	Mycobacterium	gallinarum		h	p
+X97633	g2407941	285	Actinobacteria	Mycobacterium	gastri		h	p
+Y14182	g2808588	285	Actinobacteria	Mycobacterium	gastri		h	p
+Y14183	g2808589	282	Actinobacteria	Mycobacterium	genavense		h	p
+X74056	g395175	283	Actinobacteria	Mycobacterium	habana		h	p
+X74057	g395180	279	Actinobacteria	Mycobacterium	intracellulare		h	p
+U44776	g1177858	281	Actinobacteria	Mycobacterium	intracellulare		h	p
+X97632	g1313976	275	Actinobacteria	Mycobacterium	kansasii		h	p
+AF317658	AF317658.1 GI:14150	283	Actinobacteria	Mycobacterium	lentiflavum		h	p
+AF318174	AF318174.1 GI:14091	284	Actinobacteria	Mycobacterium	lentiflavum		h	p
+X56657	g44379	295	Actinobacteria	Mycobacterium	leprae		h	p
+X74055	g395182	280	Actinobacteria	Mycobacterium	lufu		h	p
+Z35225	g603032	272	Actinobacteria	Mycobacterium	malmoense		h	p
+Y14184	g2808590	273	Actinobacteria	Mycobacterium	malmoense		h	p
+Y14185	g2808591	273	Actinobacteria	Mycobacterium	marinum		h	p
+X74493	g527542	359	Actinobacteria	Mycobacterium	phlei		h	p
+L15622	g431356	281	Actinobacteria	Mycobacterium	scrofulaceum		h	p
+Y10385	g2462601	305	Actinobacteria	Mycobacterium	senegalense		h	p
+AJ005005	g3492804	274	Actinobacteria	Mycobacterium	shimoidei		h	p
+X99219	g2275045	274	Actinobacteria	Mycobacterium	shimoidei		h	p
+Y08453	g1707597	363	Actinobacteria	Mycobacterium	smegmatis		h	p
+X99220	g2275046	275	Actinobacteria	Mycobacterium	szulgai		h	p
+AJ314868	AJ314868.1 GI:14456	363	Actinobacteria	Mycobacterium	terrae		h	p
+Z46427	g563904	262	Actinobacteria	Mycobacterium	terrae		h	p
+AF334028	AF334028.1 GI:13022	284	Actinobacteria	Mycobacterium	triplex		h	p
+Y14189	g2808594	284	Actinobacteria	Mycobacterium	triplex		h	p
+X99221	g1435169	350	Actinobacteria	Mycobacterium	triviale		h	p
+L15623	g431357	274	Actinobacteria	Mycobacterium	tuberculosis		h	p
+X58890	g44669	276	Actinobacteria	Mycobacterium	tuberculosis		h	p
+X99217	g1435170	273	Actinobacteria	Mycobacterium	ulcerans		h	p
+AF163814	AF163814.1 GI:10503	429	Actinobacteria	Mycobacterium	vaccae		h	p
+L15624	g431358	235	Actinobacteria	Mycobacterium	xenopi		h	p
+AF218431	AF218431.1 GI:12004	309	Actinobacteria	Propionibacterium	acidipropionici		h	u
+AF218432	AF218432.1 GI:12004	338	Actinobacteria	Propionibacterium	freudenreichii		h	u
+AF218434	AF218434.1 GI:12004	338	Actinobacteria	Propionibacterium	freudenreichii		h	u
+AF218433	AF218433.1 GI:12004	322	Actinobacteria	Propionibacterium	jensenii		h	u
+AF218435	AF218435.1 GI:12004	268	Actinobacteria	Propionibacterium	thoenii		h	u
+AF163134	AF163134.1 GI:67149	528	Actinobacteria	Spirillospora	rubra		h	u
+U93342	g2290512	294	Actinobacteria	Streptomyces	albidoflavus		h	u
+U93343	g2290513	270	Actinobacteria	Streptomyces	albosporeus		h	u
+U93344	g2290514	302	Actinobacteria	Streptomyces	canus		h	u
+U93345	g2290515	299	Actinobacteria	Streptomyces	celluloflavus		h	u
+U93346	g2290516	312	Actinobacteria	Streptomyces	fradiae		h	u
+M76388	g153245	304	Actinobacteria	Streptomyces	griseus		h	u
+U93347	g2290517	280	Actinobacteria	Streptomyces	lavendulae		h	u
+U93348	g2290518	283	Actinobacteria	Streptomyces	mauvecolor		h	u
+AF114033	AF114033.1 GI:55240	327	Actinobacteria	Streptomyces	nodosus		h	u
+AF114034	AF114034.1 GI:55240	322	Actinobacteria	Streptomyces	nodosus		h	u
+AF114035	AF114035.1 GI:55240	329	Actinobacteria	Streptomyces	nodosus		h	u
+AF114036	AF114036.1 GI:55240	328	Actinobacteria	Streptomyces	nodosus		h	u
+U93349	g2290519	299	Actinobacteria	Streptomyces	platensis		h	u
+X62884	g509401	298	Actinobacteria	Streptomyces	rimosus		h	u
+U93350	g2290520	300	Actinobacteria	Streptomyces	sulphureus		h	u
+X86939	g929904	234	Actinobacteria	Streptomyces	violaceus		h	u
+AF004010	g2290983	389	Actinobacteria	Streptosporangium	amethystogenes		h	u
+AF004011	g2290984	415	Actinobacteria	Streptosporangium	corrugatum		h	u
+AF004012	g2290985	362	Actinobacteria	Streptosporangium	fragile		h	u
+AF004013	g2290986	458	Actinobacteria	Streptosporangium	pseudovulgare		h	u
+AF190687	AF190687.1 GI:81015	294	Actinobacteria	Tropheryma	whippelii		h	p
+AF074933	g3319316	294	Actinobacteria	Tropheryma	whippelii		h	p
+X99636	g1633035	294	Actinobacteria	Tropheryma	whippelii		h	p
+AF248312	AF248312.1 GI:13506	294	Actinobacteria	Tropheryma	whipplei		h	p
+AE000709	AE000709.1 GI:29833	314	Aquificae	Aquifex	aeolicus		a	n
+AE000751	AE000751.1 GI:29840	314	Aquificae	Aquifex	aeolicus		a	n
+AF352543	AF352543.1 GI:14718	298	Aquificae	uncultured	bacterium		a	n
+AF352546	AF352546.1 GI:14718	298	Aquificae	uncultured	bacterium		a	n
+AF352547	AF352547.1 GI:14718	306	Aquificae	uncultured	bacterium		a	n
+AF352548	AF352548.1 GI:14718	308	Aquificae	uncultured	bacterium		a	n
+AF352550	AF352550.1 GI:14718	307	Aquificae	uncultured	bacterium		a	n
+AF352551	AF352551.1 GI:14718	309	Aquificae	uncultured	bacterium		a	n
+AF352544	AF352544.1 GI:14718	299	Aquificae	uncultured	bacterium		a	n
+AF352545	AF352545.1 GI:14718	298	Aquificae	uncultured	bacterium		a	n
+AF352549	AF352549.1 GI:14718	308	Aquificae	uncultured	bacterium		a	n
+AF352552	AF352552.1 GI:14718	309	Aquificae	uncultured	bacterium		a	n
+AF352553	AF352553.1 GI:14718	309	Aquificae	uncultured	bacterium		a	n
+AF352554	AF352554.1 GI:14718	314	Aquificae	uncultured	bacterium		a	n
+AF176692	AF176692.1 GI:58234	485	Bacteroidetes/Chlorobi	Bacteroides	uniformis		h	u
+AF176693	AF176693.1 GI:58234	426	Bacteroidetes/Chlorobi	Bacteroides	vulgatus		h	u
+L17035	g304587	191	Bacteroidetes/Chlorobi	Cytophaga	psychrophila		h	n
+X80994	g530044	573	Bacteroidetes/Chlorobi	Rhodothermus	marinus		h	n
+AB071781	AB071781.1 GI:15706	203	Bacteroidetes/Chlorobi	Saprospira	grandis		h	u
+AB071786	AB071786.1 GI:15706	562	Bacteroidetes/Chlorobi	Saprospira	grandis		h	u
+AF347606	AF347606.1 GI:13560	222	Chlamydiae	Chlamydophila	pneumoniae		h	u
+AF193069	AF193069.1 GI:61800	348	Chlamydiae	Parachlamydia	acanthamoebae		h	p
+AF042496	g4730930	190	Chlamydiae	Waddlia	chondrophila		h	u
+X03848	X03848.1 GI:11356	4842	Chlorophyta	Chlorella	pyrenoidosa		a	u
+AJ245645	AJ245645.1 GI:57486	297	Chlorophyta	Prototheca	wickerhamii		a	u
+U32317	g942626	200	Crenarchaeota	Acidianus	brierleyi		h	u
+U32318	g942627	185	Crenarchaeota	Acidianus	infernus		h	u
+AERPER001	AERPER001	723	Crenarchaeota	Aeropyrum	pernix		h	u
+AF083071	g3599373	132	Crenarchaeota	Cenarchaeum	symbiosum		h	n
+AF083072	g3599393	132	Crenarchaeota	Cenarchaeum	symbiosum		h	n
+X06189	g40809	210	Crenarchaeota	Desulfurococcus	mobilis		h	u
+L36461	g548233	210	Crenarchaeota	Pyrodictium	brockii		h	u
+M19343	g151733	146	Crenarchaeota	Pyrodictium	occultum		h	u
+U32319	U32319.1 GI:942628	204	Crenarchaeota	Stygiolobus	azoricus		h	u
+U32320	U32320.1 GI:942629	203	Crenarchaeota	Sulfolobus	acidocaldarius		h	n
+D14876	D14876.1 GI:287450	203	Crenarchaeota	Sulfolobus	acidocaldarius		h	n
+U05018	g460149	135	Crenarchaeota	Sulfolobus	acidocaldarius		h	n
+U32321	U32321.1 GI:942630	185	Crenarchaeota	Sulfolobus	shibatae		h	n
+U32322	U32322.1 GI:942631	186	Crenarchaeota	Sulfolobus	solfataricus		h	n
+X14835	g48225	170	Crenarchaeota	Thermofilum	pendens		h	n
+X05073	g48266	175	Crenarchaeota	Thermoproteus	tenax		h	n
+AF041468	AF041468.1 GI:36029	276	Cryptophyta	Guillardia	theta		a	u
+X75044	g928883	480	Cyanobacteria	Arthrospira	sp		a	u
+X70769	g556876	473	Cyanobacteria	Arthrospira	sp		a	u
+AF236642	AF236642.1 GI:12957	526	Cyanobacteria	Calothrix	parietina		a	u
+AF236643	AF236643.1 GI:12957	329	Cyanobacteria	Calothrix	parietina		a	u
+AF236652	AF236652.1 GI:12957	512	Cyanobacteria	Coelodesmium	wrangelii		a	u
+AF387610	AF387610.1 GI:18653	473	Cyanobacteria	Cyanobium	gracile		a	u
+AF397730	AF397730.1 GI:18463	627	Cyanobacteria	Cyanobium	gracile		a	u
+AF236653	AF236653.1 GI:18698	478	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF236654	AF236654.1 GI:18698	478	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF236655	AF236655.1 GI:18698	348	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF236656	AF236656.1 GI:18698	570	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF236657	AF236657.1 GI:18698	430	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF236658	AF236658.1 GI:18698	414	Cyanobacteria	Microcoleus	vaginatus		a	u
+AF387609	AF387609.1 GI:18653	515	Cyanobacteria	Microcystis	aeruginosa		a	u
+AY007688	AY007688.1 GI:12862	400	Cyanobacteria	Scytonema	hyalinum		a	u
+X75045	g547607	488	Cyanobacteria	Spirulina	sp		a	u
+AF317076	AF317076.1 GI:16588	912	Cyanobacteria	Synechococcus	rubescens		a	n
+AY007689	AY007689.1 GI:14326	522	Cyanobacteria	Tolypothrix	distorta		a	u
+X72871	g531769	501	Cyanobacteria	Trichodesmium	sp		a	n
+X12890	X12890.1 GI:11524	259	Euglenida	Euglena	gracilis		a	u
+ARCFUL001	ARCFUL001	237	Euryarchaeota	Archaeoglobus	fulgidus		h	u
+Y10011	Y10011.2 GI:1562623	260	Euryarchaeota	Archaeoglobus	veneficus		h	u
+AF034619	g3377778	383	Euryarchaeota	Haloarcula	marismortui		h	u
+AF034620	g3377779	404	Euryarchaeota	Haloarcula	marismortui		h	u
+K02971	g148795	509	Euryarchaeota	Halobacterium	cutirubrum		h	n
+X03407	X03407.1 GI:43554	528	Euryarchaeota	Halobacterium	halobium		h	n
+X72588	g288192	433	Euryarchaeota	Halococcus	morrhuae		h	u
+AF093412	AF093412.1 GI:10197	383	Euryarchaeota	Haloferax	mediterranei		h	n
+M19341	g148821	391	Euryarchaeota	Haloferax	volcanii		h	n
+METTHE001	METTHE001	329	Euryarchaeota	Methanobacterium	thermoautotrophicum		h	u
+METTHE002	METTHE002	329	Euryarchaeota	Methanobacterium	thermoautotrophicum		h	u
+X15364	g44670	344	Euryarchaeota	Methanobacterium	thermoautotrophicum		h	u
+X00084	g44735	162	Euryarchaeota	Methanococcus	vannielii		h	u
+X51423	X51423.1 GI:44545	327	Euryarchaeota	Methanosaeta	concilii		h	u
+X69874	g44287	276	Euryarchaeota	Methanosarcina	frisia		h	u
+M19342	g149815	295	Euryarchaeota	Methanospirillum	hungatei		h	u
+X72495	X72495.1 GI:473100	405	Euryarchaeota	Natrialba	magadii		h	u
+L36458	g548234	186	Euryarchaeota	Pyrococcus	furiosus		h	u
+Z54172	g987962	188	Euryarchaeota	Pyrococcus	sp		h	u
+M19344	g154682	257	Euryarchaeota	Thermococcus	celer		h	n
+Z70244	g1235787	181	Euryarchaeota	Thermococcus	hydrothermalis		h	n
+Z75218	g1480366	190	Euryarchaeota	Thermococcus	mexicalis		h	n
+Z75233	g1480367	180	Euryarchaeota	Thermococcus	profundus		h	n
+Z75240	g1480368	181	Euryarchaeota	Thermococcus	stetteri		h	n
+AF005315	g2337955	332	Firmicutes	Acholeplasma	axanthum		h	p
+AF005316	g2337956	159	Firmicutes	Acholeplasma	axanthum		h	p
+AF005318	g2695643	175	Firmicutes	Acholeplasma	brassicae		h	p
+AF005317	g2695642	319	Firmicutes	Acholeplasma	brassicae		h	p
+AF294996	AF294996.1 GI:14626	177	Firmicutes	Acholeplasma	laidlawii		h	p
+E07208	g2175349	374	Firmicutes	Acholeplasma	laidlawii		h	p
+E07209	g2175350	166	Firmicutes	Acholeplasma	laidlawii		h	p
+AF005319	g2695644	249	Firmicutes	Acholeplasma	modicum		h	p
+AF005320	g2695645	145	Firmicutes	Acholeplasma	modicum		h	p
+AF005321	g2707193	348	Firmicutes	Acholeplasma	oculi		h	p
+AF005322	g2707194	181	Firmicutes	Acholeplasma	oculi		h	p
+AF005323	g2707195	335	Firmicutes	Acholeplasma	palmae		h	p
+AF005324	g2707196	149	Firmicutes	Acholeplasma	palmae		h	p
+AF005325	g2337953	353	Firmicutes	Anaeroplasma	abactoclasticum		h	p
+AF005326	g2707197	198	Firmicutes	Anaeroplasma	abactoclasticum		h	p
+AF293851	AF293851.1 GI:98024	144	Firmicutes	Bacillus	cereus		h	n
+X89896	g927388	143	Firmicutes	Bacillus	cereus		h	n
+X94448	g1149455	142	Firmicutes	Bacillus	cereus		h	n
+K00637	g143425	168	Firmicutes	Bacillus	subtilis		h	n
+Z99104	Z99104.1 GI:2632267	346	Firmicutes	Bacillus	subtilis		h	n
+Z99104	Z99104.1 GI:2632267-	168	Firmicutes	Bacillus	subtilis		h	n
+Z99104	Z99104.1 GI:2632267-	167	Firmicutes	Bacillus	subtilis		h	n
+Z99104	Z99104.1 GI:2632267-	166	Firmicutes	Bacillus	subtilis		h	n
+Z99107	Z99107.1 GI:2632866	168	Firmicutes	Bacillus	subtilis		h	n
+Z99108	Z99108.1 GI:2633055	169	Firmicutes	Bacillus	subtilis		h	n
+Z99119	Z99119.1 GI:2635411	169	Firmicutes	Bacillus	subtilis		h	n
+AF008220	g2293135	168	Firmicutes	Bacillus	subtilis		h	n
+X89895	g927390	141	Firmicutes	Bacillus	thuringiensis		h	p
+U20789	g676876	144	Firmicutes	Bacillus	thuringiensis		h	p
+AF056004	g3065731	517	Firmicutes	Clavibacter	xyli		h	u
+AF056003	g3065730	536	Firmicutes	Clavibacter	xyli		h	u
+M97699	g304456	365	Firmicutes	Clostridium	botulinum		h	p
+AB040718	AB040718.1 GI:12038	250	Firmicutes	Clostridium	carnis		h	p
+AB040719	AB040719.1 GI:12038	442	Firmicutes	Clostridium	carnis		h	p
+AB040720	AB040720.1 GI:12038	461	Firmicutes	Clostridium	carnis		h	p
+AB040721	AB040721.1 GI:12038	499	Firmicutes	Clostridium	carnis		h	p
+AB040540	AB040540.1 GI:12038	228	Firmicutes	Clostridium	chauvoei		h	p
+AB040541	AB040541.1 GI:12038	305	Firmicutes	Clostridium	chauvoei		h	p
+AB040542	AB040542.1 GI:12038	383	Firmicutes	Clostridium	chauvoei		h	p
+AB040712	AB040712.1 GI:12038	228	Firmicutes	Clostridium	chauvoei		h	p
+AB040713	AB040713.1 GI:12038	305	Firmicutes	Clostridium	chauvoei		h	p
+AB040714	AB040714.1 GI:12038	383	Firmicutes	Clostridium	chauvoei		h	p
+AJ132322	AJ132322.1 GI:53609	178	Firmicutes	Clostridium	difficile		h	p
+AB040728	AB040728.1 GI:12039	159	Firmicutes	Clostridium	haemolyticum		h	p
+AB040729	AB040729.1 GI:12039	318	Firmicutes	Clostridium	haemolyticum		h	p
+AB040730	AB040730.1 GI:12039	372	Firmicutes	Clostridium	haemolyticum		h	p
+AB040722	AB040722.1 GI:12038	172	Firmicutes	Clostridium	novyi		h	p
+AB040723	AB040723.1 GI:12039	365	Firmicutes	Clostridium	novyi		h	p
+AB040724	AB040724.1 GI:12039	410	Firmicutes	Clostridium	novyi		h	p
+AB040725	AB040725.1 GI:12039	159	Firmicutes	Clostridium	novyi		h	p
+AB040726	AB040726.1 GI:12039	322	Firmicutes	Clostridium	novyi		h	p
+AB040727	AB040727.1 GI:12039	372	Firmicutes	Clostridium	novyi		h	p
+AB045282	AB045282.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045283	AB045283.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045284	AB045284.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045285	AB045285.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045286	AB045286.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045287	AB045287.1 GI:16904	188	Firmicutes	Clostridium	perfringens		h	p
+AB045288	AB045288.1 GI:16904	187	Firmicutes	Clostridium	perfringens		h	p
+AB045289	AB045289.1 GI:16904	421	Firmicutes	Clostridium	perfringens		h	p
+AB045290	AB045290.1 GI:16904	419	Firmicutes	Clostridium	perfringens		h	p
+AB045291	AB045291.1 GI:16904	420	Firmicutes	Clostridium	perfringens		h	p
+AB040736	AB040736.1 GI:12039	185	Firmicutes	Clostridium	perfringens		h	p
+AB040737	AB040737.1 GI:12039	419	Firmicutes	Clostridium	perfringens		h	p
+AB040715	AB040715.1 GI:12038	302	Firmicutes	Clostridium	septicum		h	p
+AB040716	AB040716.1 GI:12038	378	Firmicutes	Clostridium	septicum		h	p
+AB040717	AB040717.1 GI:12038	456	Firmicutes	Clostridium	septicum		h	p
+AB040731	AB040731.1 GI:12039	139	Firmicutes	Clostridium	sordellii		h	p
+AB040732	AB040732.1 GI:12039	196	Firmicutes	Clostridium	sordellii		h	p
+AB040733	AB040733.1 GI:12039	198	Firmicutes	Clostridium	sordellii		h	p
+AB040734	AB040734.1 GI:12039	228	Firmicutes	Clostridium	sordellii		h	p
+AB040735	AB040735.1 GI:12039	245	Firmicutes	Clostridium	sordellii		h	p
+X87177	g1848154	330	Firmicutes	Enterococcus	durans		h	p
+X87178	g1848155	277	Firmicutes	Enterococcus	durans		h	p
+X87186	g1848164	328	Firmicutes	Enterococcus	faecalis		h	p
+X87182	g1848166	226	Firmicutes	Enterococcus	faecalis		h	p
+X79343	g4165458	229	Firmicutes	Enterococcus	faecium		h	p
+X79342	g4165457	326	Firmicutes	Enterococcus	faecium		h	p
+AF003921	g2197119	447	Firmicutes	Enterococcus	faecium		h	p
+AF003922	g2197120	349	Firmicutes	Enterococcus	faecium		h	p
+AF028836	g2746216	334	Firmicutes	Enterococcus	faecium		h	p
+X87184	g1848171	232	Firmicutes	Enterococcus	hirae		h	p
+X87188	g1848173	230	Firmicutes	Enterococcus	mundtii		h	p
+X87187	g1848174	331	Firmicutes	Enterococcus	mundtii		h	p
+AF182726	AF182726.1 GI:65372	204	Firmicutes	Lactobacillus	acidophilus		h	n
+U32971	g1870242	206	Firmicutes	Lactobacillus	acidophilus		h	n
+Z75466	g1771109	450	Firmicutes	Lactobacillus	acidophilus		h	n
+Z75467	g1771110	198	Firmicutes	Lactobacillus	acidophilus		h	n
+Z75472	g1771112	204	Firmicutes	Lactobacillus	acidophilus		h	n
+Z75473	g1771113	451	Firmicutes	Lactobacillus	acidophilus		h	n
+AF182732	AF182732.1 GI:65372	202	Firmicutes	Lactobacillus	amylovorus		h	n
+E07130	g2175280	214	Firmicutes	Lactobacillus	brevis		h	n
+E08785	g2176897	214	Firmicutes	Lactobacillus	brevis		h	n
+X74221	g410479	217	Firmicutes	Lactobacillus	brevis		h	n
+Z75475	g1771117	455	Firmicutes	Lactobacillus	bulgaricus		h	n
+Z75476	g1771118	217	Firmicutes	Lactobacillus	bulgaricus		h	n
+AF121200	AF121200.1 GI:59029	217	Firmicutes	Lactobacillus	casei		h	n
+AF182729	AF182729.1 GI:65372	219	Firmicutes	Lactobacillus	casei		h	n
+X74220	g410480	220	Firmicutes	Lactobacillus	casei		h	n
+Z75478	g1771130	432	Firmicutes	Lactobacillus	casei		h	n
+Z75479	g1771131	218	Firmicutes	Lactobacillus	casei		h	n
+AF182719	AF182719.1 GI:65372	205	Firmicutes	Lactobacillus	crispatus		h	n
+AF074857	g5381282	203	Firmicutes	Lactobacillus	crispatus		h	n
+AF074858	g5381283	220	Firmicutes	Lactobacillus	curvatus		h	n
+U97129	g3046883	222	Firmicutes	Lactobacillus	curvatus		h	n
+U97135	g3046889	437	Firmicutes	Lactobacillus	curvatus		h	n
+Z75469	g1771127	426	Firmicutes	Lactobacillus	curvatus		h	n
+Z75470	g1771128	219	Firmicutes	Lactobacillus	curvatus		h	n
+U32968	g1854590	220	Firmicutes	Lactobacillus	delbrueckii		h	n
+AF113602	AF113602.1 GI:50814	220	Firmicutes	Lactobacillus	delbrueckii		h	n
+AF182720	AF182720.1 GI:65372	197	Firmicutes	Lactobacillus	fermentum		h	n
+AF080099	g3420784	277	Firmicutes	Lactobacillus	fermentum		h	n
+AF182721	AF182721.1 GI:65372	220	Firmicutes	Lactobacillus	gasseri		h	n
+AF074859	g5381284	216	Firmicutes	Lactobacillus	gasseri		h	n
+U97130	g3046884	222	Firmicutes	Lactobacillus	graminis		h	n
+U97136	g3046890	437	Firmicutes	Lactobacillus	graminis		h	n
+AF113601	AF113601.1 GI:50814	202	Firmicutes	Lactobacillus	hamsteri		h	n
+AF182728	AF182728.1 GI:65372	203	Firmicutes	Lactobacillus	helveticus		h	n
+U32970	g1854592	205	Firmicutes	Lactobacillus	helveticus		h	n
+Z75482	g1771191	455	Firmicutes	Lactobacillus	helveticus		h	n
+Z75483	g1771192	204	Firmicutes	Lactobacillus	helveticus		h	n
+E07125	g2175275	203	Firmicutes	Lactobacillus	japonicus		h	n
+E08780	g2176892	203	Firmicutes	Lactobacillus	japonicus		h	n
+X74222	g410493	206	Firmicutes	Lactobacillus	japonicus		h	n
+AF074860	g5381285	215	Firmicutes	Lactobacillus	johnsonii		h	n
+U32964	g1854587	221	Firmicutes	Lactobacillus	paracasei		h	n
+AF182724	AF182724.1 GI:65372	219	Firmicutes	Lactobacillus	paracasei		h	n
+U97132	g3046886	205	Firmicutes	Lactobacillus	paraplantarum		h	n
+U97138	g3046892	435	Firmicutes	Lactobacillus	paraplantarum		h	n
+U97134	g3046888	205	Firmicutes	Lactobacillus	pentosus		h	n
+U97140	g3046894	439	Firmicutes	Lactobacillus	pentosus		h	n
+U97141	g3046895	439	Firmicutes	Lactobacillus	pentosus		h	n
+AF182722	AF182722.1 GI:65372	205	Firmicutes	Lactobacillus	plantarum		h	n
+AB083119	AB083119.1 GI:20086	203	Firmicutes	Lactobacillus	plantarum		h	n
+AB083122	AB083122.1 GI:20086	203	Firmicutes	Lactobacillus	plantarum		h	n
+AB083116	AB083116.1 GI:20086	203	Firmicutes	Lactobacillus	plantarum		h	n
+AB083120	AB083120.1 GI:20086	203	Firmicutes	Lactobacillus	plantarum		h	n
+AB083123	AB083123.1 GI:20086	203	Firmicutes	Lactobacillus	plantarum		h	n
+U97133	g3046887	205	Firmicutes	Lactobacillus	plantarum		h	n
+U97139	g3046893	434	Firmicutes	Lactobacillus	plantarum		h	n
+AF080101	g3420786	276	Firmicutes	Lactobacillus	plantarum		h	n
+E07126	g2175276	203	Firmicutes	Lactobacillus	plantarum		h	n
+E08781	g2176893	203	Firmicutes	Lactobacillus	plantarum		h	n
+AF182723	AF182723.1 GI:65372	203	Firmicutes	Lactobacillus	reuteri		h	n
+AF080100	g3420785	283	Firmicutes	Lactobacillus	reuteri		h	n
+AF121201	AF121201.1 GI:59029	218	Firmicutes	Lactobacillus	rhamnosus		h	n
+AF182730	AF182730.1 GI:65372	220	Firmicutes	Lactobacillus	rhamnosus		h	n
+AB083114	AB083114.1 GI:20086	219	Firmicutes	Lactobacillus	rhamnosus		h	n
+E08782	g2176894	217	Firmicutes	Lactobacillus	rhamnosus		h	n
+U32966	g1854588	222	Firmicutes	Lactobacillus	rhamnosus		h	n
+AF080103	g3420788	294	Firmicutes	Lactobacillus	ruminis		h	n
+U97131	g3046885	226	Firmicutes	Lactobacillus	sake		h	n
+U97137	g3046891	436	Firmicutes	Lactobacillus	sake		h	n
+AF080102	g3420787	297	Firmicutes	Lactobacillus	salivarius		h	n
+AF113600	AF113600.1 GI:50814	210	Firmicutes	Lactobacillus	salivarius		h	n
+AF182725	AF182725.1 GI:65372	207	Firmicutes	Lactobacillus	salivarius		h	n
+AF074861	g5381286	221	Firmicutes	Lactobacillus	sharpeae		h	n
+E08784	g2176896	214	Firmicutes	Lactobacillus	sp		h	n
+E08786	g2176898	221	Firmicutes	Lactobacillus	sp		h	n
+E08778	g2176890	216	Firmicutes	Lactobacillus	sp		h	n
+E08779	g2176891	208	Firmicutes	Lactobacillus	sp		h	n
+E08783	g2176895	217	Firmicutes	Lactobacillus	sp		h	n
+AF182731	AF182731.1 GI:65372	202	Firmicutes	Lactobacillus	vaginalis		h	n
+AF074862	g5381287	217	Firmicutes	Lactobacillus	zeae		h	n
+X83762	g758137	304	Firmicutes	Lactococcus	lactis		h	n
+X64887	g44070	304	Firmicutes	Lactococcus	lactis		h	n
+U32972	g1854593	304	Firmicutes	Lactococcus	lactis		h	n
+Z75492	g1771213	375	Firmicutes	Leuconostoc	lactis		h	u
+Z75494	g1771134	376	Firmicutes	Leuconostoc	mesenteroides		h	u
+Z75488	g1771146	376	Firmicutes	Leuconostoc	mesenteroides		h	u
+X90764	g1684702	374	Firmicutes	Leuconostoc	mesenteroides		h	u
+Z75485	g1771222	376	Firmicutes	Leuconostoc	mesenteroides		h	u
+U57918	g1418222	457	Firmicutes	Listeria	grayi		h	p
+U78983	g1685192	232	Firmicutes	Listeria	grayi		h	p
+U57914	g1418224	244	Firmicutes	Listeria	innocua		h	p
+U57915	g1418225	493	Firmicutes	Listeria	innocua		h	p
+U57913	g1418223	490	Firmicutes	Listeria	ivanovii		h	p
+U78981	g1685190	244	Firmicutes	Listeria	ivanovii		h	p
+U44061	g1184083	494	Firmicutes	Listeria	monocytogenes		h	p
+U44062	g1184084	243	Firmicutes	Listeria	monocytogenes		h	p
+U44063	g1184085	261	Firmicutes	Listeria	monocytogenes		h	p
+U57912	g1418226	504	Firmicutes	Listeria	monocytogenes		h	p
+U78980	g1685189	244	Firmicutes	Listeria	monocytogenes		h	p
+U57916	g1418227	495	Firmicutes	Listeria	seeligeri		h	p
+U78984	g1685193	244	Firmicutes	Listeria	seeligeri		h	p
+U57917	g1418228	497	Firmicutes	Listeria	welshimeri		h	p
+U78982	g1685191	243	Firmicutes	Listeria	welshimeri		h	p
+AF005328	g2707199	243	Firmicutes	Mesoplasma	florum		h	u
+X58560	X58560.1 GI:44159	183	Firmicutes	Mycoplasma	arginini		h	p
+AF294994	AF294994.1 GI:14626	187	Firmicutes	Mycoplasma	arginini		h	p
+X58557	g44158	221	Firmicutes	Mycoplasma	arthritidis		h	p
+M94728	g150133	226	Firmicutes	Mycoplasma	capricolum		h	p
+X00921	g44206	226	Firmicutes	Mycoplasma	capricolum		h	p
+AJ243864	AJ243864.1 GI:66249	196	Firmicutes	Mycoplasma	equirhinis		h	p
+AJ243863	AJ243863.1 GI:66249	208	Firmicutes	Mycoplasma	felis		h	p
+AF294992	AF294992.1 GI:14626	318	Firmicutes	Mycoplasma	fermentans		h	p
+X58553	g44272	313	Firmicutes	Mycoplasma	fermentans		h	p
+L08896	g150195	586	Firmicutes	Mycoplasma	gallisepticum		h	p
+U39694	g3844730	202	Firmicutes	Mycoplasma	genitalium		h	p
+AB080799	AB080799.1 GI:19223	232	Firmicutes	Mycoplasma	haemomuris		h	p
+AF294989	AF294989.1 GI:14626	188	Firmicutes	Mycoplasma	hominis		h	p
+AF294990	AF294990.1 GI:14626	187	Firmicutes	Mycoplasma	hominis		h	p
+AF294991	AF294991.1 GI:14626	186	Firmicutes	Mycoplasma	hominis		h	p
+X58559	g44347	184	Firmicutes	Mycoplasma	hominis		h	p
+M30377	g175456	500	Firmicutes	Mycoplasma	hyopneumoniae		h	p
+X58551	g44358	495	Firmicutes	Mycoplasma	hyopneumoniae		h	p
+AF294993	AF294993.1 GI:14626	265	Firmicutes	Mycoplasma	hyorhinis		h	p
+X58555	g44359	261	Firmicutes	Mycoplasma	hyorhinis		h	p
+U29676	g942588	221	Firmicutes	Mycoplasma	iowae		h	p
+X58552	g44471	315	Firmicutes	Mycoplasma	neurolyticum		h	p
+AF294995	AF294995.1 GI:14626	242	Firmicutes	Mycoplasma	orale		h	p
+X58556	g44474	238	Firmicutes	Mycoplasma	orale		h	p
+X58554	g44502	289	Firmicutes	Mycoplasma	pulmonis		h	p
+X58558	g44505	217	Firmicutes	Mycoplasma	salivarium		h	p
+X95706	g1200109	217	Firmicutes	Mycoplasma	sp		h	p
+U15442	g567051	222	Firmicutes	Mycoplasma	sp		h	p
+M86340	g149863	243	Firmicutes	Mycoplasma	sp		h	p
+Y10095	g3618225	206	Firmicutes	Mycoplasmas	unidentified		h	p
+Y10096	g3618226	221	Firmicutes	Mycoplasmas	unidentified		h	p
+Y10097	g3618227	221	Firmicutes	Mycoplasmas	unidentified		h	p
+X90455	g1684703	495	Firmicutes	Oenococcus	oeni		h	u
+AB022061	AB022061.1 GI:72880	724	Firmicutes	Pectinatus	cerevisiiphilus		h	u
+AB022062	AB022062.1 GI:72880	399	Firmicutes	Pectinatus	cerevisiiphilus		h	u
+AB022063	AB022063.1 GI:72880	624	Firmicutes	Pectinatus	frisingensis		h	u
+AB022064	AB022064.1 GI:72880	442	Firmicutes	Pectinatus	frisingensis		h	u
+AF026077	g2555181	241	Firmicutes	Phytoplasma	broom		h	p
+AF025426	g2555177	217	Firmicutes	Phytoplasma	broom		h	p
+AF025427	g2555178	241	Firmicutes	Phytoplasma	broom		h	p
+Y16390	g3288514	228	Firmicutes	Phytoplasma	broom		h	p
+AF336928	AF336928.1 GI:13095	172	Firmicutes	Phytoplasma	broom		h	p
+AF086622	AF086622.1 GI:12002	227	Firmicutes	Phytoplasma	broom		h	p
+AF190226	AF190226.1 GI:15986	236	Firmicutes	Phytoplasma	broom		h	p
+AF190227	AF190227.1 GI:15986	236	Firmicutes	Phytoplasma	broom		h	p
+AY072722	AY072722.1 GI:18447	264	Firmicutes	Phytoplasma	broom		h	p
+AJ250816	AJ250816.1 GI:64341	232	Firmicutes	Phytoplasma	bud		h	p
+AJ250817	AJ250817.1 GI:64341	229	Firmicutes	Phytoplasma	bud		h	p
+AJ250822	AJ250822.1 GI:64341	231	Firmicutes	Phytoplasma	bud		h	p
+AJ250825	AJ250825.1 GI:64341	231	Firmicutes	Phytoplasma	bud		h	p
+AJ251230	AJ251230.1 GI:64568	231	Firmicutes	Phytoplasma	bud		h	p
+AF024640	g2612943	76	Firmicutes	Phytoplasma	coconut		h	p
+Y16392	g3288578	148	Firmicutes	Phytoplasma	decline		h	p
+U54989	g1323777	221	Firmicutes	Phytoplasma	decline		h	p
+AY075038	AY075038.1 GI:19347	242	Firmicutes	Phytoplasma	dwarf		h	p
+L76865	g2072753	157	Firmicutes	Phytoplasma	grapevine		h	p
+AF228052	AF228052.1 GI:13506	251	Firmicutes	Phytoplasma	leaf		h	p
+AF421544	AF421544.1 GI:17298	220	Firmicutes	Phytoplasma	leaf		h	p
+AF421545	AF421545.1 GI:17298	220	Firmicutes	Phytoplasma	leaf		h	p
+AF100412	AF100412.1 GI:50590	246	Firmicutes	Phytoplasma	leaf		h	p
+AF026076	g2555180	241	Firmicutes	Phytoplasma	leaf		h	p
+U54987	g1323774	231	Firmicutes	Phytoplasma	leafhopper		h	p
+AF268000	AF268000.1 GI:80997	296	Firmicutes	Phytoplasma	palm		h	p
+AF100411	AF100411.1 GI:50590	288	Firmicutes	Phytoplasma	palm		h	p
+AF434989	AF434989.1 GI:16903	257	Firmicutes	Phytoplasma	palm		h	p
+AF028814	g2739117	232	Firmicutes	Phytoplasma	pea		h	p
+AF037596	g2708676	246	Firmicutes	Phytoplasma	phyllody		h	p
+U54985	g1323772	222	Firmicutes	Phytoplasma	proliferation		h	p
+Y11933	Y11933.1 GI:1906371	213	Firmicutes	Phytoplasma	sp		h	p
+X92869	g1072391	212	Firmicutes	Phytoplasma	sp		h	p
+Y15963	g2707945	181	Firmicutes	Phytoplasma	sp		h	p
+AF035361	g2660924	206	Firmicutes	Phytoplasma	stolbur		h	p
+Y16395	g3288592	299	Firmicutes	Phytoplasma	stunt		h	p
+AJ250823	AJ250823.1 GI:64340	253	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250819	AJ250819.1 GI:64340	232	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ251228	AJ251228.1 GI:64684	239	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250826	AJ250826.1 GI:64340	235	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250818	AJ250818.1 GI:64340	232	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250815	AJ250815.1 GI:64340	233	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250821	AJ250821.1 GI:64340	231	Firmicutes	Phytoplasma	sugarcane		h	p
+AJ250820	AJ250820.1 GI:64340	227	Firmicutes	Phytoplasma	sugarcane		h	p
+AF106061	AF106061.1 GI:50590	225	Firmicutes	Phytoplasma	sugarcane		h	p
+AF037595	g2708675	265	Firmicutes	Phytoplasma	sugarcane		h	p
+AF024641	g2612944	76	Firmicutes	Phytoplasma	virescene		h	p
+AF025428	g2555179	216	Firmicutes	Phytoplasma	virescene		h	p
+AF421543	AF421543.1 GI:17298	214	Firmicutes	Phytoplasma	western		h	p
+U54992	g1323779	242	Firmicutes	Phytoplasma	western		h	p
+Y16394	g3288595	152	Firmicutes	Phytoplasma	yellow		h	p
+U54990	g1323778	221	Firmicutes	Phytoplasma	yellow		h	p
+U43571	g1171227	216	Firmicutes	Phytoplasma	yellow		h	p
+Y16387	g3288062	251	Firmicutes	Phytoplasma	yellows		h	p
+AF189215	AF189215.1 GI:60078	244	Firmicutes	Phytoplasma	yellows		h	p
+AF092209	g3860033	226	Firmicutes	Phytoplasma	yellows		h	p
+U54986	g1323773	229	Firmicutes	Phytoplasma	yellows		h	p
+AF146530	AF146530.1 GI:61034	253	Firmicutes	Phytoplasma	yellows		h	p
+AF029220	g3452207	253	Firmicutes	Phytoplasma	yellows		h	p
+Y16391	g3288105	74	Firmicutes	Phytoplasma	yellows		h	p
+AF495657	AF495657.1 GI:20257	234	Firmicutes	Phytoplasma	yellows		h	p
+AF024639	g2612942	76	Firmicutes	Phytoplasma	yellows		h	p
+AF268895	AF268895.1 GI:86995	189	Firmicutes	Phytoplasma	yellows		h	p
+AF189214	AF189214.1 GI:60078	271	Firmicutes	Phytoplasma	yellows		h	p
+U54991	g1323776	223	Firmicutes	Phytoplasma	yellows		h	p
+AY029540	AY029540.1 GI:13774	213	Firmicutes	Phytoplasma	yellows		h	p
+U54988	g1323775	222	Firmicutes	Phytoplasma	yellows		h	p
+AF035362	g2660925	206	Firmicutes	Phytoplasma	yellows		h	p
+AF228699	AF228699.1 GI:97164	221	Firmicutes	Planomicrobium	mcmeekinii		h	u
+Y10819	g2414571	339	Firmicutes	Propionibacterium	freudenreichii		h	u
+Y11196	g2198532	363	Firmicutes	Rhodococcus	fascians		h	n
+AB022065	AB022065.1 GI:72880	321	Firmicutes	Selenomonas	lacticifex		h	u
+AB022094	AB022094.1 GI:72880	579	Firmicutes	Selenomonas	lacticifex		h	u
+AF005327	g2707198	291	Firmicutes	Spiroplasma	citri		h	u
+X63781	g46914	261	Firmicutes	Spiroplasma	citri		h	u
+AJ130952	g4456857	186	Firmicutes	Spiroplasma	sp		h	u
+AJ130953	g4456858	186	Firmicutes	Spiroplasma	sp		h	u
+AJ130954	g4456859	184	Firmicutes	Spiroplasma	sp		h	u
+AJ130955	g4456860	272	Firmicutes	Spiroplasma	sp		h	u
+U39769	g2668542	458	Firmicutes	Staphylococcus	aureus		h	p
+U39771	g2668546	261	Firmicutes	Staphylococcus	epidermidis		h	p
+U90018	g2668576	261	Firmicutes	Staphylococcus	epidermidis		h	p
+U90019	g2668577	263	Firmicutes	Staphylococcus	epidermidis		h	p
+U90020	g2668578	263	Firmicutes	Staphylococcus	epidermidis		h	p
+U90021	g2668579	262	Firmicutes	Staphylococcus	epidermidis		h	p
+U39770	g2668544	279	Firmicutes	Staphylococcus	hyicus		h	p
+U39772	g2668547	375	Firmicutes	Staphylococcus	hyicus		h	p
+U90010	g2668568	375	Firmicutes	Staphylococcus	hyicus		h	p
+U90011	g2668569	374	Firmicutes	Staphylococcus	hyicus		h	p
+U90012	g2668570	376	Firmicutes	Staphylococcus	hyicus		h	p
+U90013	g2668571	375	Firmicutes	Staphylococcus	hyicus		h	p
+U90014	g2668572	380	Firmicutes	Staphylococcus	hyicus		h	p
+U90015	g2668573	378	Firmicutes	Staphylococcus	hyicus		h	p
+U90016	g2668574	461	Firmicutes	Staphylococcus	hyicus		h	p
+U39813	g2668548	241	Firmicutes	Staphylococcus	simulans		h	p
+U39814	g2668549	333	Firmicutes	Staphylococcus	simulans		h	p
+U90022	g2668580	242	Firmicutes	Staphylococcus	simulans		h	p
+U90023	g2668581	241	Firmicutes	Staphylococcus	simulans		h	p
+U90024	g2668582	240	Firmicutes	Staphylococcus	simulans		h	p
+U90025	g2668583	241	Firmicutes	Staphylococcus	simulans		h	p
+U90026	g2668584	242	Firmicutes	Staphylococcus	simulans		h	p
+U90027	g2668585	242	Firmicutes	Staphylococcus	simulans		h	p
+U39773	g2668551	283	Firmicutes	Staphylococcus	xylosus		h	p
+U90017	g2668575	283	Firmicutes	Staphylococcus	xylosus		h	p
+U39765	g2668541	279	Firmicutes	Streptococcus	agalactiae		h	p
+U39766	g2668543	272	Firmicutes	Streptococcus	bovis		h	p
+L36933	g558134	319	Firmicutes	Streptococcus	constellatus		h	p
+AF064441	g3172408	284	Firmicutes	Streptococcus	difficile		h	p
+U39767	g2668545	285	Firmicutes	Streptococcus	dysgalactiae		h	p
+AB051019	AB051019.1 GI:17298	246	Firmicutes	Streptococcus	gordonii		h	p
+AF048773	g2914761	472	Firmicutes	Streptococcus	iniae		h	p
+L36935	g558136	392	Firmicutes	Streptococcus	intermedius		h	p
+AB051020	AB051020.1 GI:17298	249	Firmicutes	Streptococcus	mitis		h	p
+AB051018	AB051018.1 GI:17298	246	Firmicutes	Streptococcus	oralis		h	p
+M60763	g153796	250	Firmicutes	Streptococcus	pneumoniae		h	p
+AB051016	AB051016.1 GI:17298	273	Firmicutes	Streptococcus	salivarius		h	p
+X83760	g758304	273	Firmicutes	Streptococcus	salivarius		h	p
+AB051017	AB051017.1 GI:17298	264	Firmicutes	Streptococcus	sanguinis		h	p
+AF272245	AF272245.1 GI:14578	328	Firmicutes	Streptococcus	sanguinis		h	p
+U32965	g1854594	274	Firmicutes	Streptococcus	thermophilus		h	p
+AF255657	AF255657.1 GI:77696	585	Firmicutes	Streptococcus	uberis		h	p
+U39768	g2668550	340	Firmicutes	Streptococcus	uberis		h	p
+AF088899	AF088899.1 GI:48845	274	Firmicutes	Streptococcus	waiu		h	p
+AE002112	AE002112.1 GI:68990	347	Firmicutes	Ureaplasma	urealyticum		h	p
+AE002127	AE002127.1 GI:68992	347	Firmicutes	Ureaplasma	urealyticum		h	p
+X58561	g48315	303	Firmicutes	Ureaplasma	urealyticum		h	p
+AB022066	AB022066.1 GI:72880	553	Firmicutes	Zymophilus	paucivorans		h	u
+AB022067	AB022067.1 GI:72880	375	Firmicutes	Zymophilus	paucivorans		h	u
+AB022068	AB022068.1 GI:72880	591	Firmicutes	Zymophilus	raffinosivorans		h	u
+AB022093	AB022093.1 GI:72880	376	Firmicutes	Zymophilus	raffinosivorans		h	u
+AF363751	AF363751.1 GI:13811	305	Fusobacteria	Fusobacterium	necrophorum		h	u
+AF363752	AF363752.1 GI:13811	143	Fusobacteria	Fusobacterium	necrophorum		h	u
+AJ295326	AJ295326.1 GI:16605	31	Microsporidia	Glugea	plecoglossi		h	p
+AJ300706	AJ300706.1 GI:18087	1348	Microsporidia	Microsporidium	cypselurus		h	p
+AJ295322	AJ295322.1 GI:16605	61	Microsporidia	Microsporidium	seriolae		h	p
+AF397404	AF397404.2 GI:19424	20	Microsporidia	Microsporidium	sp		h	p
+AJ295327	AJ295327.1 GI:16605	43	Microsporidia	Pleistophora	mirandellae		h	p
+M21373	M21373.1 GI:343075	322	Phaeophyceae	Pilayella	algae		a	u
+AF375994	AF375994.1 GI:16506	437	Planctomycetes	Brocadia	anammoxidans		h	u
+AF375995	AF375995.1 GI:16506	502	Planctomycetes	Kuenenia	stuttgartiensis		h	u
+X85406	g1054626	757	Proteobacteria	Acetobacter	europaeus		h	u
+U60279	g1755058	610	Proteobacteria	Acinetobacter	baumannii		h	n
+U60278	g1755059	627	Proteobacteria	Acinetobacter	calcoaceticus		h	n
+AF013275	g2827883	485	Proteobacteria	Actinobacillus	seminis		h	p
+AF013276	g2827884	562	Proteobacteria	Actinobacillus	seminis		h	p
+AF407225	AF407225.1 GI:15217	480	Proteobacteria	Aeromonas	culicicola		h	u
+AF407230	AF407230.1 GI:15217	533	Proteobacteria	Aeromonas	culicicola		h	u
+AF407222	AF407222.1 GI:15217	467	Proteobacteria	Aeromonas	culicicola		h	u
+AF407223	AF407223.1 GI:15217	537	Proteobacteria	Aeromonas	culicicola		h	u
+AF407224	AF407224.1 GI:15217	523	Proteobacteria	Aeromonas	culicicola		h	u
+AF407226	AF407226.1 GI:15217	525	Proteobacteria	Aeromonas	culicicola		h	u
+AF407227	AF407227.1 GI:15217	524	Proteobacteria	Aeromonas	culicicola		h	u
+AF407228	AF407228.1 GI:15217	525	Proteobacteria	Aeromonas	culicicola		h	u
+AF407229	AF407229.1 GI:15217	539	Proteobacteria	Aeromonas	culicicola		h	u
+AF407231	AF407231.1 GI:15217	483	Proteobacteria	Aeromonas	culicicola		h	u
+AF338177	AF338177.1 GI:13447	681	Proteobacteria	Afipia	felis		h	u
+U28505	g1143912	1273	Proteobacteria	Agrobacterium	vitis		h	p
+AF263556	AF263556.1 GI:85756	527	Proteobacteria	Aphalaroida	endosymbiont		h	u
+AF083211	g3550317	544	Proteobacteria	Azotobacter	chroococcum		h	u
+AF083212	g3550318	538	Proteobacteria	Azotobacter	salinestris		h	u
+AF079808	g4574150	533	Proteobacteria	Azotobacter	vinelandii		h	u
+AF263557	AF263557.1 GI:85756	185	Proteobacteria	Bactericera	endosymbiont		h	u
+AF312506	AF312506.1 GI:15277	1217	Proteobacteria	Bartonella	alsatica		h	p
+AF442954	AF442954.1 GI:17105	1304	Proteobacteria	Bartonella	doshiae		h	u
+AF442953	AF442953.1 GI:17105	1382	Proteobacteria	Bartonella	grahamii		h	p
+AF312490	AF312490.1 GI:15277	512	Proteobacteria	Bartonella	koehlerae		h	u
+L35100	g984024	1211	Proteobacteria	Bartonella	quintana		h	u
+AF312505	AF312505.1 GI:15277	1070	Proteobacteria	Bartonella	tribocorum		h	u
+AF312504	AF312504.1 GI:15277	700	Proteobacteria	Bartonella	vinsonii		h	u
+AF312503	AF312503.1 GI:15277	401	Proteobacteria	Bartonella	vinsonii		h	u
+AF442952	AF442952.1 GI:17105	710	Proteobacteria	Bartonella	vinsonii		h	u
+AF338176	AF338176.1 GI:13447	1048	Proteobacteria	Blastobacter	denitrificans		h	u
+AF263558	AF263558.1 GI:85756	536	Proteobacteria	Blastopsylla	occidentalis		h	u
+U35000	U35000.2 GI:6478821	809	Proteobacteria	Bradyrhizobium	elkanii		h	n
+U69638	U69638.2 GI:6478822	791	Proteobacteria	Bradyrhizobium	japonicum		h	n
+Z35330	g515768	808	Proteobacteria	Bradyrhizobium	japonicum		h	n
+X95889	g1208508	765	Proteobacteria	Brucella	abortus		h	p
+AF220147	AF220147.1 GI:69798	866	Proteobacteria	Brucella	melitensis		h	p
+AF220148	AF220148.1 GI:69798	766	Proteobacteria	Brucella	melitensis		h	p
+AF220149	AF220149.1 GI:69798	766	Proteobacteria	Brucella	melitensis		h	p
+X95890	g1208509	765	Proteobacteria	Brucella	melitensis		h	p
+X95891	g1208510	765	Proteobacteria	Brucella	suis		h	u
+AF263559	AF263559.1 GI:85756	292	Proteobacteria	Cacopsylla	endosymbiont		h	u
+AF263560	AF263560.1 GI:85757	376	Proteobacteria	Calophya	endosymbiont		h	u
+AF074841	g4322245	632	Proteobacteria	Campylobacter	lari		h	p
+AF280097	AF280097.1 GI:14028	28	Proteobacteria	Carsonella	ruddii		h	u
+X78986	g475887	517	Proteobacteria	Coxiella	burnetii		h	u
+U26683	g973206	536	Proteobacteria	Dichelobacter	nodosus		h	u
+AF000721	AF000721.1 GI:64658	585	Proteobacteria	Ehrlichia	chaffeensis		h	p
+AF000722	AF000722.1 GI:64658	585	Proteobacteria	Ehrlichia	sp		h	p
+AF000723	AF000723.1 GI:64658	901	Proteobacteria	Ehrlichia	sp		h	p
+AJ010486	g4753710	350	Proteobacteria	Enterobacter	pyrinus		h	p
+AF290418	AF290418.1 GI:99315	1031	Proteobacteria	Erwinia	amylovora		h	p
+AF290419	AF290419.1 GI:99315	726	Proteobacteria	Erwinia	amylovora		h	p
+AJ010485	g4753688	386	Proteobacteria	Erwinia	amylovora		h	p
+AJ009930	g4753709	372	Proteobacteria	Erwinia	pyrifoliae		h	p
+AJ132969	g4775316	372	Proteobacteria	Erwinia	pyrifoliae		h	p
+J01695	J01695.1 GI:147581	440	Proteobacteria	Escherichia	coli		h	p
+M87049	M87049.1 GI:836656	437	Proteobacteria	Escherichia	coli		h	p
+V00348	V00348.1 GI:2073407	540	Proteobacteria	Escherichia	coli		h	p
+U70214	U70214.1 GI:1552727	446	Proteobacteria	Escherichia	coli		h	p
+K00763	g147590	437	Proteobacteria	Escherichia	coli		h	p
+X12420	g40839	353	Proteobacteria	Escherichia	coli		h	p
+J01702	g147585	437	Proteobacteria	Escherichia	"coli,"		h	p
+AJ007763	g3319916	653	Proteobacteria	Gluconobacter	oxydans		h	u
+AF263561	AF263561.1 GI:85757	548	Proteobacteria	Glycaspis	brimblecombei		h	u
+U87825	g1899151	560	Proteobacteria	Haemophilus	ducreyi		h	p
+L31410	g466487	470	Proteobacteria	Haemophilus	influenzae		h	p
+AF141943	AF141943.1 GI:76726	547	Proteobacteria	Haemophilus	parainfluenzae		h	p
+AF045561	g3445569	384	Proteobacteria	Haemophilus	parainfluenzae		h	p
+AF263562	AF263562.1 GI:85757	501	Proteobacteria	Heteropsylla	endosymbiont		h	u
+U61360	U61360.1 GI:1762523	498	Proteobacteria	Liberobacter	africanum		h	u
+U61359	U61359.1 GI:1762522	595	Proteobacteria	Liberobacter	asiaticum		h	u
+AF293375	AF293375.1 GI:11321	674	Proteobacteria	Methylobacterium	extorquens		h	u
+AF338180	AF338180.1 GI:13447	665	Proteobacteria	Methylobacterium	extorquens		h	u
+AF338181	AF338181.1 GI:13447	732	Proteobacteria	Methylobacterium	organophilum		h	u
+AF338179	AF338179.1 GI:13447	689	Proteobacteria	Methylobacterium	rhodinum		h	u
+AF148122	AF148122.1 GI:51392	296	Proteobacteria	Microvirgula	aerodenitrificans		h	u
+AF148123	AF148123.1 GI:51392	632	Proteobacteria	Microvirgula	aerodenitrificans		h	u
+AF293419	AF293419.1 GI:99316	602	Proteobacteria	Neisseria	gonorrhoeae		h	p
+X95892	g1208920	706	Proteobacteria	Ochrobactrum	anthropi		h	u
+AF031936	g4104100	481	Proteobacteria	Pasteurella	haemolytica		h	p
+U62103	g1575371	318	Proteobacteria	Piscirickettsia	salmonis		h	p
+U62104	g1575372	318	Proteobacteria	Piscirickettsia	salmonis		h	p
+X65486	g45891	264	Proteobacteria	Plesiomonas	shigelloides		h	u
+AF127589	AF127589.1 GI:13270	531	Proteobacteria	Pseudomonas	agarici		h	u
+U65012	g1718243	526	Proteobacteria	Pseudomonas	stutzeri		h	u
+AF338182	AF338182.1 GI:13447	701	Proteobacteria	Rhodobacter	sphaeroides		h	n
+X53853	g46449	665	Proteobacteria	Rhodobacter	sphaeroides		h	n
+X53854	g46450	665	Proteobacteria	Rhodobacter	sphaeroides		h	n
+X53855	g46451	665	Proteobacteria	Rhodobacter	sphaeroides		h	n
+AF184625	AF184625.1 GI:60077	852	Proteobacteria	Rhodopseudomonas	palustris		h	n
+AF184626	AF184626.1 GI:60077	802	Proteobacteria	Rhodopseudomonas	palustris		h	n
+AF338178	AF338178.1 GI:13447	816	Proteobacteria	Rhodopseudomonas	palustris		h	n
+Z96978	g2462665	354	Proteobacteria	Salmonella	enteritidis		h	p
+Z96979	g2462666	519	Proteobacteria	Salmonella	enteritidis		h	p
+AF325824	AF325824.1 GI:20142	1187	Proteobacteria	Sinorhizobium	medicae		h	u
+AF325825	AF325825.1 GI:20142	1156	Proteobacteria	Sinorhizobium	terangae		h	u
+U51430	g1669392	469	Proteobacteria	Thiobacillus	cuprinus		h	n
+U18089	g604373	436	Proteobacteria	Thiobacillus	ferrooxidans		h	n
+X98211	g1431626	487	Proteobacteria	Thiobacillus	sp		h	n
+X98209	g1431627	545	Proteobacteria	Thiobacillus	thiooxidans		h	u
+AF151220	AF151220.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151221	AF151221.1 GI:71087	413	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151222	AF151222.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151223	AF151223.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151224	AF151224.1 GI:71087	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151225	AF151225.1 GI:71087	394	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151226	AF151226.1 GI:71087	394	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151227	AF151227.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151228	AF151228.1 GI:71087	414	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151229	AF151229.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151230	AF151230.1 GI:71087	389	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151231	AF151231.1 GI:71087	396	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151232	AF151232.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151233	AF151233.1 GI:71087	392	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151234	AF151234.1 GI:71087	389	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151235	AF151235.1 GI:71087	392	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151236	AF151236.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151237	AF151237.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151238	AF151238.1 GI:71087	415	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151239	AF151239.1 GI:71087	414	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151240	AF151240.1 GI:71087	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151241	AF151241.1 GI:71087	401	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151242	AF151242.1 GI:71087	401	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151243	AF151243.1 GI:71087	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151244	AF151244.1 GI:71087	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151245	AF151245.1 GI:71087	403	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151246	AF151246.1 GI:71087	423	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151247	AF151247.1 GI:71087	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151248	AF151248.1 GI:71087	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151249	AF151249.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151250	AF151250.1 GI:71088	356	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151251	AF151251.1 GI:71088	314	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151252	AF151252.1 GI:71088	403	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151253	AF151253.1 GI:71088	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151254	AF151254.1 GI:71088	537	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151255	AF151255.1 GI:71088	418	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151256	AF151256.1 GI:71088	416	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151257	AF151257.1 GI:71088	416	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151258	AF151258.1 GI:71088	420	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151259	AF151259.1 GI:71088	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151260	AF151260.1 GI:71088	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151261	AF151261.1 GI:71088	416	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151262	AF151262.1 GI:71088	414	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151263	AF151263.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151264	AF151264.1 GI:71088	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151265	AF151265.1 GI:71088	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151266	AF151266.1 GI:71088	419	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151267	AF151267.1 GI:71088	397	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151268	AF151268.1 GI:71088	397	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151269	AF151269.1 GI:71088	397	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151270	AF151270.1 GI:71088	411	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151271	AF151271.1 GI:71088	414	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151272	AF151272.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151273	AF151273.1 GI:71088	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151274	AF151274.1 GI:71088	416	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151275	AF151275.1 GI:71088	392	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151276	AF151276.1 GI:71088	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151277	AF151277.1 GI:71088	411	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151278	AF151278.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151279	AF151279.1 GI:71088	418	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151280	AF151280.1 GI:71088	397	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151281	AF151281.1 GI:71088	369	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151282	AF151282.1 GI:71088	402	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151283	AF151283.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151284	AF151284.1 GI:71088	401	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151285	AF151285.1 GI:71088	369	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151286	AF151286.1 GI:71088	396	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151287	AF151287.1 GI:71088	399	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151288	AF151288.1 GI:71088	397	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151289	AF151289.1 GI:71088	398	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151290	AF151290.1 GI:71088	396	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151291	AF151291.1 GI:71088	400	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151292	AF151292.1 GI:71088	401	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151293	AF151293.1 GI:71088	401	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151294	AF151294.1 GI:71088	399	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151295	AF151295.1 GI:71088	402	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151296	AF151296.1 GI:71088	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151297	AF151297.1 GI:71088	418	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151298	AF151298.1 GI:71088	406	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151299	AF151299.1 GI:71088	409	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF151300	AF151300.1 GI:71088	417	Proteobacteria	uncultured marine alpha	bacterium		h	n
+AF413006	AF413006.1 GI:16152	679	Proteobacteria	Vibrio	fluvialis		h	p
+U57310	g1373232	375	Proteobacteria	Vibrio	sp		h	p
+AF035441	g2665719	493	Proteobacteria	Xanthomonas	arboricola		h	u
+AB004285	g2190026	495	Proteobacteria	Xanthomonas	campestris		h	u
+AF032904	g2641646	493	Proteobacteria	Xanthomonas	campestris		h	u
+AF260971	AF260971.1 GI:19744	560	Proteobacteria	Xanthomonas	codiaei		h	u
+AF260972	AF260972.1 GI:19744	494	Proteobacteria	Xanthomonas	fragariae		h	u
+AF272834	AF272834.1 GI:14669	952	Proteobacteria	Xylella	fastidiosa		h	p
+U76357	g1673565	649	Proteobacteria	Xylophilus	ampelinus		h	u
+AF293850	AF293850.1 GI:98024	687	Proteobacteria	Yersinia	enterocolitica		h	p
+AF117351	AF117351.1 GI:64782	606	Proteobacteria	Zymomonas	mobilis		h	u
+AF117351	AF117351.1 GI:647821	606	Proteobacteria	Zymomonas	mobilis		h	u
+AF086792	g3641296	606	Proteobacteria	Zymomonas	mobilis		h	u
+X54299	X54299.1 GI:11329	304	Rhodophyta	Antithamnion	sp		a	u
+X54300	X54300.1 GI:11347	216	Rhodophyta	Cyanidium	caldarium		a	u
+BORBUR001	BORBUR001	3074	Spirochaetes	Borrelia	burgdorferi		h	p
+AE001147	AE001147.1 GI:26883	3072	Spirochaetes	Borrelia	burgdorferi		h	p
+U03396	g415648	3052	Spirochaetes	Borrelia	burgdorferi		h	p
+U29662	g1537011	435	Spirochaetes	Leptonema	illini		h	u
+AF378326	AF378326.1 GI:14249	369	Spirochaetes	Treponema	medium		h	u
+AF378325	AF378325.1 GI:14249	372	Spirochaetes	Treponema	medium		h	u
+U59660	g1399231	293	Spirochaetes	Treponema	pallidum		h	u
+U59662	g1399233	303	Spirochaetes	Treponema	pallidum		h	u
+TREPAL001	TREPAL001	295	Spirochaetes	Treponema	pallidum		h	u
+TREPAL002	TREPAL002	295	Spirochaetes	Treponema	pallidum		h	u
+TP0002	TP0002	295	Spirochaetes	Treponema	pallidum		h	u
+U59661	g1399232	293	Spirochaetes	Treponema	pallidum		h	u
+U59663	g1399234	303	Spirochaetes	Treponema	pallidum		h	u
+X15768	X15768.1 GI:11926	265	Stramenopiles	Heterosigma	akashiwo		a	u
+AJ274632	AJ274632.1 GI:64533	217	Streptophyta	Cenchrus	bunchy		a	u
+X58864	X58864.1 GI:11273	398	Streptophyta	Conopholis	americana		a	u
+AF190225	AF190225.1 GI:15986	232	Streptophyta	Fragaria	multicipita		a	u
+M21402	M21402.1 GI:340697	0	Streptophyta	Glycine	max		a	u
+M37149	M37149.1 GI:343344	2434	Streptophyta	Glycine	max		a	u
+Y18052	g3954970	263	Streptophyta	Knautia	arvensis		a	u
+X04465	X04465.1 GI:11640	2307	Streptophyta	Marchantia	polymorpha		a	u
+AJ431368	AJ431368.1 GI:18996	253	Streptophyta	Momordica	charantia		a	u
+V00166	V00166.1 GI:11800	2080	Streptophyta	Nicotiana	tabacum		a	u
+X97297	X97297.1 GI:1279616	2861	Streptophyta	Oenothera	argilicola		a	u
+X97296	X97296.1 GI:1279619	3001	Streptophyta	Oenothera	atrovirens		a	u
+X97292	X97292.1 GI:1279623	2958	Streptophyta	Oenothera	elata		a	u
+X97294	X97294.1 GI:1279626	2909	Streptophyta	Oenothera	grandiflora		a	u
+X97295	X97295.1 GI:1279629	2523	Streptophyta	Oenothera	lamarckiana		a	u
+X97293	X97293.1 GI:1279632	2877	Streptophyta	Oenothera	suavolens		a	u
+Z46509	Z46509.1 GI:565041	750	Streptophyta	Orobanche	minor		a	u
+AJ250824	AJ250824.1 GI:64340	220	Streptophyta	Sorghum	bunchy		a	u
+M21453	M21453.1 GI:343373	2202	Streptophyta	Spinacia	oleracea		a	u
+Z00028	Z00028.1 GI:12470	2408	Streptophyta	Zea	mays		a	u
+AF422493	AF422493.1 GI:16974	702	unknown	uncultured	bacterium		u	n
+AF422494	AF422494.1 GI:16974	543	unknown	uncultured	bacterium		u	n
+AF422495	AF422495.1 GI:16974	570	unknown	uncultured	bacterium		u	n
+AF422496	AF422496.1 GI:16974	332	unknown	uncultured	bacterium		u	n
+AF422497	AF422497.1 GI:16974	610	unknown	uncultured	bacterium		u	n
+AF422499	AF422499.1 GI:16974	631	unknown	uncultured	bacterium		u	n
+AF422500	AF422500.1 GI:16974	472	unknown	uncultured	bacterium		u	n
+AF422501	AF422501.1 GI:16974	631	unknown	uncultured	bacterium		u	n
+AF422502	AF422502.1 GI:16974	332	unknown	uncultured	bacterium		u	n
+AF422504	AF422504.1 GI:16974	223	unknown	uncultured	bacterium		u	n
+AF422505	AF422505.1 GI:16974	334	unknown	uncultured	bacterium		u	n
+AF422506	AF422506.1 GI:16974	332	unknown	uncultured	bacterium		u	n
+AF422507	AF422507.1 GI:16974	332	unknown	uncultured	bacterium		u	n
+AF422509	AF422509.1 GI:16974	0	unknown	uncultured	bacterium		u	n
+AF422511	AF422511.1 GI:16974	491	unknown	uncultured	bacterium		u	n
+AF422512	AF422512.1 GI:16974	392	unknown	uncultured	bacterium		u	n
+AF422515	AF422515.1 GI:16974	431	unknown	uncultured	bacterium		u	n
+AF422516	AF422516.1 GI:16974	582	unknown	uncultured	bacterium		u	n
+AF422517	AF422517.1 GI:16974	609	unknown	uncultured	bacterium		u	n
+AF422519	AF422519.1 GI:16974	456	unknown	uncultured	bacterium		u	n
+AF422520	AF422520.1 GI:16974	504	unknown	uncultured	bacterium		u	n
+AF422524	AF422524.1 GI:16974	424	unknown	uncultured	bacterium		u	n
+AF422526	AF422526.1 GI:16974	565	unknown	uncultured	bacterium		u	n
+AF422528	AF422528.1 GI:16974	541	unknown	uncultured	bacterium		u	n
+AF422529	AF422529.1 GI:18389	564	unknown	uncultured	bacterium		u	n
+AF422531	AF422531.1 GI:18389	541	unknown	uncultured	bacterium		u	n
+AF422533	AF422533.1 GI:18389	567	unknown	uncultured	bacterium		u	n
+AF422534	AF422534.1 GI:18389	506	unknown	uncultured	bacterium		u	n
+AF422535	AF422535.1 GI:18389	439	unknown	uncultured	bacterium		u	n
+AF422536	AF422536.1 GI:18389	635	unknown	uncultured	bacterium		u	n
+AF422537	AF422537.1 GI:18389	351	unknown	uncultured	bacterium		u	n
+AF422540	AF422540.1 GI:18389	490	unknown	uncultured	bacterium		u	n
+AF422541	AF422541.1 GI:18389	523	unknown	uncultured	bacterium		u	n
+AF422542	AF422542.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AF422543	AF422543.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AF422544	AF422544.1 GI:18389	455	unknown	uncultured	bacterium		u	n
+AF422545	AF422545.1 GI:18389	506	unknown	uncultured	bacterium		u	n
+AF422546	AF422546.1 GI:18389	647	unknown	uncultured	bacterium		u	n
+AF422547	AF422547.1 GI:18389	376	unknown	uncultured	bacterium		u	n
+AF422549	AF422549.1 GI:18389	524	unknown	uncultured	bacterium		u	n
+AF422551	AF422551.1 GI:18389	616	unknown	uncultured	bacterium		u	n
+AF422552	AF422552.1 GI:18389	491	unknown	uncultured	bacterium		u	n
+AF422554	AF422554.1 GI:18389	850	unknown	uncultured	bacterium		u	n
+AF422556	AF422556.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AF422557	AF422557.1 GI:18389	852	unknown	uncultured	bacterium		u	n
+AF422558	AF422558.1 GI:18389	512	unknown	uncultured	bacterium		u	n
+AF422560	AF422560.1 GI:18389	511	unknown	uncultured	bacterium		u	n
+AF422561	AF422561.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AF422562	AF422562.1 GI:18389	845	unknown	uncultured	bacterium		u	n
+AF422563	AF422563.1 GI:18389	486	unknown	uncultured	bacterium		u	n
+AF422565	AF422565.1 GI:18389	488	unknown	uncultured	bacterium		u	n
+AF422566	AF422566.1 GI:18389	470	unknown	uncultured	bacterium		u	n
+AF422567	AF422567.1 GI:18389	495	unknown	uncultured	bacterium		u	n
+AF422568	AF422568.1 GI:18389	527	unknown	uncultured	bacterium		u	n
+AF422569	AF422569.1 GI:18389	630	unknown	uncultured	bacterium		u	n
+AF422570	AF422570.1 GI:18389	850	unknown	uncultured	bacterium		u	n
+AF422572	AF422572.1 GI:18389	534	unknown	uncultured	bacterium		u	n
+AF422573	AF422573.1 GI:18389	604	unknown	uncultured	bacterium		u	n
+AF422574	AF422574.1 GI:18389	511	unknown	uncultured	bacterium		u	n
+AF422492	AF422492.1 GI:16974	616	unknown	uncultured	bacterium		u	n
+AF422498	AF422498.1 GI:16974	592	unknown	uncultured	bacterium		u	n
+AF422503	AF422503.1 GI:16974	544	unknown	uncultured	bacterium		u	n
+AF422508	AF422508.1 GI:16974	500	unknown	uncultured	bacterium		u	n
+AF422510	AF422510.1 GI:16974	555	unknown	uncultured	bacterium		u	n
+AF422513	AF422513.1 GI:16974	449	unknown	uncultured	bacterium		u	n
+AF422514	AF422514.1 GI:16974	333	unknown	uncultured	bacterium		u	n
+AF422518	AF422518.1 GI:16974	391	unknown	uncultured	bacterium		u	n
+AF422521	AF422521.1 GI:16974	357	unknown	uncultured	bacterium		u	n
+AF422522	AF422522.1 GI:16974	212	unknown	uncultured	bacterium		u	n
+AF422523	AF422523.1 GI:16974	614	unknown	uncultured	bacterium		u	n
+AF422525	AF422525.1 GI:16974	558	unknown	uncultured	bacterium		u	n
+AF422527	AF422527.1 GI:16974	549	unknown	uncultured	bacterium		u	n
+AF422530	AF422530.1 GI:18389	580	unknown	uncultured	bacterium		u	n
+AF422532	AF422532.1 GI:18389	389	unknown	uncultured	bacterium		u	n
+AF422538	AF422538.1 GI:18389	0	unknown	uncultured	bacterium		u	n
+AF422548	AF422548.1 GI:18389	556	unknown	uncultured	bacterium		u	n
+AF422550	AF422550.1 GI:18389	596	unknown	uncultured	bacterium		u	n
+AF422553	AF422553.1 GI:18389	423	unknown	uncultured	bacterium		u	n
+AF422555	AF422555.1 GI:18389	555	unknown	uncultured	bacterium		u	n
+AF422559	AF422559.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AF422564	AF422564.1 GI:18389	623	unknown	uncultured	bacterium		u	n
+AF422571	AF422571.1 GI:18389	484	unknown	uncultured	bacterium		u	n
+AF422575	AF422575.1 GI:18389	440	unknown	uncultured	bacterium		u	n
+AY033318	AY033318.1 GI:14334	377	unknown	uncultured	bacterium		u	n
+AF164144	g6090857	522	unknown	uncultured	bacterium		u	n
+AF164145	g6090858	315	unknown	uncultured	bacterium		u	n
+AF164146	g6090859	338	unknown	uncultured	bacterium		u	n
+AF164147	g6090860	606	unknown	uncultured	bacterium		u	n
+AF164148	g6090861	490	unknown	uncultured	bacterium		u	n
+AF164149	g6090862	327	unknown	uncultured	bacterium		u	n
+AF164150	g6090863	268	unknown	uncultured	bacterium		u	n
+AF124217	AF124217.1 GI:48870	313	unknown	uncultured	bacterium		u	n
+E07123	g2175273	218	unknown	unidentified	bacterium		u	n
+E07124	g2175274	208	unknown	unidentified	bacterium		u	n
+E07127	g2175277	217	unknown	unidentified	bacterium		u	n
+E07128	g2175278	217	unknown	unidentified	bacterium		u	n
+E07129	g2175279	214	unknown	unidentified	bacterium		u	n
+E07131	g2175281	220	unknown	unidentified	bacterium		u	n
+Y09791	g1743415	509	unknown	unidentified	bacterium		u	n
+Y09792	g1743416	509	unknown	unidentified	bacterium		u	n

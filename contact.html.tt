@@ -1,0 +1,16 @@
+<html>
+ <body>
+ <strong>ADAPT Contact Form Message</strong>
+ <p>
+   This was send by: [% name %]
+ </p>
+
+ <p>
+   The message for you is:
+ </p>
+
+ <p>
+   [% message %]
+ </p>
+ </body>
+ </html> 

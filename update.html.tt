@@ -1,0 +1,22 @@
+<html>
+ <body>
+ <strong>ADAPTdb Automatic update status report</strong> 
+ <p>
+   The update finished: [% time %]
+ </p>
+
+ <p>
+   The update has status: [% status %]
+ </p>
+
+ <p>
+   The log file can be found at:<br />
+   http://edwards.sdsu.edu/cgi-bin/[% version %]/[% logfile %]
+ </p>
+
+ <p>
+   Warnings:<br />
+   [% warnings %]
+ </p>
+ </body>
+</html> 

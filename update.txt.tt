@@ -1,0 +1,13 @@
+ADAPTdb Automatic update status report
+
+The update finished: [% time %]
+
+The update has status: [% status %]
+
+The log file can be found at:
+http://edwards.sdsu.edu/cgi-bin/[% version %]/[% logfile %]
+
+Warnings:
+[% warnings %]
+
+
